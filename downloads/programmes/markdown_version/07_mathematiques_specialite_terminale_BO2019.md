@@ -1,6 +1,6 @@
 # 07_mathematiques_specialite_terminale_BO2019
 
-> Source : `07_mathematiques_specialite_terminale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/07_mathematiques_specialite_terminale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

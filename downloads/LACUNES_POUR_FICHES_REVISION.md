@@ -1,6 +1,6 @@
-# Lacunes pour fiches de révision — état au 2026-05-20
+# Lacunes pour fiches de révision — état au 2026-05-21
 
-**Mise à jour :** éléments ajoutés dans `downloads/fiches/`, `syntheses/`, `ressources/`. **EPS déjà passée.**
+**Mise à jour :** éléments ajoutés dans `downloads/fiches/`, `syntheses/`, `ressources/`, **convocation**, **4 NS BO** (`notes_de_service/pdf_version/09`–`12`). **EPS déjà passée.**
 
 ---
 
@@ -14,6 +14,8 @@
 | **Synthèse philo notions/auteurs** | `syntheses/philo_notions_auteurs.md` |
 | **Liens entraînement** | `ressources/LIENS_ENTRAINEMENT.md` |
 | **EPS passée** | `fiches/14_eps.md` + checklist |
+| **Convocation anonymisée** | `convocation/Convocation_Epreuves_Anonymisee.md` |
+| **NS BO individuels, ES, EMC, EPS** | `notes_de_service/pdf_version/09`–`12` + `markdown_version/` |
 
 ---
 
@@ -30,15 +32,11 @@ Sans ces choix, les fiches **français** et **GO** restent des coques méthode.
 
 ---
 
-## 🟠 Documents officiels (lecture navigateur)
+## 🟠 Référence externe (non versionnée ici)
 
 | Document | Lien | Fiche associée |
 |----------|------|----------------|
-| NS ES ponctuelle | [MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N) | `02_es_ponctuelle.md` |
-| NS EMC ponctuelle | [MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N) | `03_emc_ponctuelle.md` |
-| Grilles LV détaillées | Eduscol /4764 | `06`, `04`, `07` |
-
-*Les PDF Eduscol « eds » téléchargés par erreur étaient des doublons spé abandonnée — supprimés.*
+| Grilles LV détaillées | [Eduscol /4764](https://eduscol.education.gouv.fr/4764/evaluation-et-positionnement-en-langues-vivantes) | `06`, `04`, `07` (PDF local : `grilles/pdf_version/04_grilles_lva_lvb_competences.pdf`) |
 
 ---
 
@@ -57,8 +55,8 @@ Voir `ressources/LIENS_ENTRAINEMENT.md`.
 | Matière | Fiche | Bloquant restant |
 |---------|-------|------------------|
 | HG | ✅ | Questions (A)/(B) détaillées dans BO — révision thèmes |
-| ES | ✅ | Détail NS BO (navigateur) |
-| EMC | ✅ | Détail NS BO (navigateur) |
+| ES | ✅ | Révision thèmes + sujets types |
+| EMC | ✅ | Liste domaines + préparation oral |
 | LV | ✅ | Axes candidat + grilles |
 | NSI | ✅ | Banque QCM |
 | Français | ✅ coque | **Œuvres + récap** |

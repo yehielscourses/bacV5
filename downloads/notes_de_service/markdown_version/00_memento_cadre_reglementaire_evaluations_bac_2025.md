@@ -1,6 +1,6 @@
 # 00_memento_cadre_reglementaire_evaluations_bac_2025
 
-> Source : `00_memento_cadre_reglementaire_evaluations_bac_2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/00_memento_cadre_reglementaire_evaluations_bac_2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

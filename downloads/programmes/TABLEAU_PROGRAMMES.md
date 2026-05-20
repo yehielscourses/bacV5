@@ -2,7 +2,7 @@
 
 **Source réglementaire vérifiée (navigateur, mai 2026) :** [Eduscol — candidats individuels](https://eduscol.education.gouv.fr/5694/candidats-individuels-au-baccalaureat-general-et-au-baccalaureat-technologique)
 
-**Convocation :** `/home/yehiel/Downloads/Convocation_Epreuves_Anonymisee.md` (v2, 05/05/2026)
+**Convocation :** [`../convocation/Convocation_Epreuves_Anonymisee.md`](../convocation/Convocation_Epreuves_Anonymisee.md) (v2, 05/05/2026)
 
 **Vérification Gemini (4 rounds, navigateur) :** `VERIFICATION_GEMINI.md` — [conversation](https://gemini.google.com/app/9572c6d756114c4c)
 
@@ -12,7 +12,7 @@
 
 **Fiches de révision :** `../fiches/README.md` — une fiche par épreuve + `00_checklist_candidat.md`.
 
-**Lacunes restantes :** `../LACUNES_POUR_FICHES_REVISION.md` — choix œuvres français, GO, axes LV ; BO ES/EMC en navigateur.
+**Lacunes restantes :** `../LACUNES_POUR_FICHES_REVISION.md` — choix œuvres français, GO, axes LV ; entraînement (sujets types).
 
 Le candidat individuel passe **deux familles distinctes** d’épreuves :
 - **Évaluations ponctuelles** = 40 % de la note (remplacent le contrôle continu scolaire)

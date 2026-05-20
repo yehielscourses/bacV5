@@ -2,7 +2,7 @@
 
 ## Barème officiel (BO 2026)
 
-[BO MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N) — fin de cycle :
+`../../notes_de_service/pdf_version/11_ns_ponctuelle_es_janvier2026.pdf` · [BO MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N) — fin de cycle :
 
 - 2 exercices interdisciplinaires  
 - **10 + 10 = /20**  

@@ -1,6 +1,6 @@
 # 02_ns_ponctuelle_specialite_abandonnee_1re_juin2025
 
-> Source : `02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

@@ -1,6 +1,6 @@
 # 06_physique-chimie_specialite_terminale_BO2019
 
-> Source : `06_physique-chimie_specialite_terminale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/06_physique-chimie_specialite_terminale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

@@ -1,6 +1,6 @@
 # 00b_enseignement-scientifique_premiere_generale_BO2019
 
-> Source : `00b_enseignement-scientifique_premiere_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/00b_enseignement-scientifique_premiere_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

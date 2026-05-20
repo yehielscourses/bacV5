@@ -13,8 +13,10 @@ Session **juin 2026** · candidat individuel · jury J60 Grenoble
 | NS ponctuelle HG (PDF) | https://eduscol.education.gouv.fr/sites/default/files/document/ndsevauations-ponctuelleshistoire-geovoies-g-et-tjuin-2025pdf-100587.pdf | HG |
 | NS ponctuelle LV (PDF) | https://eduscol.education.gouv.fr/sites/default/files/document/nds-evaluations-ponctuelleslva-et-lvbvoies-gtpdf-100590.pdf | LVA, LVB |
 | NS spé abandonnée / NSI (PDF) | `../notes_de_service/pdf_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` | NSI (QCM 42 Q) |
-| NS BO ES ponctuelle | https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N | ES (navigateur si Cloudflare) |
-| NS BO EMC ponctuelle | https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N | EMC |
+| NS BO ES ponctuelle (PDF) | `../notes_de_service/pdf_version/11_ns_ponctuelle_es_janvier2026.pdf` · [MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N) | ES |
+| NS BO EMC ponctuelle (PDF) | `../notes_de_service/pdf_version/10_ns_ponctuelle_emc_decembre2025.pdf` · [MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N) | EMC |
+| NS candidats individuels (PDF) | `../notes_de_service/pdf_version/09_ns_candidats_individuels_modalites_aout2025.pdf` · [MENE2523743N](https://www.education.gouv.fr/bo/2025/Hebdo32/MENE2523743N) | Cadre ponctuelles |
+| NS BO EPS (PDF) | `../notes_de_service/pdf_version/12_ns_eps_fevrier2026.pdf` · [MENE2531948N](https://www.education.gouv.fr/bo/2026/Hebdo9/MENE2531948N) | EPS (archive) |
 | Programme œuvres français 2025-26 | `programme_oeuvres_francais_2025-2026.md` | Français |
 
 **Contact académie :** dec.gt-bcg@ac-grenoble.fr — sujets types, banque NSI, consignes oraux locaux.

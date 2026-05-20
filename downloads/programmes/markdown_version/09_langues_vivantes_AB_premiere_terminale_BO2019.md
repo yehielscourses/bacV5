@@ -1,6 +1,6 @@
 # 09_langues_vivantes_AB_premiere_terminale_BO2019
 
-> Source : `09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

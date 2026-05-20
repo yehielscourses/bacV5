@@ -1,6 +1,6 @@
 # 06_ns_epreuve_finale_pc
 
-> Source : `06_ns_epreuve_finale_pc.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/06_ns_epreuve_finale_pc.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

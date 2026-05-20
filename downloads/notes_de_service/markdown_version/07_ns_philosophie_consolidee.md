@@ -1,6 +1,6 @@
 # 07_ns_philosophie_consolidee
 
-> Source : `07_ns_philosophie_consolidee.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/07_ns_philosophie_consolidee.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

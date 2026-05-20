@@ -125,8 +125,12 @@ Légende : **Ponct.** = évaluation ponctuelle (40 %, remplace le CC) · **Term.
 | `pdf_version/06_ns_epreuve_finale_pc.pdf` | Finale PC spé |
 | `pdf_version/07_ns_philosophie_consolidee.pdf` | Finale philo |
 | `pdf_version/08_ns_francais_anticipe_consolidee.pdf` | Anticipées français |
+| `pdf_version/09_ns_candidats_individuels_modalites_aout2025.pdf` | **MENE2523743N** — candidats individuels (BO n°32, 25/08/2025) |
+| `pdf_version/10_ns_ponctuelle_emc_decembre2025.pdf` | **MENE2531481N** — EMC ponctuelle (BO n°48, 12/2025) |
+| `pdf_version/11_ns_ponctuelle_es_janvier2026.pdf` | **MENE2534911N** — ES ponctuelle (BO n°3, 01/2026) |
+| `pdf_version/12_ns_eps_fevrier2026.pdf` | **MENE2531948N** — EPS (BO n°9, 02/2026) |
 
-**Liens BO uniquement (non téléchargés ici, listés sur /5694) :** NS 25/08/2025, EMC (12/2025), ES (01/2026), EPS (02/2026).
+*Téléchargement BO (mai 2026) : PDF « bulletin complet » via liens officiels education.gouv.fr (navigation navigateur + `curl` sur `sites/default/files/`).*
 
 ---
 
@@ -134,5 +138,5 @@ Légende : **Ponct.** = évaluation ponctuelle (40 %, remplace le CC) · **Term.
 
 1. **Aucune NS récente** ne impose de remplacer vos PDF programmes BO pour **juin 2026** (sauf suivre les NS de **format**, pas un nouveau BO maths avril 2026).
 2. Les NS **confirment** la typologie déjà retenue : ponctuelles (HG, ES, EMC, LV, NSI) vs finales (PC, maths, philo, GO) vs anticipées (français).
-3. **À télécharger / lire en plus** (navigateur BO) : NS **25/08/2025**, **EMC 12/2025**, **ES 01/2026**, **EPS 02/2026** — URLs ci-dessus.
+3. **NS BO 09–12** sont désormais en local (`pdf_version/` + `markdown_version/`).
 4. **Pas de second avis Gemini** sur ce volet : vérification faite **uniquement sur Eduscol + textes PDF NS** (évite le biais « confirmez nos fichiers »).

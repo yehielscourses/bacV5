@@ -38,7 +38,7 @@ Session **juin 2026** · candidat individuel J60.
 
 ## Sources BO (ponctuelles sans grille nationale)
 
-- ES : [MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N)
-- EMC : [MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N)
+- ES : `../notes_de_service/pdf_version/11_ns_ponctuelle_es_janvier2026.pdf` · [MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N)
+- EMC : `../notes_de_service/pdf_version/10_ns_ponctuelle_emc_decembre2025.pdf` · [MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N)
 
 Les liens `notes_de_service/pdf_version/` pointent vers les PDF de ce dossier.

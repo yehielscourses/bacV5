@@ -1,6 +1,6 @@
 # 00_histoire-geographie_premiere_generale_BO2019
 
-> Source : `00_histoire-geographie_premiere_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/00_histoire-geographie_premiere_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

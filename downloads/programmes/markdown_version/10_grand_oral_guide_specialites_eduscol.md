@@ -1,6 +1,6 @@
 # 10_grand_oral_guide_specialites_eduscol
 
-> Source : `10_grand_oral_guide_specialites_eduscol.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/10_grand_oral_guide_specialites_eduscol.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

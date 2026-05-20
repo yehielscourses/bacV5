@@ -1,6 +1,6 @@
 # 08_ns_francais_anticipe_consolidee
 
-> Source : `08_ns_francais_anticipe_consolidee.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/08_ns_francais_anticipe_consolidee.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

@@ -1,6 +1,6 @@
 # 08_nsi_specialite_premiere_BO2019
 
-> Source : `08_nsi_specialite_premiere_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/08_nsi_specialite_premiere_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

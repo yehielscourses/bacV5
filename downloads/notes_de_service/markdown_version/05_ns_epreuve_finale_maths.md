@@ -1,6 +1,6 @@
 # 05_ns_epreuve_finale_maths
 
-> Source : `05_ns_epreuve_finale_maths.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/05_ns_epreuve_finale_maths.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

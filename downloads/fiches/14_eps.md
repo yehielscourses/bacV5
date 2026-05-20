@@ -4,7 +4,7 @@
 |--|--|
 | **Statut** | **✅ Épreuve déjà passée** (non sur convocation mai–juin 2026) |
 | **Coeff.** | 6 (partie des 40 % ponctuelles) |
-| **NS** | [BO Hebdo9/2026 — MENE2531948N](https://www.education.gouv.fr/bo/2026/Hebdo9/MENE2531948N) |
+| **NS** | `../notes_de_service/pdf_version/12_ns_eps_fevrier2026.pdf` · [BO MENE2531948N](https://www.education.gouv.fr/bo/2026/Hebdo9/MENE2531948N) |
 
 ## Rappel
 

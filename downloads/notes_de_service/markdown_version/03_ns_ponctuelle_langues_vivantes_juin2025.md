@@ -1,6 +1,6 @@
 # 03_ns_ponctuelle_langues_vivantes_juin2025
 
-> Source : `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

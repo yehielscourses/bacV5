@@ -1,6 +1,6 @@
 # EPS — grilles et notation (évaluation ponctuelle)
 
-**Source :** `../pdf_version/11_eps.pdf` · [BO EPS 2026](https://www.education.gouv.fr/bo/2026/Hebdo9/MENE2531948N) (si mise à jour)
+**Source :** `../pdf_version/11_eps.pdf` (référentiel APSA) · NS BO : `../../notes_de_service/pdf_version/12_ns_eps_fevrier2026.pdf` · [MENE2531948N](https://www.education.gouv.fr/bo/2026/Hebdo9/MENE2531948N)
 
 ## Note finale
 

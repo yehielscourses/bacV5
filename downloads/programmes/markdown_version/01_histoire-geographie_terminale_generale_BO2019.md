@@ -1,6 +1,6 @@
 # 01_histoire-geographie_terminale_generale_BO2019
 
-> Source : `01_histoire-geographie_terminale_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/01_histoire-geographie_terminale_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

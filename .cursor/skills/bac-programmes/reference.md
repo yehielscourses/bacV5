@@ -1,6 +1,6 @@
 # Référence — candidat individuel Grenoble J60 (session 2026)
 
-Convocation : `/home/yehiel/Downloads/Convocation_Epreuves_Anonymisee.md` (v2, 05/05/2026).
+Convocation : `downloads/convocation/Convocation_Epreuves_Anonymisee.md` (v2, 05/05/2026).
 
 Vérifié sur [Eduscol /5694](https://eduscol.education.gouv.fr/5694/candidats-individuels-au-baccalaureat-general-et-au-baccalaureat-technologique) (navigateur, mai 2026).
 

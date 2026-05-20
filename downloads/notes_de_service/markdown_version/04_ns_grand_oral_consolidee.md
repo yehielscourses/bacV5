@@ -1,6 +1,6 @@
 # 04_ns_grand_oral_consolidee
 
-> Source : `04_ns_grand_oral_consolidee.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/04_ns_grand_oral_consolidee.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

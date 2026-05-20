@@ -1,6 +1,6 @@
 # 03_emc_cycle_terminal_BO2019
 
-> Source : `03_emc_cycle_terminal_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/03_emc_cycle_terminal_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

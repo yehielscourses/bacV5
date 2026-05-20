@@ -1,6 +1,6 @@
 # 02_enseignement-scientifique_terminale_generale_BO2023
 
-> Source : `02_enseignement-scientifique_terminale_generale_BO2023.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/02_enseignement-scientifique_terminale_generale_BO2023.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

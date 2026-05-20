@@ -1,6 +1,6 @@
 # 01_ns_ponctuelle_histoire-geographie_juin2025
 
-> Source : `01_ns_ponctuelle_histoire-geographie_juin2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/01_ns_ponctuelle_histoire-geographie_juin2025.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

@@ -1,6 +1,6 @@
 # 04_francais_premiere_generale_BO2019_modif2020
 
-> Source : `04_francais_premiere_generale_BO2019_modif2020.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/04_francais_premiere_generale_BO2019_modif2020.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

@@ -1,6 +1,6 @@
 # 11_grand_oral_reglement_epreuve_eduscol
 
-> Source : `11_grand_oral_reglement_epreuve_eduscol.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/11_grand_oral_reglement_epreuve_eduscol.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 

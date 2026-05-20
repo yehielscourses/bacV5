@@ -1,6 +1,6 @@
 # 05_philosophie_terminale_generale_BO2019
 
-> Source : `05_philosophie_terminale_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
+> Source : `../pdf_version/05_philosophie_terminale_generale_BO2019.pdf` — conversion textuelle fidèle du PDF (pdftotext -layout).
 
 ---
 
