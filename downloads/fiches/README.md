@@ -18,4 +18,4 @@
 | [13_eoc.md](13_eoc.md) | EOC (si éligible) | 09/07 |
 | [14_eps.md](14_eps.md) | EPS | ✅ passée |
 
-Synthèses : `../syntheses/` · Liens : `../ressources/LIENS_ENTRAINEMENT.md`
+Synthèses : `../syntheses/` · Liens : `../ressources/LIENS_ENTRAINEMENT.md` · **Grilles / notation :** `../grilles/`

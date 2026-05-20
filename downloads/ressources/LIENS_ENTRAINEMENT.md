@@ -2,6 +2,8 @@
 
 Session **juin 2026** · candidat individuel · jury J60 Grenoble
 
+**Grilles et barèmes (dossier local) :** [`../grilles/README.md`](../grilles/README.md) — PDF Eduscol + synthèses markdown par matière.
+
 | Ressource | URL | Matières |
 |-----------|-----|----------|
 | Candidats individuels | https://eduscol.education.gouv.fr/5694/candidats-individuels-au-baccalaureat-general-et-au-baccalaureat-technologique | Cadre, NS PDF ponctuelles |

@@ -22,4 +22,4 @@
 ## Entraînement
 
 - CO type (1m30, 3 écoutes)  
-- Grilles Eduscol : `../ressources/LIENS_ENTRAINEMENT.md`
+- Grilles : `../grilles/pdf_version/04_grilles_lva_lvb_competences.pdf` · synthèse `../grilles/markdown_version/04_05_06_07_langues_vivantes.md`

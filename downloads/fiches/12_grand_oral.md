@@ -23,7 +23,8 @@
 
 ## Grille (annexe 1 NS)
 
-- Qualité orale · argumentation · solidité des connaissances
+- Tableau complet : `../grilles/markdown_version/12_grand_oral.md`
+- PDF : `../grilles/pdf_version/08_grand_oral_finale.pdf`
 
 ## À remplir
 
