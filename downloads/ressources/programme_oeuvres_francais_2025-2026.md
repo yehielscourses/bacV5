@@ -49,4 +49,4 @@ Le candidat choisit **une œuvre + parcours** par objet d’étude (4 au total).
 ## Rappel NS (oral anticipé)
 
 - **Récapitulatif** : min. 4 textes par objet d’étude, 12+ textes au total + œuvre choisie pour partie 2  
-- Voir `fiches/09_francais.md` et NS `08_ns_francais_anticipe_consolidee.pdf`
+- Voir `fiches/09_francais.md` et NS `../notes_de_service/pdf_version/08_ns_francais_anticipe_consolidee.pdf`

@@ -22,7 +22,7 @@ Les **notes de service (NS)** ne remplacent en général **pas** les programmes 
 | Texte | Lien | Ce qu’elle modifie pour ce candidat |
 |-------|------|-----------------------------------|
 | **NS du 25 août 2025** — modalités d’évaluation CC → ponctuelles pour les **individuels** | [BO Hebdo32 — MENE2523743N](https://www.education.gouv.fr/bo/2025/Hebdo32/MENE2523743N) | Remplace le contrôle continu scolaire par des **évaluations ponctuelles** ; cadre d’inscription et d’organisation académique |
-| **Mémento sept. 2025** — cadre réglementaire bac | `00_memento_cadre_reglementaire_evaluations_bac_2025.pdf` (Eduscol /5706) | Rappel **40 %** (ponctuelles / moyennes) vs **60 %** (terminales) ; définition « candidat individuel » |
+| **Mémento sept. 2025** — cadre réglementaire bac | `pdf_version/00_memento_cadre_reglementaire_evaluations_bac_2025.pdf` (Eduscol /5706) | Rappel **40 %** (ponctuelles / moyennes) vs **60 %** (terminales) ; définition « candidat individuel » |
 
 **Choix confirmé (fin de cycle)** : les NS HG et LV (consolidées 2021, toujours en vigueur) prévoient une éval ponctuelle unique en fin de cycle → **coeff. 6** et programme **cycle 1re+T** (HG) ; aligné avec Eduscol /5694.
 
@@ -73,19 +73,19 @@ Légende : **Ponct.** = évaluation ponctuelle (40 %, remplace le CC) · **Term.
 
 | # | Créneau convocation | Note(s) de service | Fichier local NS | Modifie par rapport au seul BO |
 |---|---------------------|-------------------|------------------|--------------------------------|
-| 1 | HG écrite 2h (26/05) | NS consolidée HG (2021, en vigueur session 2022+) | `01_ns_ponctuelle_histoire-geographie_juin2025.pdf` | **Ponctuelle** 2h ; **coeff. 6** si fin de cycle ; sujet sur **programme cycle terminal** (1re+T) — pas épreuve terminale nationale |
+| 1 | HG écrite 2h (26/05) | NS consolidée HG (2021, en vigueur session 2022+) | `pdf_version/01_ns_ponctuelle_histoire-geographie_juin2025.pdf` | **Ponctuelle** 2h ; **coeff. 6** si fin de cycle ; sujet sur **programme cycle terminal** (1re+T) — pas épreuve terminale nationale |
 | 2 | ES écrite 2h (26/05) | NS EMC/ES ponctuelle ES (BO publié 2026) | [BO Hebdo3 — MENE2534911N](https://www.education.gouv.fr/bo/2026/Hebdo3/MENE2534911N) | Format ponctuelle ES ; programme = BO ES **22/06/2023** (déjà dans `00b` + `02`) |
 | 3 | EMC oral 1h (28/05) | NS ponctuelle EMC | [BO Hebdo48 — MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N) | **Oral** 1h ; EMC BO 2019 jusqu’à **2025-2026** (Eduscol /5787) — précise forme de l’éval ponctuelle |
-| 4 | LVB oral 20 min (29/05) | NS LV consolidée (2021+) + modificative grilles **12/2023** | `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Écrit **1h30** ; oral réglementaire souvent **10 min + 10 min prép.** — convocation **20 min** = créneau académique (souvent prép.+passation) → **grille académie** |
-| 5 | NSI écrite 2h (05/06) | NS spé **non poursuivie** en 1re (2021+, session 2023+) | `02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` | **Coeff. 8** ; **2h** ; programme **spé 1re** uniquement (pas finale 3h30) — confirme typologie |
-| 6–7 | LVA/LVB écrits 1h30 (03/06) | Idem NS LV | `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Format écrit 1h30 ; grilles nationales (modificative 2023) |
-| 8 | LVA oral 20 min (08/06) | Idem NS LV | `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Voir ligne LVB oral |
-| 9 | Français écrit 4h (11/06) | NS anticipées français consolidée (2020+) | `08_ns_francais_anticipe_consolidee.pdf` | Anticipée : programme **1re** + liste d’œuvres (renouvelée par NS) |
-| 10 | Philo écrite 4h (15/06) | NS philo consolidée (2020+) | `07_ns_philosophie_consolidee.pdf` | **Finale** 4h ; objectifs d’épreuve (dissertation / explication) |
-| 11 | Spé PC 3h30 (16/06) | NS PC consolidée + **MENE23232020N** (09/2023) | `06_ns_epreuve_finale_pc.pdf` | Finale spé ; **périmètre sujet** = programme T (notions 1re possibles) |
-| 12 | Spé Maths 4h (17/06) | NS maths consolidée + **MENE23232020N** (09/2023) | `05_ns_epreuve_finale_maths.pdf` | Idem |
-| 13 | Grand oral 40 min (22/06) | NS GO consolidée (2021, mod. **09/2023**) | `04_ns_grand_oral_consolidee.pdf` + guides `10`/`11` | **2 questions** sur **2 spé conservées** ; réglement : **20 min prép. + 10 min exposé + 10 min échange** (= **40 min** de convocation) |
-| 14 | Français oral 50 min (30/06) | NS anticipées français | `08_ns_francais_anticipe_consolidee.pdf` | Oral anticipé : exposé + entretien (durées dans NS) |
+| 4 | LVB oral 20 min (29/05) | NS LV consolidée (2021+) + modificative grilles **12/2023** | `pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Écrit **1h30** ; oral réglementaire souvent **10 min + 10 min prép.** — convocation **20 min** = créneau académique (souvent prép.+passation) → **grille académie** |
+| 5 | NSI écrite 2h (05/06) | NS spé **non poursuivie** en 1re (2021+, session 2023+) | `pdf_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` | **Coeff. 8** ; **2h** ; programme **spé 1re** uniquement (pas finale 3h30) — confirme typologie |
+| 6–7 | LVA/LVB écrits 1h30 (03/06) | Idem NS LV | `pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Format écrit 1h30 ; grilles nationales (modificative 2023) |
+| 8 | LVA oral 20 min (08/06) | Idem NS LV | `pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Voir ligne LVB oral |
+| 9 | Français écrit 4h (11/06) | NS anticipées français consolidée (2020+) | `pdf_version/08_ns_francais_anticipe_consolidee.pdf` | Anticipée : programme **1re** + liste d’œuvres (renouvelée par NS) |
+| 10 | Philo écrite 4h (15/06) | NS philo consolidée (2020+) | `pdf_version/07_ns_philosophie_consolidee.pdf` | **Finale** 4h ; objectifs d’épreuve (dissertation / explication) |
+| 11 | Spé PC 3h30 (16/06) | NS PC consolidée + **MENE23232020N** (09/2023) | `pdf_version/06_ns_epreuve_finale_pc.pdf` | Finale spé ; **périmètre sujet** = programme T (notions 1re possibles) |
+| 12 | Spé Maths 4h (17/06) | NS maths consolidée + **MENE23232020N** (09/2023) | `pdf_version/05_ns_epreuve_finale_maths.pdf` | Idem |
+| 13 | Grand oral 40 min (22/06) | NS GO consolidée (2021, mod. **09/2023**) | `pdf_version/04_ns_grand_oral_consolidee.pdf` + guides `10`/`11` | **2 questions** sur **2 spé conservées** ; réglement : **20 min prép. + 10 min exposé + 10 min échange** (= **40 min** de convocation) |
+| 14 | Français oral 50 min (30/06) | NS anticipées français | `pdf_version/08_ns_francais_anticipe_consolidee.pdf` | Oral anticipé : exposé + entretien (durées dans NS) |
 | 15 | EOC (09/07) | Règlement épreuves terminales + memento | Arrêté 22/07/2019 + pages /5706 | **2e groupe** / rattrapage — pas un nouveau programme |
 | — | **EPS** | **NS du 20 février 2026** — éval EPS bac G/T | [BO Hebdo9 — MENE2531948N](https://www.education.gouv.fr/bo/2026/Hebdo9/MENE2531948N) | **✅ Épreuve déjà passée** (coeff. 6) — absente de la convocation = normal |
 
@@ -116,15 +116,15 @@ Légende : **Ponct.** = évaluation ponctuelle (40 %, remplace le CC) · **Term.
 
 | Fichier | Contenu |
 |---------|---------|
-| `00_memento_cadre_reglementaire_evaluations_bac_2025.pdf` | Mémento national sept. 2025 |
-| `01_ns_ponctuelle_histoire-geographie_juin2025.pdf` | Ponctuelles HG |
-| `02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` | Ponctuelle NSI (spé 1re) |
-| `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Ponctuelles LVA/LVB |
-| `04_ns_grand_oral_consolidee.pdf` | Grand oral |
-| `05_ns_epreuve_finale_maths.pdf` | Finale maths spé |
-| `06_ns_epreuve_finale_pc.pdf` | Finale PC spé |
-| `07_ns_philosophie_consolidee.pdf` | Finale philo |
-| `08_ns_francais_anticipe_consolidee.pdf` | Anticipées français |
+| `pdf_version/00_memento_cadre_reglementaire_evaluations_bac_2025.pdf` | Mémento national sept. 2025 |
+| `pdf_version/01_ns_ponctuelle_histoire-geographie_juin2025.pdf` | Ponctuelles HG |
+| `pdf_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` | Ponctuelle NSI (spé 1re) |
+| `pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` | Ponctuelles LVA/LVB |
+| `pdf_version/04_ns_grand_oral_consolidee.pdf` | Grand oral |
+| `pdf_version/05_ns_epreuve_finale_maths.pdf` | Finale maths spé |
+| `pdf_version/06_ns_epreuve_finale_pc.pdf` | Finale PC spé |
+| `pdf_version/07_ns_philosophie_consolidee.pdf` | Finale philo |
+| `pdf_version/08_ns_francais_anticipe_consolidee.pdf` | Anticipées français |
 
 **Liens BO uniquement (non téléchargés ici, listés sur /5694) :** NS 25/08/2025, EMC (12/2025), ES (01/2026), EPS (02/2026).
 

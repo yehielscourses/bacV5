@@ -5,8 +5,8 @@
 | **Date** | 29/05/2026 · 09:30 · créneau 20 min |
 | **Coeff.** | 6 |
 | **Lieu** | Rectorat Grenoble |
-| **Programme** | `09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` |
-| **NS** | `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` |
+| **Programme** | `../programmes/pdf_version/09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` |
+| **NS** | `../notes_de_service/pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` |
 
 ## Format (2e temps fin de cycle)
 

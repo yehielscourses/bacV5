@@ -43,19 +43,19 @@ Un programme plus récent sur Eduscol peut être affiché en **« Publication »
 
 | Fichier local | BO / source | En vigueur session 2026 | Plus récent (ne pas utiliser en 2026) | À jour | Vérif. octets Eduscol |
 |---------------|-------------|-------------------------|----------------------------------------|--------|----------------------|
-| `00_histoire-geographie_premiere_generale_BO2019.pdf` | BO spécial n°1, 22/01/2019 | Oui (ponctuelle HG, fin cycle) | — | **OUI** | **MATCH** |
-| `01_histoire-geographie_terminale_generale_BO2019.pdf` | BO spécial n°8, 25/07/2019 | Oui | — | **OUI** | **MATCH** |
-| `00b_enseignement-scientifique_premiere_generale_BO2019.pdf` | BO n°25, 22/06/2023 | Oui (ponctuelle ES, fin cycle) | Maths intégré ES 1re → **BO 02/04/2026**, rentrée **2026-2027** | **OUI** | — |
-| `02_enseignement-scientifique_terminale_generale_BO2023.pdf` | BO n°25, 22/06/2023 (rentrée 2024) | Oui (ponctuelle + tronc commun T) | — | **OUI** | — |
-| `03_emc_cycle_terminal_BO2019.pdf` | BO 2019, jusqu’à **2025-2026** | Oui | — | **OUI** | — |
-| `04_francais_premiere_generale_BO2019_modif2020.pdf` | BO 2019 + modif. 2020 | Oui (anticipées) | — | **OUI** | — |
-| `05_philosophie_terminale_generale_BO2019.pdf` | BO 2019 | Oui | — | **OUI** | — |
-| `06_physique-chimie_specialite_terminale_BO2019.pdf` | BO 2019 | Oui (finale + GO) | — | **OUI** | — |
-| `07_mathematiques_specialite_terminale_BO2019.pdf` | BO 2019 | Oui (finale + GO) | Spé maths T → **BO 02/04/2026**, rentrée **2027-2028** | **OUI** | **MATCH** |
-| `08_nsi_specialite_premiere_BO2019.pdf` | BO 2019 | Oui (ponctuelle NSI) | — | **OUI** | **MATCH** |
-| `09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` | BO 2019 (cadre 1re–T) | Oui (4 ponctuelles LV) | — | **OUI** | — |
-| `10_grand_oral_guide_specialites_eduscol.pdf` | Guide Eduscol, **nov. 2023** | Oui (forme GO) | — | **OUI** | — |
-| `11_grand_oral_reglement_epreuve_eduscol.pdf` | NS 2020 / BO 2020 | Oui (règlement GO) | — | **OUI** | — |
+| `pdf_version/00_histoire-geographie_premiere_generale_BO2019.pdf` | BO spécial n°1, 22/01/2019 | Oui (ponctuelle HG, fin cycle) | — | **OUI** | **MATCH** |
+| `pdf_version/01_histoire-geographie_terminale_generale_BO2019.pdf` | BO spécial n°8, 25/07/2019 | Oui | — | **OUI** | **MATCH** |
+| `pdf_version/00b_enseignement-scientifique_premiere_generale_BO2019.pdf` | BO n°25, 22/06/2023 | Oui (ponctuelle ES, fin cycle) | Maths intégré ES 1re → **BO 02/04/2026**, rentrée **2026-2027** | **OUI** | — |
+| `pdf_version/02_enseignement-scientifique_terminale_generale_BO2023.pdf` | BO n°25, 22/06/2023 (rentrée 2024) | Oui (ponctuelle + tronc commun T) | — | **OUI** | — |
+| `pdf_version/03_emc_cycle_terminal_BO2019.pdf` | BO 2019, jusqu’à **2025-2026** | Oui | — | **OUI** | — |
+| `pdf_version/04_francais_premiere_generale_BO2019_modif2020.pdf` | BO 2019 + modif. 2020 | Oui (anticipées) | — | **OUI** | — |
+| `pdf_version/05_philosophie_terminale_generale_BO2019.pdf` | BO 2019 | Oui | — | **OUI** | — |
+| `pdf_version/06_physique-chimie_specialite_terminale_BO2019.pdf` | BO 2019 | Oui (finale + GO) | — | **OUI** | — |
+| `pdf_version/07_mathematiques_specialite_terminale_BO2019.pdf` | BO 2019 | Oui (finale + GO) | Spé maths T → **BO 02/04/2026**, rentrée **2027-2028** | **OUI** | **MATCH** |
+| `pdf_version/08_nsi_specialite_premiere_BO2019.pdf` | BO 2019 | Oui (ponctuelle NSI) | — | **OUI** | **MATCH** |
+| `pdf_version/09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` | BO 2019 (cadre 1re–T) | Oui (4 ponctuelles LV) | — | **OUI** | — |
+| `pdf_version/10_grand_oral_guide_specialites_eduscol.pdf` | Guide Eduscol, **nov. 2023** | Oui (forme GO) | — | **OUI** | — |
+| `pdf_version/11_grand_oral_reglement_epreuve_eduscol.pdf` | NS 2020 / BO 2020 | Oui (règlement GO) | — | **OUI** | — |
 
 **Synthèse : 13/13 PDF adaptés à la session juin 2026** (sous réserve du périmètre sujets zéro / académie pour les ponctuelles).
 
@@ -65,7 +65,7 @@ Un programme plus récent sur Eduscol peut être affiché en **« Publication »
 
 | Erreur | Bon référentiel |
 |--------|-----------------|
-| Réviser avec **maths spé terminale BO avril 2026** | `07_mathematiques_specialite_terminale_BO2019.pdf` |
+| Réviser avec **maths spé terminale BO avril 2026** | `pdf_version/07_mathematiques_specialite_terminale_BO2019.pdf` |
 | Réviser ES 1re avec **maths intégré BO avril 2026** | `00b_...` (ES 1re BO 22/06/2023) + module maths intégré **BO juillet 2022** (déjà en place en 2025-2026) |
 | Confondre « programme le plus récent sur Eduscol » et « programme de l’examen de juin 2026 » | Filtrer sur **Programmes en vigueur** + date de **rentrée** |
 | Utiliser des programmes **rentrée 2027-2028** pour des finales **juin 2026** | Ignorer la section « Publication des nouveaux programmes » pour ce candidat |

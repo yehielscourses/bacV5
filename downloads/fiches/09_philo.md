@@ -4,7 +4,7 @@
 |--|--|
 | **Date** | 15/06/2026 · 08:00 · **4 h** |
 | **Coeff.** | 8 |
-| **Programme** | `05_philosophie_terminale_generale_BO2019.pdf` |
+| **Programme** | `../programmes/pdf_version/05_philosophie_terminale_generale_BO2019.pdf` |
 | **Synthèse** | `../syntheses/philo_notions_auteurs.md` |
 
 ## Format

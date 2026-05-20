@@ -4,8 +4,8 @@
 |--|--|
 | **Date** | 16/06/2026 · 08:00 · **3 h 30** |
 | **Coeff.** | 16 |
-| **Programme** | `06_physique-chimie_specialite_terminale_BO2019.pdf` |
-| **NS** | `06_ns_epreuve_finale_pc.pdf` |
+| **Programme** | `../programmes/pdf_version/06_physique-chimie_specialite_terminale_BO2019.pdf` |
+| **NS** | `../notes_de_service/pdf_version/06_ns_epreuve_finale_pc.pdf` |
 
 ## Individuel : pas de TP
 

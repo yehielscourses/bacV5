@@ -1,6 +1,6 @@
 # Philosophie terminale — notions et auteurs
 
-Source : `05_philosophie_terminale_generale_BO2019.pdf` + NS `07_ns_philosophie_consolidee.pdf`
+Source : `../programmes/pdf_version/05_philosophie_terminale_generale_BO2019.pdf` + NS `../notes_de_service/pdf_version/07_ns_philosophie_consolidee.pdf`
 
 ## 17 notions (toutes à traiter dans l’année)
 

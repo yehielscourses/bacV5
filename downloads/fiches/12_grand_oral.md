@@ -4,8 +4,8 @@
 |--|--|
 | **Date** | 22/06/2026 · 13:30 · **40 min** (convocation) |
 | **Coeff.** | 10 |
-| **NS** | `04_ns_grand_oral_consolidee.pdf` |
-| **Guides** | `10_grand_oral_guide_specialites_eduscol.pdf` · `11_grand_oral_reglement_epreuve_eduscol.pdf` |
+| **NS** | `../notes_de_service/pdf_version/04_ns_grand_oral_consolidee.pdf` |
+| **Guides** | `../programmes/pdf_version/10_grand_oral_guide_specialites_eduscol.pdf` · `../programmes/pdf_version/11_grand_oral_reglement_epreuve_eduscol.pdf` |
 
 ## Déroulé (NS)
 

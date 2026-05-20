@@ -7,7 +7,7 @@
 | | |
 |--|--|
 | **Coeff.** | 6 chacun |
-| **NS** | `03_ns_ponctuelle_langues_vivantes_juin2025.pdf` |
+| **NS** | `../notes_de_service/pdf_version/03_ns_ponctuelle_langues_vivantes_juin2025.pdf` |
 
 ## Format (1er temps — écrit 1h30)
 

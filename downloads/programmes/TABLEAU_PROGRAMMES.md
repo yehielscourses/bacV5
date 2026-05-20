@@ -98,23 +98,23 @@ Détail complet (format, déroulé, documents, calculatrices) : [`../notes_de_se
 
 ---
 
-## Fichiers PDF (`downloads/programmes/`)
+## Fichiers PDF (`downloads/programmes/pdf_version/`) · Markdown (`markdown_version/`)
 
 | Fichier | Usage réel (après typologie) |
 |---------|------------------------------|
-| `00_histoire-geographie_premiere_generale_BO2019.pdf` | Ponctuelle HG (partie 1re, fin de cycle) — [Eduscol](https://eduscol.education.gouv.fr/sites/default/files/document/spe577annexe21062939pdf-83010.pdf) |
-| `00b_enseignement-scientifique_premiere_generale_BO2019.pdf` | Ponctuelle ES (partie 1re, fin de cycle) — BO n° 25 du 22/06/2023 |
-| `01_histoire-geographie_terminale_generale_BO2019.pdf` | Ponctuelle HG (partie T, fin de cycle) |
-| `02_enseignement-scientifique_terminale_generale_BO2023.pdf` | Ponctuelle ES (partie T, fin de cycle) — BO n° 25 du 22/06/2023 |
-| `03_emc_cycle_terminal_BO2019.pdf` | Ponctuelle EMC |
-| `04_francais_premiere_generale_BO2019_modif2020.pdf` | Anticipées français écrit + oral |
-| `05_philosophie_terminale_generale_BO2019.pdf` | Finale philo |
-| `06_physique-chimie_specialite_terminale_BO2019.pdf` | Finale PC + GO |
-| `07_mathematiques_specialite_terminale_BO2019.pdf` | Finale maths + GO |
-| `08_nsi_specialite_premiere_BO2019.pdf` | **Ponctuelle** NSI (spé abandonnée) |
-| `09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` | Ponctuelles LVA + LVB (4 créneaux) |
-| `10_grand_oral_guide_specialites_eduscol.pdf` | GO — forme |
-| `11_grand_oral_reglement_epreuve_eduscol.pdf` | GO — règlement |
+| `pdf_version/00_histoire-geographie_premiere_generale_BO2019.pdf` | Ponctuelle HG (partie 1re, fin de cycle) — [Eduscol](https://eduscol.education.gouv.fr/sites/default/files/document/spe577annexe21062939pdf-83010.pdf) |
+| `pdf_version/00b_enseignement-scientifique_premiere_generale_BO2019.pdf` | Ponctuelle ES (partie 1re, fin de cycle) — BO n° 25 du 22/06/2023 |
+| `pdf_version/01_histoire-geographie_terminale_generale_BO2019.pdf` | Ponctuelle HG (partie T, fin de cycle) |
+| `pdf_version/02_enseignement-scientifique_terminale_generale_BO2023.pdf` | Ponctuelle ES (partie T, fin de cycle) — BO n° 25 du 22/06/2023 |
+| `pdf_version/03_emc_cycle_terminal_BO2019.pdf` | Ponctuelle EMC |
+| `pdf_version/04_francais_premiere_generale_BO2019_modif2020.pdf` | Anticipées français écrit + oral |
+| `pdf_version/05_philosophie_terminale_generale_BO2019.pdf` | Finale philo |
+| `pdf_version/06_physique-chimie_specialite_terminale_BO2019.pdf` | Finale PC + GO |
+| `pdf_version/07_mathematiques_specialite_terminale_BO2019.pdf` | Finale maths + GO |
+| `pdf_version/08_nsi_specialite_premiere_BO2019.pdf` | **Ponctuelle** NSI (spé abandonnée) |
+| `pdf_version/09_langues_vivantes_AB_premiere_terminale_BO2019.pdf` | Ponctuelles LVA + LVB (4 créneaux) |
+| `pdf_version/10_grand_oral_guide_specialites_eduscol.pdf` | GO — forme |
+| `pdf_version/11_grand_oral_reglement_epreuve_eduscol.pdf` | GO — règlement |
 
 ---
 

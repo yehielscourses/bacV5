@@ -4,8 +4,8 @@
 |--|--|
 | **Date** | 17/06/2026 · 08:00 · **4 h** |
 | **Coeff.** | 16 |
-| **Programme** | `07_mathematiques_specialite_terminale_BO2019.pdf` |
-| **NS** | `05_ns_epreuve_finale_maths.pdf` |
+| **Programme** | `../programmes/pdf_version/07_mathematiques_specialite_terminale_BO2019.pdf` |
+| **NS** | `../notes_de_service/pdf_version/05_ns_epreuve_finale_maths.pdf` |
 
 ## Format
 

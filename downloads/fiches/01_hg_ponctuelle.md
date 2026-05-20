@@ -5,7 +5,7 @@
 | **Date** | 26/05/2026 · 10:00 · 2 h |
 | **Coeff.** | 6 (40 %) |
 | **Programme** | `00_histoire-geographie_premiere_...` + `01_histoire-geographie_terminale_...` |
-| **NS** | `01_ns_ponctuelle_histoire-geographie_juin2025.pdf` |
+| **NS** | `../notes_de_service/pdf_version/01_ns_ponctuelle_histoire-geographie_juin2025.pdf` |
 
 ## Format (fin de cycle — voie générale)
 

@@ -4,8 +4,8 @@
 |--|--|
 | **Date** | 05/06/2026 · 10:00 · 2 h |
 | **Coeff.** | 8 (40 %) |
-| **Programme** | `08_nsi_specialite_premiere_BO2019.pdf` |
-| **NS** | `02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` |
+| **Programme** | `../programmes/pdf_version/08_nsi_specialite_premiere_BO2019.pdf` |
+| **NS** | `../notes_de_service/pdf_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf` |
 | **Synthèse** | `../syntheses/nsi_7_rubriques.md` |
 
 ## Format

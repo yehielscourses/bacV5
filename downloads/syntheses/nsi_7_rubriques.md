@@ -1,6 +1,6 @@
 # NSI première — 7 rubriques (QCM ponctuelle)
 
-Source : BO `08_nsi_specialite_premiere_BO2019.pdf` + NS `02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf`  
+Source : BO `../programmes/pdf_version/08_nsi_specialite_premiere_BO2019.pdf` + NS `../notes_de_service/pdf_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.pdf`  
 **Épreuve :** 7 × 6 QCM = 42 questions · 2 h · coeff. 8 · calculatrice interdite
 
 | # | Rubrique programme | Contenus clés à réviser |

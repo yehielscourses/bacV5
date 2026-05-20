@@ -4,7 +4,7 @@
 |--|--|
 | **Date** | 28/05/2026 · 08:30 · 1 h · salle 303 |
 | **Coeff.** | 2 (40 %) |
-| **Programme** | `03_emc_cycle_terminal_BO2019.pdf` |
+| **Programme** | `../programmes/pdf_version/03_emc_cycle_terminal_BO2019.pdf` |
 | **NS** | [BO Hebdo48/2025 — MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N) |
 
 ## Thématique cycle terminal (BO)

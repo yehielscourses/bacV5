@@ -7,8 +7,8 @@
 | | |
 |--|--|
 | **Coeff.** | 5 + 5 (60 % — terminales) |
-| **Programme** | `04_francais_premiere_generale_BO2019_modif2020.pdf` |
-| **NS** | `08_ns_francais_anticipe_consolidee.pdf` |
+| **Programme** | `../programmes/pdf_version/04_francais_premiere_generale_BO2019_modif2020.pdf` |
+| **NS** | `../notes_de_service/pdf_version/08_ns_francais_anticipe_consolidee.pdf` |
 | **Œuvres 2025-26** | `../ressources/programme_oeuvres_francais_2025-2026.md` |
 
 ## Écrit (4h)

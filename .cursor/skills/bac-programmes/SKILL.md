@@ -84,7 +84,7 @@ Voir [reference.md](reference.md) et `downloads/programmes/TABLEAU_PROGRAMMES.md
 
 ## Téléchargement
 
-`downloads/programmes/` — `NN_matiere_niveau_BOannée.pdf` — numérotation continue.
+`downloads/programmes/pdf_version/` — `NN_matiere_niveau_BOannée.pdf` · texte : `markdown_version/` — numérotation continue.
 
 ## Sources
 
