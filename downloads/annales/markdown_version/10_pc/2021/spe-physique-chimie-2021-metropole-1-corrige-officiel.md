@@ -148,6 +148,12 @@ EXERCICE A : UN INDICATEUR COLORÉ NATUREL ISSU DU CHOU ROUGE (5 points)
 
                                                                                                                                                       Page : 3 / 5
 
+![Visuel 1 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-01.png)
+
+![Visuel 2 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-02.png)
+
+![Visuel 3 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-03.png)
+
 ---
 
 ## Page 4

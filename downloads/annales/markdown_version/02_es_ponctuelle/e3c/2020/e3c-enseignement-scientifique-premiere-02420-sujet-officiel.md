@@ -42,6 +42,8 @@
 Page 1 / 9
                                                                             G1CENSC02420
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -71,6 +73,10 @@ EXERCICE 1
 Page 2 / 9
                                                                G1CENSC02420
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-02-02.png)
+
 ---
 
 ## Page 3
@@ -98,6 +104,8 @@ D’après   https://www.ilephysique.net/img/forum_img/0258/forum_258713_1.jpg
 
 Page 3 / 9
                                                                    G1CENSC02420
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -133,6 +141,8 @@ Page 3 / 9
 
 Page 4 / 9
                                                                    G1CENSC02420
+
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -225,6 +235,8 @@ EXERCICE 2
 Page 6 / 9
                                                                 G1CENSC02420
 
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-06-01.jpeg)
+
 ---
 
 ## Page 7
@@ -285,6 +297,8 @@ Partie de cochlée
 Page 7 / 9
                                                                          G1CENSC02420
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-07-01.jpeg)
+
 ---
 
 ## Page 8
@@ -342,6 +356,8 @@ Document 3. Durées admissibles d’exposition quotidienne au bruit
 
 Page 8 / 9
                                                                          G1CENSC02420
+
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02420-sujet-officiel/img-08-01.png)
 
 ---
 

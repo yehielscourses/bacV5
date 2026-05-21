@@ -42,6 +42,8 @@
 Page 1 / 9
                                                                             G1CENSC02415
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -86,6 +88,8 @@ EXERCICE 1
 
 Page 2 / 9
                                                                        G1CENSC02415
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -202,6 +206,10 @@ Document 1. Informations sur la lumière émise par Véga et sur l’influence d
 Page 5 / 9
                                                               G1CENSC02415
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-05-01.jpeg)
+
+![Visuel 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-05-02.png)
+
 ---
 
 ## Page 6
@@ -233,6 +241,8 @@ Page 5 / 9
 
 Page 6 / 9
                                                                  G1CENSC02415
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-06-01.png)
 
 ---
 
@@ -266,6 +276,8 @@ ainsi le fonctionnement cellulaire : l’ATP (adénosine tri-phosphate).
 Page 7 / 9
                                                                          G1CENSC02415
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-07-01.png)
+
 ---
 
 ## Page 8
@@ -281,7 +293,7 @@ Figure 2 : la répartition de l’énergie dans un niveau de chaîne trophique.
 Page 8 / 9
                                                                                G1CENSC02415
 
-![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/page-08.png)
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-08-01.jpeg)
 
 ---
 
@@ -304,4 +316,4 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 9 / 9
                                                         G1CENSC02415
 
-![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/page-09.png)
+![Visuel 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02415-sujet-officiel/img-09-01.png)

@@ -214,6 +214,8 @@ On considère les points 𝐴 (5 ; 5 ; 0),
 
 24-MATJ1ME1                                                                          page 4 sur 6
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-04-01.jpeg)
+
 ---
 
 ## Page 5
@@ -316,3 +318,5 @@ On rappelle que ln(α) = 2(2 − 𝛼).
 
 
 24-MATJ1ME1                                                                            page 6 sur 6
+
+![Visuel 1 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-01.png)

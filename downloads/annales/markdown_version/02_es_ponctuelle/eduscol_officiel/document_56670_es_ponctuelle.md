@@ -41,6 +41,8 @@ Textes de référence
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – mars 2024                                                         1
 
+![Visuel 1 (page 1)](../../../assets/02_es_ponctuelle/eduscol_officiel/document_56670_es_ponctuelle/img-01-01.png)
+
 ---
 
 ## Page 2

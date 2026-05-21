@@ -41,6 +41,8 @@ de la partie pratique et en additionnant ces deux résultats.
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – août 2024                                                             1
 
+![Visuel 1 (page 1)](../../../assets/10_pc/eduscol_officiel/nds_pc_finale/img-01-01.png)
+
 ---
 
 ## Page 2

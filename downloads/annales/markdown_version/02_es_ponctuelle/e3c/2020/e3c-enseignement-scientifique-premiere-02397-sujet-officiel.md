@@ -41,6 +41,8 @@
 Page 1 / 7
                                                                             G1CENSC02397
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02397-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -70,6 +72,10 @@ EXERCICE 1
 
 Page 2 / 7
                                                                  G1CENSC02397
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02397-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02397-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -106,6 +112,8 @@ Page 2 / 7
 
 Page 3 / 7
                                                                    G1CENSC02397
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02397-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -170,6 +178,8 @@ Ainsi, si on considère qu’un échantillon de roche contenant à la fois du pl
 
 Page 5 / 7
                                                                G1CENSC02397
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02397-sujet-officiel/img-05-01.png)
 
 ---
 

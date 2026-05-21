@@ -44,6 +44,8 @@ Coefficient : 10
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – juin 2024                                                           1
 
+![Visuel 1 (page 1)](../../../assets/12_grand_oral/eduscol_officiel/nds_grand_oral/img-01-01.png)
+
 ---
 
 ## Page 2

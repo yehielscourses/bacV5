@@ -76,6 +76,8 @@ EXERCICE 1 (5 points)
 
 Corrigé Bac 2025 – Spécialité Mathématiques – Métropole – Jour 1             www.sujetdebac.fr
 
+![Visuel 1 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-corrige/img-02-01.png)
+
 ---
 
 ## Page 3

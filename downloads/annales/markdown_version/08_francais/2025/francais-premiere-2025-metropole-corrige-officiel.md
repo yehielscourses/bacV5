@@ -33,7 +33,19 @@ BACCALAURÉAT GÉNÉRAL
 
 25-FRGEME1C                            Page 1 sur 14
 
-![Page 1 — carte / document visuel](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-01.png)
+![Visuel 1 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-01.png)
+
+![Visuel 2 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-02.png)
+
+![Visuel 3 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-03.png)
+
+![Visuel 4 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-04.png)
+
+![Visuel 5 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-05.png)
+
+![Visuel 6 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-06.png)
+
+![Visuel 7 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-07.png)
 
 ---
 
@@ -62,6 +74,16 @@ insuffisances de la copie ?
 25-FRGEME1C                                                                                                    Page 2 sur 14
 
                                                          EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
+
+![Visuel 1 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-03.png)
+
+![Visuel 4 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-04.png)
+
+![Visuel 5 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-05.png)
 
 ---
 
@@ -136,6 +158,10 @@ plus ou moins bien maitrisées.
 25-FRGEME1C                                                                                                                           Page 3 sur 14
 
                                                            EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
+
+![Visuel 1 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-01.png)
+
+![Visuel 2 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-02.png)
 
 ---
 

@@ -33,7 +33,19 @@ BACCALAURÉAT GÉNÉRAL
 
 24-FRGEME1C                            Page 1 sur 13
 
-![Page 1 — carte / document visuel](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-01.png)
+![Visuel 1 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-01.png)
+
+![Visuel 2 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-02.png)
+
+![Visuel 3 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-03.png)
+
+![Visuel 4 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-04.png)
+
+![Visuel 5 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-05.png)
+
+![Visuel 6 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-06.png)
+
+![Visuel 7 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-07.png)
 
 ---
 
@@ -60,6 +72,20 @@ insuffisances de la copie ?
 
 
 24-FRGEME1C                                                                                   Page 2 sur 13
+
+![Visuel 1 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-03.png)
+
+![Visuel 4 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-04.png)
+
+![Visuel 5 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-05.png)
+
+![Visuel 6 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-06.png)
+
+![Visuel 7 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-07.png)
 
 ---
 

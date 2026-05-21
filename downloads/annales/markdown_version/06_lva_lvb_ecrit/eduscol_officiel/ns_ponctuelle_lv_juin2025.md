@@ -43,6 +43,8 @@ compter de la session 2021 de l’examen du baccalauréat.
 Note de service relative aux évaluations ponctuelles LVA et LVB_des voies G et T
 Version consolidée – juin 2025                                                          1
 
+![Visuel 1 (page 1)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/img-01-01.png)
+
 ---
 
 ## Page 2

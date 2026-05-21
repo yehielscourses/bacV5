@@ -42,6 +42,8 @@
 Page 1 / 4
                                                                             G1CHIGE02441
 
+![Visuel 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02441-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -91,6 +93,8 @@ Première partie : question problématisée (sur 10 points)
 
 Page 2 / 4
                                                                  G1CHIGE02441
+
+![Visuel 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02441-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -154,4 +158,4 @@ Document 2 : Le débarquement des ANZACS - corps d'armée australien et
 Page 4 / 4
                                                                 G1CHIGE02441
 
-![Page 4 — carte / document visuel](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02441-sujet-officiel/page-04.png)
+![Visuel 1 (page 4)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02441-sujet-officiel/img-04-01.jpeg)

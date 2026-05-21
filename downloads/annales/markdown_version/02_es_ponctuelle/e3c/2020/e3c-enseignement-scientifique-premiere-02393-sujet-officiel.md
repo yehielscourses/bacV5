@@ -41,6 +41,8 @@
 Page 1 / 9
                                                                             G1CENSC02393
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -78,6 +80,12 @@ EXERCICE 1
 
 Page 2 / 9
                                                                 G1CENSC02393
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-02-03.png)
 
 ---
 
@@ -161,6 +169,8 @@ Partie 2 : détermination de l’âge de la Terre
 Page 4 / 9
                                                                      G1CENSC02393
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -206,6 +216,8 @@ Page 4 / 9
 Page 5 / 9
                                                                 G1CENSC02393
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -235,6 +247,8 @@ disposée en cercle parfait. Dans la lune, en effet, la cavité est entourée de
 
 Page 6 / 9
                                                                  G1CENSC02393
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-06-01.png)
 
 ---
 
@@ -270,6 +284,8 @@ Document 2. Observations de Léonard de Vinci
 Page 7 / 9
                                                                   G1CENSC02393
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-07-01.png)
+
 ---
 
 ## Page 8
@@ -302,6 +318,8 @@ Document 3. Calendrier du premier semestre 2021
 
 Page 8 / 9
                                                                 G1CENSC02393
+
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-08-01.jpeg)
 
 ---
 

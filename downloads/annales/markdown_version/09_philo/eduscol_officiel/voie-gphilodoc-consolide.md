@@ -46,6 +46,8 @@ Il s’agit d’évaluer l’aptitude du candidat à :
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – mars 2024                                                          1
 
+![Visuel 1 (page 1)](../../../assets/09_philo/eduscol_officiel/voie-gphilodoc-consolide/img-01-01.png)
+
 ---
 
 ## Page 2

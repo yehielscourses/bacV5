@@ -42,6 +42,8 @@
 Page 1 / 9
                                                                             G1CENSC02408
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02408-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -79,6 +81,10 @@ EXERCICE 1
 
 Page 2 / 9
                                                                    G1CENSC02408
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02408-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02408-sujet-officiel/img-02-02.jpeg)
 
 ---
 
@@ -432,5 +438,3 @@ ANNEXE A RENDRE AVEC LA COPIE
 
 Page 9 / 9
                                                                  G1CENSC02408
-
-![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02408-sujet-officiel/page-09.png)

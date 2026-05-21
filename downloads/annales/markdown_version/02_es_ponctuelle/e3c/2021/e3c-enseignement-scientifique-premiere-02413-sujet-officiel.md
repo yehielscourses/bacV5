@@ -42,6 +42,8 @@
 Page 1 / 9
                                                                             G1CENSC02413
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -92,6 +94,8 @@ EXERCICE 1
 
 Page 2 / 9
                                                                             G1CENSC02413
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -159,6 +163,8 @@ Document.
 Page 4 / 9
                                                              G1CENSC02413
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-04-01.jpeg)
+
 ---
 
 ## Page 5
@@ -200,6 +206,8 @@ EXERCICE 2
 Page 5 / 9
                                                                     G1CENSC02413
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -222,7 +230,9 @@ Suite du document 1
 Page 6 / 9
                                                 G1CENSC02413
 
-![Page 6 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/page-06.png)
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -266,6 +276,8 @@ Partie 2 : tension et fréquence
 Page 7 / 9
                                                                     G1CENSC02413
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-07-01.png)
+
 ---
 
 ## Page 8
@@ -302,6 +314,8 @@ Document 2 :
 Page 8 / 9
                                                                      G1CENSC02413
 
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-08-01.png)
+
 ---
 
 ## Page 9
@@ -317,4 +331,4 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 9 / 9
                                                G1CENSC02413
 
-![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/page-09.png)
+![Visuel 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02413-sujet-officiel/img-09-01.png)

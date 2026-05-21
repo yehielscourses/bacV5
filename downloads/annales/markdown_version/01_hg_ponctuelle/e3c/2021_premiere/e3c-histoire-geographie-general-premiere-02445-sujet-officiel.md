@@ -42,6 +42,8 @@
 Page 1 / 4
                                                                             G1CHIGE02445
 
+![Visuel 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02445-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -68,6 +70,8 @@ Première partie : question problématisée (sur 10 points)
 Page 2 / 4
                                                                G1CHIGE02445
 
+![Visuel 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02445-sujet-officiel/img-02-01.jpeg)
+
 ---
 
 ## Page 3
@@ -87,7 +91,7 @@ Document : La Baïonnette. Journal satirique (à destination des soldats du fron
 Page 3 / 4
                                                                      G1CHIGE02445
 
-![Page 3 — carte / document visuel](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02445-sujet-officiel/page-03.png)
+![Visuel 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02445-sujet-officiel/img-03-01.png)
 
 ---
 

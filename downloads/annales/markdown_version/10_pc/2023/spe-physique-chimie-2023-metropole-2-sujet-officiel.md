@@ -101,6 +101,10 @@ Q3. Déterminer la quantité de matière initiale n0 d’acide ascorbique introd
 
 23-PYCJ2ME1                                                                                             Page 2/9
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-02-02.jpeg)
+
 ---
 
 ## Page 3
@@ -307,6 +311,14 @@ du crapaud suivant les axes Ox et Oz.
 
 23-PYCJ2ME1                                                                                            Page 5/9
 
+![Visuel 1 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-01.jpeg)
+
+![Visuel 2 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-02.png)
+
+![Visuel 3 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-03.png)
+
+![Visuel 4 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-04.png)
+
 ---
 
 ## Page 6
@@ -490,6 +502,8 @@ La démarche est évaluée et doit être correctement présentée.
 
 
 23-PYCJ2ME1                                                                                                  Page 8/9
+
+![Visuel 1 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-08-01.jpeg)
 
 ---
 

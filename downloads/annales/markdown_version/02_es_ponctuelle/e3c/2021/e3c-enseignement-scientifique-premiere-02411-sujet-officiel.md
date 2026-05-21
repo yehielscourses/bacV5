@@ -41,6 +41,8 @@ Page 1 / 9
 
                                                                             G1CENSC02411
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -84,6 +86,10 @@ Page 2 / 9
 
                                                                                   G1CENSC02411
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/img-02-02.png)
+
 ---
 
 ## Page 3
@@ -116,6 +122,8 @@ Page 3 / 9
 
 
                                                                             G1CENSC02411
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -187,6 +195,8 @@ Page 5 / 9
 
                                                                  G1CENSC02411
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -248,7 +258,7 @@ Page 7 / 9
 
                                                                   G1CENSC02411
 
-![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/page-07.png)
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02411-sujet-officiel/img-07-01.png)
 
 ---
 

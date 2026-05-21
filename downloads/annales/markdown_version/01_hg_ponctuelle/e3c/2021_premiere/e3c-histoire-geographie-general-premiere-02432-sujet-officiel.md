@@ -42,6 +42,8 @@
 Page 1 / 3
                                                                             G1CHIGE02432
 
+![Visuel 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02432-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -93,6 +95,8 @@ Première partie : question problématisée (sur 10 points)
 Page 2 / 3
                                                                    G1CHIGE02432
 
+![Visuel 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02432-sujet-officiel/img-02-01.jpeg)
+
 ---
 
 ## Page 3
@@ -130,3 +134,5 @@ demande si le spectacle de ce peuple, calme, tranquille, qui n’attend avec cet
 
 Page 3 / 3
                                                                  G1CHIGE02432
+
+![Visuel 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02432-sujet-officiel/img-03-01.png)

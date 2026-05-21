@@ -41,6 +41,8 @@
 Page 1 / 9
                                                                             G1CENSC02394
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -70,6 +72,10 @@ EXERCICE 1
 
 Page 2 / 9
                                                                  G1CENSC02394
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -105,6 +111,8 @@ Page 2 / 9
 
 Page 3 / 9
                                                                    G1CENSC02394
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -170,6 +178,8 @@ Ainsi, si on considère qu’un échantillon de roche contenant à la fois du pl
 Page 5 / 9
                                                                G1CENSC02394
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -196,7 +206,7 @@ EXERCICE 2
 Page 6 / 9
                                                                    G1CENSC02394
 
-![Page 6 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/page-06.png)
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-06-01.png)
 
 ---
 
@@ -240,6 +250,8 @@ Document 2 : représentation de la Terre pour l’étude du trajet en passant pa
 Page 7 / 9
                                                                 G1CENSC02394
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-07-01.png)
+
 ---
 
 ## Page 8
@@ -282,4 +294,4 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 9 / 9
                                                    G1CENSC02394
 
-![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/page-09.png)
+![Visuel 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02394-sujet-officiel/img-09-01.png)

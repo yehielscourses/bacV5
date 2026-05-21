@@ -26,15 +26,14 @@ Les annales ne sont pas que du texte :
 - **Ignorés** : bandeau « Évaluations communes » répété sur chaque page E3C (même fichier sur toutes les pages).
 - **Extrait** : photos, cartes, graphiques (surface > ~6 % de la page, pas un simple logo).
 
-### 3. Reproduction pleine page — cas limités
+### 3. Pas de capture pleine page
 
-Un `page-PP.png` **uniquement** si :
+- **Aucun** `page-PP.png` : le texte reste en Markdown (`pdftotext`).
+- **Uniquement** des fichiers `img-PP-NN.png` (ou `.jpeg`) pour photos, cartes, schémas, graphiques.
+- Images embarquées (xref ou inline) ; sinon rendu **de la bbox** du visuel (pas de la page entière).
+- Bandeaux E3C ignorés ; doublons dédupliqués (hash MD5).
 
-- le texte parle d’une **carte / croquis / photographie / graphique** (pas le mot « Document 1 » dans un sujet HG) ;
-- ou la page est **très visuelle** (peu de texte, grande image) ;
-- **pas** si la page est surtout un **texte à lire** (> ~900 caractères) : ex. suite de l’appel du 18 juin → texte Markdown seul, pas de capture inutile.
-
-Les pages coupées au milieu d’un document (ex. page 3 du sujet 05574) sont signalées : *(Suite de la page précédente)*.
+Les pages coupées au milieu d’un document sont signalées : *(Suite de la page précédente)*.
 
 ### 4. Ce qui n’est pas reproductible en MD
 
@@ -49,8 +48,8 @@ downloads/annales/
 ├── markdown_version/     # un .md par PDF
 ├── assets/               # images par sujet : assets/<chemin-sans-.pdf>/
 │   └── 01_hg_ponctuelle/e3c/2021/foo/
-│       ├── page-01.png
-│       └── img-001.jpeg
+│       ├── img-04-01.jpeg
+│       └── img-08-02.png
 └── (README, vérification, liens EMC/oral inchangés)
 ```
 
@@ -58,7 +57,7 @@ Chemin relatif dans le `.md` : `../pdf_version/...` et `../assets/...`.
 
 ### 6. Taille dépôt
 
-- Pas de rendu systématique des 186 × toutes les pages : uniquement pages « visuelles » (règle ci-dessus).
+- Pas de rendu pleine page : uniquement les zones visuelles extraites.
 - Images embarquées : format natif, pas de sur-échantillonnage.
 
 ## Commande

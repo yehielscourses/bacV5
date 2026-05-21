@@ -38,6 +38,8 @@
 Page 1 / 7
                                                                             GTCENSC05472
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -80,6 +82,14 @@ Exercice 1 - Population de la France métropolitaine de 1946
 
 Page 2 / 7
                                                                       GTCENSC05472
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-03.png)
+
+![Visuel 4 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-04.png)
 
 ---
 
@@ -174,6 +184,10 @@ Exercice 2 - Réchauffement climatique et pêche au
 Page 4 / 7
                                                                     GTCENSC05472
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-04-01.jpeg)
+
+![Visuel 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-04-02.png)
+
 ---
 
 ## Page 5
@@ -214,6 +228,10 @@ Seule la couche superficielle (de hauteur H = 300 à 500 m sur le schéma) est
 
 Page 5 / 7
                                                                                       GTCENSC05472
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-05-01.jpeg)
+
+![Visuel 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-05-02.png)
 
 ---
 
@@ -281,3 +299,9 @@ Document 3 : carte des terres émergées du littoral de Charente-Maritime en fon
 
 Page 7 / 7
                                                              GTCENSC05472
+
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-01.jpeg)
+
+![Visuel 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-02.jpeg)
+
+![Visuel 3 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-03.jpeg)

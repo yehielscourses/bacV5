@@ -38,6 +38,8 @@
 Page 1 / 9
                                                                             GTCENSC05479
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -78,6 +80,12 @@ Exercice 1 - Des sphères géantes immergées sous
 
 Page 2 / 9
                                                                     GTCENSC05479
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-02-03.png)
 
 ---
 
@@ -122,6 +130,10 @@ Paramètre                             Valeur
 
 Page 3 / 9
                                                                   GTCENSC05479
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-03-01.png)
+
+![Visuel 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -366,4 +378,4 @@ Annexe
 Page 9 / 9
                                                 GTCENSC05479
 
-![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/page-09.png)
+![Visuel 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05479-sujet-officiel/img-09-01.png)

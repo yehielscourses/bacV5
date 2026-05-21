@@ -38,6 +38,8 @@
 Page 1 / 7
                                                                             GTCENSC05468
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05468-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -88,6 +90,8 @@ Exercice 1 - Inégalités des émissions de CO2 au
 Page 2 / 7
                                                                 GTCENSC05468
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05468-sujet-officiel/img-02-01.png)
+
 ---
 
 ## Page 3
@@ -131,6 +135,8 @@ Page 2 / 7
 Page 3 / 7
                                                                        GTCENSC05468
 
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05468-sujet-officiel/img-03-01.png)
+
 ---
 
 ## Page 4
@@ -165,6 +171,8 @@ Document 3 : vulnérabilité au changement climatique.
 
 Page 4 / 7
                                                                          GTCENSC05468
+
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05468-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -249,6 +257,10 @@ Document 2 : effet de la température hivernale sur la densité de
 
 Page 6 / 7
                                                                   GTCENSC05468
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05468-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05468-sujet-officiel/img-06-02.png)
 
 ---
 

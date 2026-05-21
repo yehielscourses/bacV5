@@ -38,6 +38,8 @@
 Page 1 / 7
                                                                             GTCENSC05471
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -71,6 +73,10 @@ Exercice 1 - La lutte contre un ravageur des cultures
 
 Page 2 / 7
                                                                  GTCENSC05471
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -155,6 +161,8 @@ Document 2 : utilisation du pesticide chlorpyriphos et mortalité de l’aleurod
 Page 4 / 7
                                                                                   GTCENSC05471
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -193,6 +201,8 @@ Exercice 2 - L’Agrivoltaïsme
 Page 5 / 7
                                                                    GTCENSC05471
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -227,6 +237,8 @@ Document 2 : courbes représentatives types de l’intensité I en fonction de l
 
 Page 6 / 7
                                                                   GTCENSC05471
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-01.png)
 
 ---
 

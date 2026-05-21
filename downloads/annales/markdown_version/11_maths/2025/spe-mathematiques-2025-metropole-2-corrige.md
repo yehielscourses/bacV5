@@ -58,6 +58,8 @@ D’après la calculatrice, 𝑃(𝑋 ≤ 19) ≈ 0,145.
 Donc, 𝑃(𝑋 ≥ 20) ≈ 1 − 0,145 𝑃(𝑋 ≥ 20) ≈ 0,855.
 La probabilité pour qu’au moins 20 personnes ne tombent à aucune des deux séances est d’environ 0,855.
 
+![Visuel 1 (page 1)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-corrige/img-01-01.png)
+
 ---
 
 ## Page 2

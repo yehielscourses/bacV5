@@ -42,6 +42,8 @@
 Page 1 / 8
                                                                             G1CENSC02405
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -77,6 +79,10 @@ EXERCICE 1
 Page 2 / 8
                                                                G1CENSC02405
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/img-02-02.png)
+
 ---
 
 ## Page 3
@@ -111,6 +117,8 @@ Figure 1b : modèle du spectre d’émission du soleil.
 
 Page 3 / 8
                                                                 G1CENSC02405
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -265,7 +273,7 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 7 / 8
                                                      G1CENSC02405
 
-![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/page-07.png)
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/img-07-01.png)
 
 ---
 
@@ -285,4 +293,4 @@ Question 4
 Page 8 / 8
                                        G1CENSC02405
 
-![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/page-08.png)
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02405-sujet-officiel/img-08-01.png)

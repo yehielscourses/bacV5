@@ -199,6 +199,8 @@ Q6. En début de titrage, on se place à pH = 9, 75 > pKa. La vanilline se trouv
 
                                                                                  Page 4 sur 10
 
+![Visuel 1 (page 4)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -487,5 +489,3 @@ Annexe : schéma de l’exercice 1
 
 
                                                                                   Page 10 sur 10
-
-![Page 10 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-10.png)

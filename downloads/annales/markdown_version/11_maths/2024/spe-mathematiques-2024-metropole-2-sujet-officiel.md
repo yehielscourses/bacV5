@@ -217,6 +217,8 @@ ln désigne la fonction logarithme népérien.
 
 24-MATJ2ME2                                                                 page 4 sur 6
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -270,6 +272,8 @@ sur ]−2 ; +∞[ par ℎ(𝑥) = 𝐽𝑀2 .                                   
 
 
 24-MATJ2ME2                                                                     page 5 sur 6
+
+![Visuel 1 (page 5)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-05-01.png)
 
 ---
 

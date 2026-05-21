@@ -41,6 +41,8 @@ mobilisées dans le cadre de l’épreuve. Elle est destinée à évaluer égale
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – août 2024                                                          1
 
+![Visuel 1 (page 1)](../../../assets/11_maths/eduscol_officiel/nds_maths_finale/img-01-01.png)
+
 ---
 
 ## Page 2

@@ -38,6 +38,8 @@
 Page 1 / 7
                                                                             GTCENSC05474
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05474-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -85,6 +87,8 @@ Exercice 1 - La solution hydrogène
 
 Page 2 / 7
                                                                  GTCENSC05474
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05474-sujet-officiel/img-02-01.png)
 
 ---
 
@@ -244,7 +248,7 @@ Document 3 : échantillonnage d’une population de moustiques dans la région
 Page 6 / 7
                                                                    GTCENSC05474
 
-![Page 6 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05474-sujet-officiel/page-06.png)
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05474-sujet-officiel/img-06-01.png)
 
 ---
 

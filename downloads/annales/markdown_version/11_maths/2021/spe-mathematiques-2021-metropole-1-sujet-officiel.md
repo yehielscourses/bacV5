@@ -188,6 +188,8 @@ a. 𝑦 + 𝑧 − 1 = 0                  b. 𝑥 + 𝑦 + 𝑧 − 1 = 0       
 
                                                                                                                    Page 4 / 6
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-1-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -243,6 +245,8 @@ b. En déduire que, pour tout entier naturel 𝑛, on a : 𝑢𝑛 = ( ) + 𝑛 
 
 
                                                                                                   Page 5 / 6
+
+![Visuel 1 (page 5)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-1-sujet-officiel/img-05-01.png)
 
 ---
 

@@ -38,6 +38,8 @@
 Page 1 / 8
                                                                             GTCENSC05465
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -66,6 +68,10 @@ Exercice 1- L’histoire du dioxygène terrestre
 
 Page 2 / 8
                                                                GTCENSC05465
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -150,6 +156,8 @@ Page 3 / 8
 Page 4 / 8
                                                                 GTCENSC05465
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -169,8 +177,6 @@ Page 4 / 8
 
 Page 5 / 8
                                                                GTCENSC05465
-
-![Page 5 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-05.png)
 
 ---
 
@@ -220,6 +226,8 @@ Exercice 2- Un service de streaming musical
 
 Page 6 / 8
                                                                        GTCENSC05465
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-06-01.png)
 
 ---
 
@@ -290,5 +298,3 @@ Un nouvel utilisateur est présenté à l’IA. L’IA qualifie ce nouvel utilis
 
 Page 8 / 8
                                                                   GTCENSC05465
-
-![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-08.png)

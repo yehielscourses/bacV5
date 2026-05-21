@@ -44,8 +44,6 @@ BACCALAURÉAT GÉNÉRAL
 
 24-PYCJ1ME1                                                                         Page 1/12
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/page-01.png)
-
 ---
 
 ## Page 2
@@ -117,6 +115,20 @@ figure 2.
 
 24-PYCJ1ME1                                                                                                   Page 2/12
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-02.jpeg)
+
+![Visuel 3 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-03.png)
+
+![Visuel 4 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-04.png)
+
+![Visuel 5 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-05.png)
+
+![Visuel 6 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-06.png)
+
+![Visuel 7 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-02-07.jpeg)
+
 ---
 
 ## Page 3
@@ -176,6 +188,12 @@ rend complexe l’obtention sélective du thymol.
 
 
 24-PYCJ1ME1                                                                                                Page 3/12
+
+![Visuel 1 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-03-01.jpeg)
+
+![Visuel 2 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-03-02.png)
+
+![Visuel 3 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-03-03.png)
 
 ---
 
@@ -308,6 +326,8 @@ concentration 0,100 mol·L–1 par une solution de base forte (hydroxyde de sodi
 
 24-PYCJ1ME1                                                                                                     Page 5/12
 
+![Visuel 1 (page 5)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -357,6 +377,14 @@ est estimée à u(pKA) = 0,2.
 
 
 24-PYCJ1ME1                                                                                               Page 6/12
+
+![Visuel 1 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-06-01.jpeg)
+
+![Visuel 2 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-06-02.png)
+
+![Visuel 3 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-06-03.jpeg)
+
+![Visuel 4 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-06-04.jpeg)
 
 ---
 
@@ -534,6 +562,8 @@ expression : EM = m·g·h.
 
 24-PYCJ1ME1                                                                                               Page 9/12
 
+![Visuel 1 (page 9)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-09-01.jpeg)
+
 ---
 
 ## Page 10
@@ -681,8 +711,6 @@ smartphone et commenter.
 Page blanche laissée intentionnellement.
         Ne rien inscrire dessus.
 
-![Page 12 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/page-12.png)
-
 ---
 
 ## Page 13
@@ -714,10 +742,10 @@ ANNEXE À RENDRE AVEC LA COPIE
 
 24-PYCJ1ME1                                              Page 12/12
 
-![Page 13 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/page-13.png)
+![Visuel 1 (page 13)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-13-01.png)
 
 ---
 
 ## Page 14
 
-![Page 14 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/page-14.png)
+![Visuel 1 (page 14)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-sujet-officiel/img-14-01.png)

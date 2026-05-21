@@ -41,6 +41,8 @@
 Page 1 / 10
                                                                             G1CENSC02398
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -78,6 +80,12 @@ EXERCICE 1
 
 Page 2 / 10
                                                                  G1CENSC02398
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-02-03.png)
 
 ---
 
@@ -305,13 +313,13 @@ Document 3. Composition simplifiée des principales enveloppes terrestres
 Page 7 / 10
                                                                     G1CENSC02398
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-07-01.png)
+
 ---
 
 ## Page 8
 
 G1CENSC02398
-
-![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-08.png)
 
 ---
 
@@ -335,7 +343,9 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 9 / 10
                                                             G1CENSC02398
 
-![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-09.png)
+![Visuel 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-09-01.png)
+
+![Visuel 2 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-09-02.png)
 
 ---
 
@@ -358,3 +368,5 @@ Dans la première ligne du tableau chaque point représente un très grand nombr
 
 Page 10 / 10
                                                              G1CENSC02398
+
+![Visuel 1 (page 10)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-10-01.jpeg)

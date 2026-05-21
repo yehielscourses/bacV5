@@ -279,6 +279,8 @@ Sur la figure (Fig. 2) ci-dessous, on a tracé dans un repère orthonormé :
 
                                             EducN_MMDQ0Mj5UyMjAayMT9M2MtjAyNj9A1MjEHwMzcE4MJzAg
 
+![Visuel 1 (page 5)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -338,6 +340,8 @@ On admet que :
 
 
                                              EducN_MMDQ0Mj5UyMjAayMT9M2MtjAyNj9A1MjEHwMzcE4MJzAg
+
+![Visuel 1 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-01.jpeg)
 
 ---
 

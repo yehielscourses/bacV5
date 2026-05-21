@@ -38,6 +38,8 @@
 Page 1 / 9
                                                                             GTCENSC05478
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -71,6 +73,12 @@ Exercice 1 - Effondrement des montagnes, biodiversité
 
 Page 2 / 9
                                                                                  GTCENSC05478
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-02-03.png)
 
 ---
 
@@ -111,6 +119,8 @@ Document 1 : la renoncule des glaciers de la Meije
 Page 3 / 9
                                                                        GTCENSC05478
 
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-03-01.png)
+
 ---
 
 ## Page 4
@@ -148,6 +158,8 @@ Document 3 : températures du Glacier Carré du 15 juillet 2015 au 1er
 
 Page 4 / 9
                                                                           GTCENSC05478
+
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -222,6 +234,10 @@ Exercice 2 - Le crapaud sonneur à ventre jaune
 Page 6 / 9
                                                                  GTCENSC05478
 
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-06-02.png)
+
 ---
 
 ## Page 7
@@ -254,6 +270,8 @@ Document 2 : le crapaud sonneur à ventre jaune, une espèce suivie.
 
 Page 7 / 9
                                                                 GTCENSC05478
+
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05478-sujet-officiel/img-07-01.png)
 
 ---
 

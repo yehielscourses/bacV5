@@ -38,6 +38,8 @@
 Page 1 / 6
                                                                             GTCENSC05469
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -72,6 +74,10 @@ Exercice 1 - L’empreinte carbone des appareils
 
 Page 2 / 6
                                                                          GTCENSC05469
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -118,6 +124,8 @@ Page 2 / 6
 
 Page 3 / 6
                                                                             GTCENSC05469
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -213,6 +221,10 @@ Partie B - Comparaison des énergies éolienne et nucléaire
 Page 5 / 6
                                                                 GTCENSC05469
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-05-01.jpeg)
+
+![Visuel 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-05-02.png)
+
 ---
 
 ## Page 6
@@ -246,3 +258,5 @@ Page 5 / 6
 
 Page 6 / 6
                                                              GTCENSC05469
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05469-sujet-officiel/img-06-01.png)

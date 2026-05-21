@@ -60,6 +60,8 @@ Exercice 1 (5 points)
 
                                                             1
 
+![Visuel 1 (page 1)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/img-01-01.png)
+
 ---
 
 ## Page 2

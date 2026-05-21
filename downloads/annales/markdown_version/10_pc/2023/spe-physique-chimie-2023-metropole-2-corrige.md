@@ -77,6 +77,8 @@ Q5. On cherche à montrer que l’acide ascorbique est un acide faible. Pour cel
 
                                                                                       Page 2 sur 7
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-corrige/img-02-01.png)
+
 ---
 
 ## Page 3

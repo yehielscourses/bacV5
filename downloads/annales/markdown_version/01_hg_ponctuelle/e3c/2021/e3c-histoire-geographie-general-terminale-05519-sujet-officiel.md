@@ -44,6 +44,8 @@
 Page 1 / 3
                                                                             GTCHIGE05519
 
+![Visuel 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05519-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -90,6 +92,8 @@ Première partie : question problématisée (10 points)
 
 Page 2 / 3
                                                                  GTCHIGE05519
+
+![Visuel 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05519-sujet-officiel/img-02-01.jpeg)
 
 ---
 

@@ -105,6 +105,8 @@ On rappelle que la probabilité qu’un coyote capturé au hasard présente un t
 
 22 – MATJ2ME1                                                                      page 2 / 7
 
+![Visuel 1 (page 2)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-2-sujet-officiel/img-02-01.png)
+
 ---
 
 ## Page 3
@@ -177,6 +179,8 @@ c. 1 ≤ 𝑣0 ≤ 3 ;                                              d. La suite 
 
 22 – MATJ2ME1                                                                            page 3 / 7
 
+![Visuel 1 (page 3)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-2-sujet-officiel/img-03-01.png)
+
 ---
 
 ## Page 4
@@ -236,6 +240,8 @@ où ℬ désigne l’aire d’une base et ℎ la hauteur relative à cette base.
 
 22 – MATJ2ME1                                                                             page 4 / 7
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-2-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -290,6 +296,8 @@ par rapport au sol, en dizaine de yards (1 yard correspond à environ 0,914 mèt
 
 22 – MATJ2ME1                                                                        page 5 / 7
 
+![Visuel 1 (page 5)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-2-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -341,6 +349,10 @@ tangente :
 
 
 22 – MATJ2ME1                                                                      page 6 / 7
+
+![Visuel 1 (page 6)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-2-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-2-sujet-officiel/img-06-02.png)
 
 ---
 

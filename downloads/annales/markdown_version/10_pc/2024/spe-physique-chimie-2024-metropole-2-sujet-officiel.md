@@ -44,8 +44,6 @@ BACCALAURÉAT GÉNÉRAL
 
 24-PYCJ2ME1                                                                       Page 1/11
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-01.png)
-
 ---
 
 ## Page 2
@@ -110,6 +108,10 @@ On étudie le mouvement dans le repère cartésien indiqué sur la figure 1 : le
 contenant la main du basketteur au moment où il lâche le ballon et le centre C de l’arceau. L’instant initial est
 
 24-PYCJ2ME1                                                                                           Page 2/11
+
+![Visuel 1 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-02-02.jpeg)
 
 ---
 
@@ -184,6 +186,10 @@ valeurs de l’angle et de la vitesse ainsi trouvées à celles obtenues pour un
 
 24-PYCJ2ME1                                                                                                 Page 3/11
 
+![Visuel 1 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-03-01.jpeg)
+
+![Visuel 2 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-03-02.jpeg)
+
 ---
 
 ## Page 4
@@ -234,6 +240,8 @@ site internet cité en début d’exercice.
 
 
 24-PYCJ2ME1                                                                                         Page 4/11
+
+![Visuel 1 (page 4)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -343,6 +351,8 @@ La démarche est évaluée et doit être correctement présentée.
 
 24-PYCJ2ME1                                                                                            Page 6/11
 
+![Visuel 1 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-06-01.png)
+
 ---
 
 ## Page 7
@@ -406,6 +416,8 @@ Q1. Nommer la famille fonctionnelle à laquelle appartient l’acide cinnamique.
 
 
 24-PYCJ2ME1                                                                                          Page 7/11
+
+![Visuel 1 (page 7)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-07-01.jpeg)
 
 ---
 
@@ -622,8 +634,14 @@ Téléphone
 
         24-PYCJ2ME1                                                                                   Page 11/11
 
+![Visuel 1 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-01.jpeg)
+
+![Visuel 2 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-02.png)
+
+![Visuel 3 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-03.png)
+
 ---
 
 ## Page 12
 
-![Page 12 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-12.png)
+![Visuel 1 (page 12)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-12-01.png)

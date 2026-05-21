@@ -38,6 +38,8 @@
 Page 1 / 8
                                                                             GTCENSC05470
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -79,6 +81,14 @@ Exercice 1 - Capteur photovoltaïque
 Page 2 / 8
                                                                  GTCENSC05470
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-02-03.png)
+
+![Visuel 4 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-02-04.png)
+
 ---
 
 ## Page 3
@@ -113,6 +123,8 @@ Page 2 / 8
 Page 3 / 8
                                                                  GTCENSC05470
 
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-03-01.png)
+
 ---
 
 ## Page 4
@@ -143,6 +155,8 @@ Document 3 : caractéristiques i=f(u)
 
 Page 4 / 8
                                                                  GTCENSC05470
+
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -180,6 +194,8 @@ Annexe
 
 Page 5 / 8
                                                                       GTCENSC05470
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -268,6 +284,10 @@ Document 2 : effet de la température hivernale sur la densité de
 
 Page 7 / 8
                                                                   GTCENSC05470
+
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-07-01.png)
+
+![Visuel 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05470-sujet-officiel/img-07-02.png)
 
 ---
 

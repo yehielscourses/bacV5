@@ -23,8 +23,6 @@ Baccalauréat Général
 
      Ce corrigé est composé de 7 pages.
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/page-01.png)
-
 ---
 
 ## Page 2
@@ -392,6 +390,12 @@ Q6. Pour la pile lithium-ion, on a bien :
                                                     Q = i∆t =⇒ ∆t =
                                                                                                        i
                                                                                                                                   Page 6 sur 7
+
+![Visuel 1 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-01.jpeg)
+
+![Visuel 2 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-02.png)
+
+![Visuel 3 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-03.png)
 
 ---
 

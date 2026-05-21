@@ -206,6 +206,8 @@ triangle ABC.
 
                                                                                                Page 4 /6
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -254,6 +256,8 @@ d’intersection de la droite Δ et de la courbe 𝐶𝑔 .
 
 
                                                                                        Page 5 /6
+
+![Visuel 1 (page 5)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel/img-05-01.png)
 
 ---
 

@@ -48,6 +48,8 @@ A1                                                               1              
          les articuler en partie les unes aux autres.                          relevant des mots ou expressions.
                                                                                                                                                            paragraphes, etc.)
 
+![Visuel 1 (page 1)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb/img-01-01.png)
+
 ---
 
 ## Page 2

@@ -42,6 +42,8 @@ technologique. Elle abroge et remplace la note de service du 23 juillet 2020 rel
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale      1
 Version consolidée juin 2025
 
+![Visuel 1 (page 1)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/img-01-01.png)
+
 ---
 
 ## Page 2

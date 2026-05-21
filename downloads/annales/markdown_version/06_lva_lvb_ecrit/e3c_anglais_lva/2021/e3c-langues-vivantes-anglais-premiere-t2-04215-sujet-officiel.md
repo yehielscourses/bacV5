@@ -41,6 +41,8 @@
 Page 1 / 2
                                                                             C1CANGL04215
 
+![Visuel 1 (page 1)](../../../../assets/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04215-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -76,3 +78,5 @@ ANGLAIS – ÉVALUATION 1
 
 Page 2 / 2
                                                              C1CANGL04215
+
+![Visuel 1 (page 2)](../../../../assets/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04215-sujet-officiel/img-02-01.jpeg)

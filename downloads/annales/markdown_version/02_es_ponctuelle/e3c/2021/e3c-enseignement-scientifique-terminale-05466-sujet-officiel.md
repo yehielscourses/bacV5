@@ -38,6 +38,8 @@
 Page 1 / 8
                                                                             GTCENSC05466
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -72,6 +74,10 @@ Exercice 1 - L'émission de gaz à effet de serre en
 
 Page 2 / 8
                                                                    GTCENSC05466
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -182,6 +188,10 @@ Exercice 2 - Les conséquences de la géographie
 Page 5 / 8
                                                                  GTCENSC05466
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-05-01.png)
+
+![Visuel 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-05-02.png)
+
 ---
 
 ## Page 6
@@ -231,6 +241,10 @@ Document 1 : carte de l’île de Bornéo et localisation de quelques population
 Page 6 / 8
                                                                         GTCENSC05466
 
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-02.png)
+
 ---
 
 ## Page 7
@@ -273,6 +287,8 @@ Les cases grisées, constituant la diagonale, du tableau indiquent les pourcenta
 
 Page 7 / 8
                                                                       GTCENSC05466
+
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-07-01.png)
 
 ---
 

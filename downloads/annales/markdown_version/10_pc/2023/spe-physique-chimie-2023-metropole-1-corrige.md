@@ -267,6 +267,8 @@ Exercice 3 —           Une formulation de l’aspirine
 
                                                                                     Page 5 sur 7
 
+![Visuel 1 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -330,5 +332,3 @@ Annexe : schéma d’optique pour l’exercice 1
 
 
                                                               Page 7 sur 7
-
-![Page 7 — carte / document visuel](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/page-07.png)

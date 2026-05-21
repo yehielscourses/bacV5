@@ -42,6 +42,8 @@
 Page 1 / 4
                                                                             G1CHIGE02444
 
+![Visuel 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02444-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -67,6 +69,8 @@ Première partie : question problématisée (sur 10 points)
 
 Page 2 / 4
                                                                G1CHIGE02444
+
+![Visuel 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02444-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -100,6 +104,8 @@ Document 1 : Convoi d’hommes adultes arméniens sous escorte pour une
 
 Page 3 / 4
                                                                   G1CHIGE02444
+
+![Visuel 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02444-sujet-officiel/img-03-01.jpeg)
 
 ---
 

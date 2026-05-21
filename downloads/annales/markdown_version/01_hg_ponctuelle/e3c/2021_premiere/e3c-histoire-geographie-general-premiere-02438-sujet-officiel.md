@@ -41,6 +41,8 @@
 Page 1 / 3
                                                                             G1CHIGE02438
 
+![Visuel 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02438-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -92,6 +94,8 @@ Première partie : question problématisée (sur 10 points)
 
 Page 2 / 3
                                                                  G1CHIGE02438
+
+![Visuel 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02438-sujet-officiel/img-02-01.jpeg)
 
 ---
 

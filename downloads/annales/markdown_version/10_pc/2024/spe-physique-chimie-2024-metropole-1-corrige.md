@@ -23,8 +23,6 @@ Baccalauréat Général
 
      Ce corrigé est composé de 9 pages.
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-01.png)
-
 ---
 
 ## Page 2
@@ -392,5 +390,3 @@ Annexe : schéma d’optique pour l’exercice 2
                                                    A1
 
                                                  B1
-
-![Page 9 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-09.png)

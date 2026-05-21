@@ -44,8 +44,6 @@ BACCALAURÉAT GÉNÉRAL
 
 25-PYCJ2ME1                                                                          Page 1/14
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-01.png)
-
 ---
 
 ## Page 2
@@ -116,6 +114,8 @@ continue E = 4,9 V.                                  R
 
 
                                                                  EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
+
+![Visuel 1 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -252,6 +252,8 @@ optique, elle-même reliée à un spectromètre.
 
 
                                                          EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
+
+![Visuel 1 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -477,6 +479,10 @@ dans l’eau de Quinton.
 
                                                          EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
+![Visuel 1 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-01.png)
+
+![Visuel 2 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-02.png)
+
 ---
 
 ## Page 9
@@ -560,6 +566,12 @@ parmi le géraniol et l’éthanoate de géranyle.
 
                                                         EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
+![Visuel 1 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-01.png)
+
+![Visuel 2 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-02.png)
+
+![Visuel 3 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-03.jpeg)
+
 ---
 
 ## Page 11
@@ -615,6 +627,12 @@ H3C                       C       OH          H3C    C     O
 
                                                            EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
+![Visuel 1 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-01.png)
+
+![Visuel 2 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-02.jpeg)
+
+![Visuel 3 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-03.png)
+
 ---
 
 ## Page 12
@@ -667,6 +685,10 @@ est suivi par pH-métrie et la courbe obtenue est représentée sur la figure 2.
 
 
                                                           EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
+
+![Visuel 1 (page 12)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-12-01.jpeg)
+
+![Visuel 2 (page 12)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-12-02.jpeg)
 
 ---
 
@@ -744,8 +766,6 @@ Page blanche laissée intentionnellement.
 
                     EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 14 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-14.png)
-
 ---
 
 ## Page 15
@@ -803,4 +823,8 @@ ANNEXE À RENDRE AVEC LA COPIE
 
 25-PYCJ2ME1                                                                                   Page 14/14
 
-![Page 15 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-15.png)
+![Visuel 1 (page 15)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-15-01.png)
+
+![Visuel 2 (page 15)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-15-02.jpeg)
+
+![Visuel 3 (page 15)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-15-03.jpeg)

@@ -237,6 +237,8 @@ Montrer que 𝐴𝐻$ 𝐻𝐻! est un rectangle.
 
 23-MATJ2ME1                                                                         Page 4 sur 5
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-2-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -285,3 +287,5 @@ La courbe 𝐶 est tracée ci-dessous.
 
 
 23-MATJ2ME1                                                                    Page 5 sur 5
+
+![Visuel 1 (page 5)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-2-sujet-officiel/img-05-01.png)

@@ -42,6 +42,8 @@
 Page 1 / 8
                                                                             G1CENSC02423
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -99,6 +101,8 @@ EXERCICE 1
 
 Page 2 / 8
                                                                      G1CENSC02423
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -177,6 +181,8 @@ Document 2 : Représentation graphique de la fonction donnant la masse d’or ob
 
 Page 4 / 8
                                                                        G1CENSC02423
+
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -353,3 +359,5 @@ Document 2. Coupe géologique d’un affleurement géologique à Wöllstein
 
 Page 8 / 8
                                                                 G1CENSC02423
+
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-08-01.png)

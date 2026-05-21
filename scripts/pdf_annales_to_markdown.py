@@ -26,15 +26,8 @@ STRATEGIE = ANNALES / "STRATEGIE_MARKDOWN.md"
 
 SKIP_DIRS = {"pdf_version", "markdown_version", "assets", "__pycache__"}
 
-# "document" seul exclu (Document 1 :, Document 2 :) — declencheur texte, pas visuel
-STRONG_VISUAL = re.compile(
-    r"\b(carte|croquis|fond de carte|graphique|figure|sch[eé]ma|diagramme|"
-    r"photograph|légende|légendes|annexe)\b",
-    re.I,
-)
-MIN_TEXT_DOCUMENT_PAGE = 900
-PAGE_MATRIX = fitz.Matrix(120 / 72, 120 / 72)
-MAX_PAGE_WIDTH = 1400
+CLIP_MATRIX = fitz.Matrix(2, 2)  # rendu zone visuelle (images inline / vectoriel)
+MAX_CLIP_WIDTH = 1400
 
 
 def rel_link(from_file: Path, to_path: Path) -> str:
@@ -81,34 +74,26 @@ def content_image_blocks(page: fitz.Page) -> list[dict]:
     return out
 
 
-def needs_page_render(page: fitz.Page, text: str) -> bool:
-    """Capture pleine page seulement pour cartes / pages tres visuelles."""
-    t = text.strip()
-    if len(t) > MIN_TEXT_DOCUMENT_PAGE:
-        return False
-    if STRONG_VISUAL.search(t):
-        return True
-    blocks = content_image_blocks(page)
-    if not blocks:
-        return len(t) < 200
-    pw, ph = page.rect.width, page.rect.height
-    page_area = pw * ph
-    largest = max(b["width"] * b["height"] for b in blocks)
-    if largest / page_area > 0.35 and len(t) < 600:
-        return True
-    if len(t) < 250:
-        return True
-    return False
+def block_image_bytes(doc: fitz.Document, page: fitz.Page, block: dict) -> bytes | None:
+    """PNG/JPEG embarque (xref ou bytes inline) ou rendu de la bbox du bloc."""
+    raw = block.get("image")
+    if isinstance(raw, int):
+        try:
+            return doc.extract_image(raw)["image"]
+        except Exception:
+            pass
+    elif isinstance(raw, (bytes, bytearray)) and len(raw) > 200:
+        return bytes(raw)
 
-
-def save_page_render(page: fitz.Page, path: Path) -> None:
-    pix = page.get_pixmap(matrix=PAGE_MATRIX, alpha=False)
-    if pix.width > MAX_PAGE_WIDTH:
-        scale = MAX_PAGE_WIDTH / pix.width
-        mat = fitz.Matrix(scale * 120 / 72, scale * 120 / 72)
-        pix = page.get_pixmap(matrix=mat, alpha=False)
-    path.parent.mkdir(parents=True, exist_ok=True)
-    pix.save(str(path))
+    bbox = fitz.Rect(block["bbox"])
+    if bbox.is_empty or bbox.width < 40 or bbox.height < 40:
+        return None
+    pix = page.get_pixmap(matrix=CLIP_MATRIX, clip=bbox, alpha=False)
+    if pix.width > MAX_CLIP_WIDTH:
+        scale = MAX_CLIP_WIDTH / pix.width
+        mat = fitz.Matrix(2 * scale, 2 * scale)
+        pix = page.get_pixmap(matrix=mat, clip=bbox, alpha=False)
+    return pix.tobytes("png")
 
 
 def extract_content_images(
@@ -122,24 +107,23 @@ def extract_content_images(
     lines: list[str] = []
     idx = 0
     for block in content_image_blocks(page):
-        xref = block.get("image")
-        if xref is None:
+        data = block_image_bytes(doc, page, block)
+        if not data:
             continue
-        try:
-            info = doc.extract_image(xref)
-        except Exception:
-            continue
-        digest = hashlib.md5(info["image"]).hexdigest()
+        digest = hashlib.md5(data).hexdigest()
         if digest in seen_hashes:
             continue
         seen_hashes.add(digest)
         idx += 1
-        ext = info.get("ext", "png")
-        if ext == "jpg":
+        ext = "png"
+        if data[:3] == b"\xff\xd8\xff":
             ext = "jpeg"
+        elif data[:8] == b"\x89PNG\r\n\x1a\n":
+            ext = "png"
         fname = f"img-{page_no:02d}-{idx:02d}.{ext}"
         out = asset_dir / fname
-        out.write_bytes(info["image"])
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_bytes(data)
         link = rel_link(md_path, out)
         lines.append(f"![Visuel {idx} (page {page_no})]({link})")
     return lines
@@ -205,15 +189,6 @@ def convert_pdf(pdf: Path, force: bool = False) -> None:
             lines.append(text.strip())
             lines.append("")
 
-        if needs_page_render(page, text):
-            png = asset_dir / f"page-{page_no:02d}.png"
-            save_page_render(page, png)
-            lines.append(
-                f"![Page {page_no} — carte / document visuel]"
-                f"({rel_link(md_path, png)})"
-            )
-            lines.append("")
-
         for img_line in extract_content_images(
             doc, page, asset_dir, page_no, md_path, seen_hashes
         ):
@@ -247,7 +222,7 @@ def main() -> None:
         "```bash\npython3 scripts/pdf_annales_to_markdown.py        # incremental\n"
         "python3 scripts/pdf_annales_to_markdown.py --force  # tout regenerer\n```\n\n"
         "- PDF : `../pdf_version/`\n"
-        "- Visuels : `../assets/` (cartes, photos, graphiques — pas les bandeaux E3C)\n"
+        "- Visuels : `../assets/` (`img-PP-NN.png` — pas de capture pleine page)\n"
         "- [STRATEGIE_MARKDOWN.md](../STRATEGIE_MARKDOWN.md)\n",
         encoding="utf-8",
     )

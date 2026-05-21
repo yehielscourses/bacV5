@@ -41,6 +41,8 @@
 Page 1 / 8
                                                                             GTCENSC05499
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -88,6 +90,12 @@ Nombre de loups
   Page 2 / 8
                                                                                   GTCENSC05499
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-02-02.jpeg)
+
+![Visuel 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-02-03.jpeg)
+
 ---
 
 ## Page 3
@@ -132,6 +140,8 @@ Nombre d’élans
 
 Page 3 / 8
                                                                          GTCENSC05499
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-03-01.jpeg)
 
 ---
 
@@ -281,6 +291,8 @@ Exercice 2 : Confinement et atmosphère
 Page 6 / 8
                                                                 GTCENSC05499
 
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-06-01.png)
+
 ---
 
 ## Page 7
@@ -297,7 +309,7 @@ Document 2 : cycle et flux de carbone (en Gt / an)
 Page 7 / 8
                                                                 GTCENSC05499
 
-![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/page-07.png)
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05499-sujet-officiel/img-07-01.jpeg)
 
 ---
 

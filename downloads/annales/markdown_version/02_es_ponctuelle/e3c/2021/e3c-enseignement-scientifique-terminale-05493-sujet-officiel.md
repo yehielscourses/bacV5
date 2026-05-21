@@ -41,6 +41,8 @@
 Page 1 / 7
                                                                             GTCENSC05493
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -78,6 +80,10 @@ Exercice 1 : Minimisation des pertes par effet Joule
 Page 2 / 7
                                                                    GTCENSC05493
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/img-02-02.jpeg)
+
 ---
 
 ## Page 3
@@ -106,7 +112,7 @@ Partie 2 : modélisation du réseau électrique
 Page 3 / 7
                                                                  GTCENSC05493
 
-![Page 3 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/page-03.png)
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -192,6 +198,8 @@ Exercice 2 : Forçage radiatif et conséquences
 Page 5 / 7
                                                                      GTCENSC05493
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/img-05-01.png)
+
 ---
 
 ## Page 6
@@ -216,6 +224,8 @@ Document 2 : composantes du forçage radiatif terrestre
 
 Page 6 / 7
                                                                    GTCENSC05493
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05493-sujet-officiel/img-06-01.png)
 
 ---
 

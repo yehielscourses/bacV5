@@ -113,6 +113,10 @@ partiellement en ions hydrogénocarbonate HCO3 aq et en ions carbonate CO3 (aq).
                                                                                                   aquariophilie.com)
                                                                                                         Page 2 / 13
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-02-02.jpeg)
+
 ---
 
 ## Page 3
@@ -322,6 +326,10 @@ Le schéma de Lewis de la molécule de dioxyde de carbone et celui de la molécu
 
                                                                                                               Page 5 / 13
 
+![Visuel 1 (page 5)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-05-01.png)
+
+![Visuel 2 (page 5)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-05-02.png)
+
 ---
 
 ## Page 6
@@ -388,6 +396,8 @@ Données :
 
 
                                                                                                           Page 6 / 13
+
+![Visuel 1 (page 6)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-06-01.jpeg)
 
 ---
 
@@ -501,6 +511,10 @@ puis celle de la charge QB en fonction de C et UAB.
 
                                                                                                        Page 8 / 13
 
+![Visuel 1 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-01.jpeg)
+
+![Visuel 2 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-02.jpeg)
+
 ---
 
 ## Page 9
@@ -559,6 +573,12 @@ On réalise l’expérience suivante :
 
 
                                                                                                            Page 9 / 13
+
+![Visuel 1 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-09-01.png)
+
+![Visuel 2 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-09-02.jpeg)
+
+![Visuel 3 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-09-03.jpeg)
 
 ---
 
@@ -682,6 +702,12 @@ maximale reçue.
 
                                                                                                     Page 11 / 13
 
+![Visuel 1 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-01.png)
+
+![Visuel 2 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-02.png)
+
+![Visuel 3 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-03.jpeg)
+
 ---
 
 ## Page 12
@@ -743,6 +769,12 @@ L’expérience d’interférences est décrite ci-dessous :
 
                                                                                                   Page 12 / 13
 
+![Visuel 1 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-01.jpeg)
+
+![Visuel 2 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-02.jpeg)
+
+![Visuel 3 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-03.png)
+
 ---
 
 ## Page 13
@@ -784,3 +816,7 @@ L’incertitude-type u(b) sur la grandeur b peut se calculer à partir de la rel
 
 
                                                                                                          Page 13 / 13
+
+![Visuel 1 (page 13)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-13-01.jpeg)
+
+![Visuel 2 (page 13)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-13-02.png)

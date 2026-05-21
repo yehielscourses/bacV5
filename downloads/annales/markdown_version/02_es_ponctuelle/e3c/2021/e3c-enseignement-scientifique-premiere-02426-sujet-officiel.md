@@ -42,6 +42,8 @@
 Page 1 / 8
                                                                             G1CENSC02426
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -69,6 +71,10 @@ EXERCICE 1
 
 Page 2 / 8
                                                                G1CENSC02426
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -105,6 +111,8 @@ Document 2. Caractéristiques de numérisation de signaux audio suivant l’appl
 
 Page 3 / 8
                                                                    G1CENSC02426
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -193,6 +201,10 @@ Page 4 / 8
 Page 5 / 8
                                                                      G1CENSC02426
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-05-01.png)
+
+![Visuel 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-05-02.png)
+
 ---
 
 ## Page 6
@@ -232,6 +244,10 @@ Document 2. Les minerais d’argent
 
 Page 6 / 8
                                                                  G1CENSC02426
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -273,6 +289,8 @@ Document 3. Analyse d’un échantillon du gisement minier d’Ain-Kerma
 
 Page 7 / 8
                                                                   G1CENSC02426
+
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02426-sujet-officiel/img-07-01.png)
 
 ---
 

@@ -41,6 +41,8 @@
 Page 1 / 6
                                                                             G1CENSC02406
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -77,6 +79,10 @@ EXERCICE 1
 
 Page 2 / 6
                                                                G1CENSC02406
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -118,6 +124,8 @@ Figure 1b : Modèle du
 
 Page 3 / 6
                                                                  G1CENSC02406
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -223,3 +231,7 @@ Document 2 : Comparaison des propriétés physiques du graphite et du diamant
 
  Page 6 / 6
                                                                     G1CENSC02406
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-06-02.png)

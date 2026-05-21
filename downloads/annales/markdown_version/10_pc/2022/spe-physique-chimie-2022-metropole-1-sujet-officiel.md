@@ -49,8 +49,6 @@ BACCALAURÉAT GÉNÉRAL
 
 22-PYCJ1ME1                                                                       Page 1/12
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-01.png)
-
 ---
 
 ## Page 2
@@ -115,6 +113,8 @@ Données :
 
 
 22-PYCJ1ME1                                                                                                   Page 2/12
+
+![Visuel 1 (page 2)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -185,6 +185,12 @@ Dosage spectrophotométrique par étalonnage :
 
 
 22-PYCJ1ME1                                                                                               Page 3/12
+
+![Visuel 1 (page 3)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-03-01.png)
+
+![Visuel 2 (page 3)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-03-02.png)
+
+![Visuel 3 (page 3)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-03-03.png)
 
 ---
 
@@ -320,6 +326,8 @@ Q12. Expliquer comment il est possible d’optimiser la décoloration du filtre 
 
 22-PYCJ1ME1                                                                                                 Page 5/12
 
+![Visuel 1 (page 5)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-05-01.jpeg)
+
 ---
 
 ## Page 6
@@ -383,6 +391,10 @@ Q2. Interpréter la figure 2a pour décrire le rôle de la main sur le mouvement
 
 
 22-PYCJ1ME1                                                                                            Page 6/12
+
+![Visuel 1 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-01.jpeg)
+
+![Visuel 2 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -491,6 +503,8 @@ Le système étudié est le fer à cheval.
 
 
 22-PYCJ1ME1                                                                                                Page 8/12
+
+![Visuel 1 (page 8)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-08-01.jpeg)
 
 ---
 
@@ -608,6 +622,14 @@ de sa charge, en précisant les valeurs de uC (t) à t = 0 s et au bout d’un t
 
 22-PYCJ1ME1                                                                                             Page 10/12
 
+![Visuel 1 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-01.jpeg)
+
+![Visuel 2 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-02.png)
+
+![Visuel 3 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-03.png)
+
+![Visuel 4 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-04.png)
+
 ---
 
 ## Page 11
@@ -656,8 +678,6 @@ Page blanche laissée intentionnellement.
 
 22-PYCJ1ME1
 
-![Page 12 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-12.png)
-
 ---
 
 ## Page 13
@@ -697,10 +717,8 @@ ANNEXE à rendre avec la copie
 
 22-PYCJ1ME1                                                                         Page 12/12
 
-![Page 13 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-13.png)
-
 ---
 
 ## Page 14
 
-![Page 14 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-14.png)
+![Visuel 1 (page 14)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-14-01.png)

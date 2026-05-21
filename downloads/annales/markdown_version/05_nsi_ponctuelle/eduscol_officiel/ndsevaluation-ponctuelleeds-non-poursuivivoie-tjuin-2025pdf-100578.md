@@ -43,6 +43,8 @@ classe de première de la voie technologique à compter de la session 2021.
 
 Version consolidée juin 2025
 
+![Visuel 1 (page 1)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578/img-01-01.png)
+
 ---
 
 ## Page 2

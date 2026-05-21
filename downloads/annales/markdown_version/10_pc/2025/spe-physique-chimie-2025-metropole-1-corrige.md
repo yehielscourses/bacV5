@@ -26,8 +26,6 @@ Baccalauréat Général
 
      Ce corrigé est composé de 7 pages.
 
-![Page 1 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige/page-01.png)
-
 ---
 
 ## Page 2

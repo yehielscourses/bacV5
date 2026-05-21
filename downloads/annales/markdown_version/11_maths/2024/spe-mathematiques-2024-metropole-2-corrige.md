@@ -55,6 +55,8 @@ valeurs entières.
 Pour tout 𝑛 ∈ ℕ, 𝑃(𝑁 ≥ 𝑛) ≥ 0,65 ⇔ 1 − 𝑃(𝑁 ≤ 𝑛 − 1) ≥ 0,65 ⇔ 𝑃(𝑁 ≤ 𝑛 − 1) ≥ 0,35
 D’après la calculatrice, 𝑃(𝑁 ≤ 10) ≈ 0,203 < 0,35 et 𝑃 (𝑁 ≤ 11) ≈ 0,351 ≥ 0,35.
 
+![Visuel 1 (page 1)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -195,6 +197,8 @@ Partie B : étude d’un modèle continu
        𝑓 est solution de (𝐸) donc 𝒇 est de la forme 𝒇(𝒙) = 𝑪𝒆−𝟎,𝟎𝟖𝒙 +                 où 𝑪 est une
                                                                                   𝟒
        constante réelle.
+
+![Visuel 1 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/img-04-01.png)
 
 ---
 

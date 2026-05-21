@@ -104,6 +104,10 @@ Données :
 
                                                            EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-02.jpeg)
+
 ---
 
 ## Page 3
@@ -303,6 +307,8 @@ Données :
 
                                                         EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
+![Visuel 1 (page 5)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-05-01.jpeg)
+
 ---
 
 ## Page 6
@@ -365,6 +371,12 @@ basique. Le protocole mis en place est le suivant :
 
 
                                                          EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
+
+![Visuel 1 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-06-02.png)
+
+![Visuel 3 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-06-03.png)
 
 ---
 
@@ -467,6 +479,8 @@ Q6. Justifier que le rubidium 87 est adapté pour dater un échantillon de 1 g d
 
 
                                                          EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
+
+![Visuel 1 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-08-01.jpeg)
 
 ---
 
@@ -577,8 +591,6 @@ Q12. Déterminer l’âge troche de la roche du site de Meymac.
 
                                                       EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 10 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-10.png)
-
 ---
 
 ## Page 11
@@ -649,6 +661,8 @@ Q1. Montrer, à l’aide d’un raisonnement sur les unités, que la viscosité 
 
 
                                                                     EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
+
+![Visuel 1 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-11-01.jpeg)
 
 ---
 

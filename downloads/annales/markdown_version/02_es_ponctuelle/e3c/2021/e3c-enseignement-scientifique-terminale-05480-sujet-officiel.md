@@ -38,6 +38,8 @@
 Page 1 / 9
                                                                             GTCENSC05480
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -86,6 +88,8 @@ Exercice 1 - L’évolution humaine
 Page 2 / 9
                                                                    GTCENSC05480
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-02-01.png)
+
 ---
 
 ## Page 3
@@ -121,6 +125,8 @@ Page 2 / 9
 
 Page 3 / 9
                                                                  GTCENSC05480
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -162,6 +168,8 @@ Document 3 : un nouveau venu dans la famille humaine : l’Homme de
 Page 4 / 9
                                                                  GTCENSC05480
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
@@ -195,6 +203,12 @@ Exercice 2 - Les éoliennes et les chauves-souris
 Page 5 / 9
                                                            GTCENSC05480
 
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-05-01.png)
+
+![Visuel 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-05-02.png)
+
+![Visuel 3 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-05-03.png)
+
 ---
 
 ## Page 6
@@ -219,7 +233,9 @@ Page 5 / 9
 Page 6 / 9
                                                                 GTCENSC05480
 
-![Page 6 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/page-06.png)
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -286,6 +302,8 @@ Partie 2 : démographie d’une population de chauves – souris
 
 Page 8 / 9
                                                              GTCENSC05480
+
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05480-sujet-officiel/img-08-01.png)
 
 ---
 

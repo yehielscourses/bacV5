@@ -38,6 +38,8 @@
 Page 1 / 9
                                                                             GTCENSC05477
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -78,6 +80,8 @@ Exercice 1 - Une élévation inquiétante du niveau des
 
 Page 2 / 9
                                                                  GTCENSC05477
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-02-01.png)
 
 ---
 
@@ -181,6 +185,10 @@ Page 3 / 9
 Page 4 / 9
                                                                  GTCENSC05477
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-04-01.png)
+
+![Visuel 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-04-02.jpeg)
+
 ---
 
 ## Page 5
@@ -214,6 +222,8 @@ Page 4 / 9
 
 Page 5 / 9
                                                                                                 GTCENSC05477
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -256,6 +266,10 @@ Exercice 2 - Des sphères géantes immergées sous
 
 Page 6 / 9
                                                                     GTCENSC05477
+
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-06-01.png)
+
+![Visuel 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -300,6 +314,10 @@ Paramètre                             Valeur
 
 Page 7 / 9
                                                                   GTCENSC05477
+
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-07-01.png)
+
+![Visuel 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05477-sujet-officiel/img-07-02.png)
 
 ---
 

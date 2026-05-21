@@ -42,6 +42,8 @@
 Page 1 / 8
                                                                             G1CENSC02417
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -86,6 +88,8 @@ EXERCICE 1
 
 Page 2 / 8
                                                                  G1CENSC02417
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -182,6 +186,10 @@ Page 3 / 8
 Page 4 / 8
                                                                    G1CENSC02417
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-04-01.jpeg)
+
+![Visuel 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-04-02.png)
+
 ---
 
 ## Page 5
@@ -210,6 +218,8 @@ D’après : https://www.pedagogie.ac-nantes.fr
 
 Page 5 / 8
                                                                  G1CENSC02417
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -277,7 +287,9 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 7 / 8
                                                                    G1CENSC02417
 
-![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/page-07.png)
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-07-01.png)
+
+![Visuel 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-07-02.png)
 
 ---
 
@@ -291,4 +303,4 @@ Graphique C (Variation d’un signal sonore en fonction du temps)
 Page 8 / 8
                                                                    G1CENSC02417
 
-![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/page-08.png)
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02417-sujet-officiel/img-08-01.png)

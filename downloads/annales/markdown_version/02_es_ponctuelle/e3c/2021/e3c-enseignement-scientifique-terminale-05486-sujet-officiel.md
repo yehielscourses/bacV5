@@ -41,6 +41,8 @@
 Page 1 / 7
                                                                             GTCENSC05486
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -74,6 +76,10 @@ Exercice 1 : L’empreinte carbone des appareils
 
 Page 2 / 7
                                                                           GTCENSC05486
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-02-02.jpeg)
 
 ---
 
@@ -119,6 +125,8 @@ Document 2 : projection de l’évolution des ventes de produits de gros
 
 Page 3 / 7
                                                                             GTCENSC05486
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -242,6 +250,8 @@ Document 2 : répartition (en %) par grands secteurs d’activité des émission
 Page 6 / 7
                                                                 GTCENSC05486
 
+![Visuel 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-06-01.png)
+
 ---
 
 ## Page 7
@@ -267,4 +277,4 @@ Nombre de morts qui auraient été évités dans l’année selon la
 Page 7 / 7
                                                                               GTCENSC05486
 
-![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-07.png)
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-07-01.png)

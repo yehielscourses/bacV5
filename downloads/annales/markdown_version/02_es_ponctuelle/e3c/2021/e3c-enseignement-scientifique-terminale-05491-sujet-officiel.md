@@ -41,6 +41,8 @@
 Page 1 / 7
                                                                             GTCENSC05491
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -82,6 +84,8 @@ Exercice 1 : Transporter de l’énergie coûte de l’énergie !
 Page 2 / 7
                                                                  GTCENSC05491
 
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-02-01.jpeg)
+
 ---
 
 ## Page 3
@@ -101,7 +105,9 @@ Document 2 Modélisation simple d’un réseau de distribution électrique par
 Page 3 / 7
                                                              GTCENSC05491
 
-![Page 3 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-03.png)
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-03-01.png)
+
+![Visuel 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -197,6 +203,8 @@ Page 4 / 7
 
 Page 5 / 7
                                                                 GTCENSC05491
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-05-01.png)
 
 ---
 

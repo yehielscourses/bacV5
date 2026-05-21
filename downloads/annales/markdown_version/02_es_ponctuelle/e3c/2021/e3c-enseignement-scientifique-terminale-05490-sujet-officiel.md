@@ -41,6 +41,8 @@
 Page 1 / 7
                                                                             GTCENSC05490
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05490-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -72,6 +74,10 @@ Exercice 1 : l’origine de la diminution des
 
 Page 2 / 7
                                                                       GTCENSC05490
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05490-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05490-sujet-officiel/img-02-02.jpeg)
 
 ---
 
@@ -110,6 +116,8 @@ Partie 1 : étude de l’effet des aérosols volcaniques sur le forçage radiati
 
 Page 3 / 7
                                                                           GTCENSC05490
+
+![Visuel 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05490-sujet-officiel/img-03-01.jpeg)
 
 ---
 
@@ -185,6 +193,8 @@ Partie 2 : analyse de la période 1945 - 1975
 
 Page 5 / 7
                                                                       GTCENSC05490
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05490-sujet-officiel/img-05-01.jpeg)
 
 ---
 

@@ -38,6 +38,8 @@
 Page 1 / 8
                                                                             GTCENSC05475
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -85,6 +87,8 @@ Exercice 1 - La solution hydrogène
 
 Page 2 / 8
                                                                   GTCENSC05475
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-02-01.png)
 
 ---
 
@@ -274,6 +278,8 @@ Document 2 : un traitement homéopathique pour éloigner les moustiques
 Page 7 / 8
                                                                  GTCENSC05475
 
+![Visuel 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-07-01.png)
+
 ---
 
 ## Page 8
@@ -305,3 +311,5 @@ Document 3 : une méthode utilisant des pièges à CO2.
 
 Page 8 / 8
                                                                 GTCENSC05475
+
+![Visuel 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-08-01.png)

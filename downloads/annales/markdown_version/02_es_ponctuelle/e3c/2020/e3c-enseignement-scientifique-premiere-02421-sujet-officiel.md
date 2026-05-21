@@ -42,6 +42,8 @@
 Page 1 / 9
                                                                             G1CENSC02421
 
+![Visuel 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02421-sujet-officiel/img-01-01.png)
+
 ---
 
 ## Page 2
@@ -71,6 +73,10 @@ EXERCICE 1
 
 Page 2 / 9
                                                                 G1CENSC02421
+
+![Visuel 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02421-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02421-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -144,6 +150,8 @@ Document 2. Répartition des différentes algues et devenir du spectre solaire
 Page 4 / 9
                                                                 G1CENSC02421
 
+![Visuel 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02421-sujet-officiel/img-04-01.jpeg)
+
 ---
 
 ## Page 5
@@ -175,6 +183,8 @@ D’après http://svt.ac-dijon.fr/schemassvt/
 
 Page 5 / 9
                                                                    G1CENSC02421
+
+![Visuel 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02421-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -299,8 +309,6 @@ Page 7 / 9
 
 Page 8 / 9
                                                               G1CENSC02421
-
-![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02421-sujet-officiel/page-08.png)
 
 ---
 

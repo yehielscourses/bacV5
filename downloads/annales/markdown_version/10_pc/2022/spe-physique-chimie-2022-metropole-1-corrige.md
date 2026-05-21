@@ -88,6 +88,12 @@ colorant E127
 
                                             2
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-corrige/img-02-01.png)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-corrige/img-02-02.png)
+
+![Visuel 3 (page 2)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-corrige/img-02-03.png)
+
 ---
 
 ## Page 3
@@ -181,6 +187,8 @@ Baccalauréat général - Physique-Chimie (spécialité) Métropole 2022 (S1) �
 
 
                                             4
+
+![Visuel 1 (page 4)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-corrige/img-04-01.png)
 
 ---
 
@@ -489,6 +497,8 @@ EXERCICE C – Défibrillateur cardiaque :
 
                                                                  9
 
+![Visuel 1 (page 9)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-corrige/img-09-01.png)
+
 ---
 
 ## Page 10
@@ -524,3 +534,5 @@ Baccalauréat général - Physique-Chimie (spécialité) Métropole 2022 (S1) �
 Pour https://www.sujetdebac.fr
 
                                             10
+
+![Visuel 1 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-corrige/img-10-01.jpeg)

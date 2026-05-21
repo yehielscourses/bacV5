@@ -107,6 +107,10 @@ vertical.
 
                                                                                                       Page 2 / 13
 
+![Visuel 1 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-01.jpeg)
+
+![Visuel 2 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-02.png)
+
 ---
 
 ## Page 3
@@ -156,6 +160,10 @@ qui permet de représenter l’évolution au cours du temps des énergies cinét
 
 
                                                                                                       Page 3 / 13
+
+![Visuel 1 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-03-01.png)
+
+![Visuel 2 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -507,6 +515,10 @@ Cu2O(s), de couleur rouge-brique. L’équation de la réaction modélisant cett
 
                                                                                                                  Page 9 / 13
 
+![Visuel 1 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-01.png)
+
+![Visuel 2 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-02.jpeg)
+
 ---
 
 ## Page 10
@@ -615,6 +627,10 @@ Le protocole expérimental simplifié est le suivant :
 
                                                                                                    Page 11 / 13
 
+![Visuel 1 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-11-01.png)
+
+![Visuel 2 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-11-02.jpeg)
+
 ---
 
 ## Page 12
@@ -676,6 +692,10 @@ de 1,11 g de phénythoïne.
 
                                                                                                      Page 12 / 13
 
+![Visuel 1 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-12-01.png)
+
+![Visuel 2 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-12-02.png)
+
 ---
 
 ## Page 13
@@ -702,5 +722,3 @@ Calculer le rendement de l’étape 3 de la synthèse de la phénytoïne.
 
 
                                                                                                 Page 13 / 13
-
-![Page 13 — carte / document visuel](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-13.png)

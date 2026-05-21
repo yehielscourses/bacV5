@@ -202,6 +202,8 @@ On répondra aux questions suivantes en les justifiant à l’aide du graphique.
 
                                                   EducN_MMDQ0Mj5I0MTAa4MT2czMtjAyNj5A1MjEHwMzvE4MCjcg
 
+![Visuel 1 (page 4)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-04-01.png)
+
 ---
 
 ## Page 5
