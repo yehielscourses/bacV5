@@ -149,7 +149,10 @@ def download_eduscol_officiels() -> None:
         for local_name, remote in items:
             if remote is None:
                 continue
-            download_file(f"{EDUSCOL}/{remote}", ROOT / subject / "eduscol_officiel" / local_name)
+            dest = ROOT / subject / "eduscol_officiel" / local_name
+            if dest.exists() and dest.stat().st_size > 500:
+                continue
+            download_file(f"{EDUSCOL}/{remote}", dest)
             time.sleep(0.15)
 
 
@@ -162,6 +165,7 @@ def download_e3c_ponctuelles() -> list[str]:
         ("02_es_ponctuelle", "e3c", "enseignement-scientifique/premiere/2021/", 2021),
         ("02_es_ponctuelle", "e3c", "enseignement-scientifique/terminale/2020/", 2020),
         ("02_es_ponctuelle", "e3c", "enseignement-scientifique/premiere/2020/", 2020),
+        ("01_hg_ponctuelle", "e3c/2021_premiere", "histoire-geographie-general/premiere/2021/", 2021),
         ("06_lva_lvb_ecrit", "e3c_anglais_lva", "langues-vivantes-anglais/terminale/2021/", 2021),
         ("06_lva_lvb_ecrit", "e3c_anglais_lva", "langues-vivantes-anglais/premiere-t2/2021/", 2021),
     ]

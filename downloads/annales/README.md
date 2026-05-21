@@ -1,38 +1,37 @@
 # Annales — alignées sur **vos** épreuves (bac G 2026, candidat individuel J60)
 
-Les dossiers reprennent la numérotation des fiches `downloads/fiches/`.  
-**Une annale n’est conservée que si elle correspond à la même épreuve** (pas une spécialité « proche »).
+Dernière vérification : voir **`VERIFICATION_ANNALES.md`** (script `scripts/verifier_annales.py`).
 
-| Dossier | Votre épreuve | Ce qui est dans le dossier | Ce qui a été **retiré** (erreur précédente) |
-|---------|---------------|----------------------------|---------------------------------------------|
-| `01_hg_ponctuelle/` | HG **tronc commun**, écrit 2 h, fin de cycle | NS Eduscol HG + sujets **E3C Histoire-Géo général** (2020–2021) | ~~Spé HGGSP~~ (géopolitique, autre programme) |
-| `02_es_ponctuelle/` | **Enseignement scientifique**, écrit 2 h, fin de cycle | NS / doc. Eduscol + sujets **E3C Enseignement scientifique** (1re + T, 2020–2021) | ~~Spé SES~~ (sciences éco-sociales, autre matière) |
-| `03_emc_ponctuelle/` | EMC **oral** ponctuel | Liens BO + grille (pas de sujets nationaux publics) | — |
-| `04_lvb_oral/` | LVB hébreu oral | Sujet écrit 2024 (référence de niveau) | — |
-| `05_nsi_ponctuelle/` | NSI **QCM** spé 1re abandonnée | NS Eduscol « EDS non poursuivi » + format 42 Q | ~~Finales écrites spé NSI~~ (3 h, autre épreuve) |
-| `06_lva_lvb_ecrit/` | LVA anglais + LVB hébreu, écrit 1 h30 | NS LV + grilles + E3C anglais + sujet hébreu 2024 | — |
-| `07_lva_oral/` | LVA oral | Grilles / renvoi vers `06` | — |
-| `08_francais/` | Français anticipé **1re** | Annales métropole 2021–2025 | — |
-| `09_philo/` | Philo **terminale** | Annales métropole 2021–2025 + NS | — |
-| `10_pc/` | Spé **PC finale** (écrit seul si individuel) | Annales métropole 2021–2025 + NS | — |
-| `11_maths/` | Spé **maths finale** | Annales métropole 2021–2025 + NS | — |
-| `12_grand_oral/` | Grand oral (2 questions PC + maths) | NS consolidée | Pas d’« annale » nationale |
+## Règle
 
-## Sources
+Chaque dossier = une ligne de **convocation**, pas une spécialité « proche ».
 
-- **Épreuves terminales** (français, philo, PC, maths) : [sujetdebac.fr — métropole](https://www.sujetdebac.fr/annales/metropole/)
-- **Ponctuelles HG / ES / LV** : banques **E3C** (même discipline, avant le régime actuel) + [Eduscol /5694](https://eduscol.education.gouv.fr/5694/candidats-individuels-au-baccalaureat-general-et-au-baccalaureat-technologique)
-- **Sujets réels juin 2026** (HG, ES, EMC, NSI, LV) : tirage **académique** — `dec.gt-bcg@ac-grenoble.fr`
+| Dossier | Épreuve | Contenu | Limite connue |
+|---------|---------|---------|---------------|
+| `01_hg_ponctuelle/` | HG tronc commun, 2 h | NS Eduscol + E3C **Histoire-Géo général** (1re + T) | E3C ? format ponctuel 2024 (questions A/B) ; sujets juin = académie |
+| `02_es_ponctuelle/` | **Enseignement scientifique**, 2 h | E3C **Enseignement scientifique** + doc. Eduscol 56670 | OK discipline ; sujets juin = banque nationale |
+| `03_emc_ponctuelle/` | EMC oral 1 h | `LIENS_OFFICIELS.md` | Aucune annale PDF publique |
+| `04_lvb_oral/` | LVB oral | `LIENS_OFFICIELS.md` | Pas de sujets oraux en ligne |
+| `05_nsi_ponctuelle/` | NSI **QCM** 1re | NS format 42 Q + cadre EDS | Pas de banque QCM publique |
+| `06_lva_lvb_ecrit/` | LVA/LVB écrit 1h30 (CO+CE+EE) | NS LV, grilles, E3C anglais, hébreu 2024 | E3C **sans** CO audio ; ? copie exacte ponctuelle |
+| `07_lva_oral/` | LVA oral | `LIENS_OFFICIELS.md` | — |
+| `08_francais/` | Français anticipé écrit | Métropole 2021–2025 | Oral : pas d’annales ici |
+| `09_philo/` | Philo terminale | Métropole 2021–2025 + NS | OK |
+| `10_pc/` | PC finale écrit | Métropole 2021–2025 + NS | Individuel : sans TP pratique |
+| `11_maths/` | Maths finale | Métropole 2021–2025 + NS | OK |
+| `12_grand_oral/` | Grand oral | NS consolidée | 2 questions perso (PC + maths) |
 
-## Mise à jour
+## Retiré (erreurs corrigées)
+
+- ~~SES~~ (sciences éco-sociales) — **pas** l’enseignement scientifique
+- ~~HGGSP~~ — **pas** HG tronc commun
+- ~~Finales écrites NSI~~ — **pas** le QCM ponctuel
+
+## Commandes
 
 ```bash
-python3 scripts/telecharger_annales_bac.py
+python3 scripts/telecharger_annales_bac.py   # telechargement
+python3 scripts/verifier_annales.py            # controle automatique
 ```
 
-Rapport : `RAPPORT_TELECHARGEMENT.txt`
-
-## EMC (oral)
-
-- [BO NS EMC — MENE2531481N](https://www.education.gouv.fr/bo/2025/Hebdo48/MENE2531481N)
-- [Grille évaluation — Académie de Paris](https://pia.ac-paris.fr/portail/jcms/p2_3605535/bac-2024-epreuve-ponctuelle-emc-grille-d-aide-a-l-evaluation-2024)
+Contact banque académique : `dec.gt-bcg@ac-grenoble.fr`
