@@ -10,6 +10,6 @@
 
 | Fichier | Statut |
 |---------|--------|
-| [methode-ecrit.md](methode-ecrit.md) | squelette |
-| [methode-oral.md](methode-oral.md) | squelette |
-| [oeuvre-1.md](oeuvre-1.md) … [oeuvre-4.md](oeuvre-4.md) | squelette (choix candidat) |
+| [methode-ecrit.md](methode-ecrit.md) | rédigé |
+| [methode-oral.md](methode-oral.md) | rédigé |
+| [oeuvre-1.md](oeuvre-1.md) … [oeuvre-4.md](oeuvre-4.md) | rédigé (placeholders œuvre/parcours) |

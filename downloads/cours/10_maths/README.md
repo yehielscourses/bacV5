@@ -8,10 +8,10 @@
 
 | Section BO | Fichier | Statut |
 |------------|---------|--------|
-| Combinatoire | [section-combinatoire.md](section-combinatoire.md) | squelette |
-| Vecteurs | [section-vecteurs.md](section-vecteurs.md) | squelette |
-| Suites | [section-suites.md](section-suites.md) | squelette |
-| Limites / dérivées | [section-limites-derivees.md](section-limites-derivees.md) | squelette |
-| Intégrales | [section-integrales.md](section-integrales.md) | squelette |
-| Probabilités | [section-probabilites.md](section-probabilites.md) | squelette |
-| Algo Python | [section-algo-python.md](section-algo-python.md) | squelette |
+| Combinatoire | [section-combinatoire.md](section-combinatoire.md) | **rédigé** |
+| Vecteurs | [section-vecteurs.md](section-vecteurs.md) | **rédigé** |
+| Suites | [section-suites.md](section-suites.md) | **rédigé** |
+| Limites / dérivées | [section-limites-derivees.md](section-limites-derivees.md) | **rédigé** |
+| Intégrales | [section-integrales.md](section-integrales.md) | **rédigé** |
+| Probabilités | [section-probabilites.md](section-probabilites.md) | **rédigé** |
+| Algo Python | [section-algo-python.md](section-algo-python.md) | **rédigé** |

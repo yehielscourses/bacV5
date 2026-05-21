@@ -10,8 +10,8 @@
 
 | Compétence | Fichier | Statut |
 |------------|---------|--------|
-| CO | [competence-co.md](competence-co.md) | squelette |
-| CE | [competence-ce.md](competence-ce.md) | squelette |
-| EE | [competence-ee.md](competence-ee.md) | squelette |
-| EO | [competence-eo.md](competence-eo.md) | squelette |
-| Axe culturel | [competence-axe-culturel.md](competence-axe-culturel.md) | squelette — [checklist](../../fiches/00_checklist_candidat.md) |
+| CO | [competence-co.md](competence-co.md) | rédigé |
+| CE | [competence-ce.md](competence-ce.md) | rédigé |
+| EE | [competence-ee.md](competence-ee.md) | rédigé |
+| EO | [competence-eo.md](competence-eo.md) | rédigé |
+| Axe culturel | [competence-axe-culturel.md](competence-axe-culturel.md) | rédigé — [checklist](../../fiches/00_checklist_candidat.md) |

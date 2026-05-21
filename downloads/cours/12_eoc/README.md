@@ -7,4 +7,4 @@
 
 | Fichier | Statut |
 |---------|--------|
-| [methode-eoc.md](methode-eoc.md) | squelette |
+| [methode-eoc.md](methode-eoc.md) | **rédigé** |

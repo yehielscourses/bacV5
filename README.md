@@ -25,7 +25,7 @@ scripts/
 | Document | Rôle |
 |----------|------|
 | [downloads/fiches/README.md](downloads/fiches/README.md) | Calendrier des épreuves et fiches par matière |
-| [downloads/cours/README.md](downloads/cours/README.md) | Cours markdown par matière (HG, ES, EMC, NSI rédigés ; reste squelette) |
+| [downloads/cours/README.md](downloads/cours/README.md) | Cours markdown par matière (reprise après 5e — **89 leçons rédigées**) |
 | [downloads/programmes/TABLEAU_PROGRAMMES.md](downloads/programmes/TABLEAU_PROGRAMMES.md) | Typologie ponctuelles / terminales → programmes BO |
 | [downloads/LACUNES_POUR_FICHES_REVISION.md](downloads/LACUNES_POUR_FICHES_REVISION.md) | État des lacunes (repo + candidat) |
 | [downloads/notes_de_service/VERIFICATION_NOTES_DE_SERVICE.md](downloads/notes_de_service/VERIFICATION_NOTES_DE_SERVICE.md) | Modalités, coefficients, NS locales |

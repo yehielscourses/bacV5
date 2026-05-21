@@ -4,6 +4,8 @@
 
 | Fichier | Contenu | Statut |
 |---------|---------|--------|
-| [mathematiques-base.md](mathematiques-base.md) | Fractions, équations, proportionnalité | squelette |
-| [francais-lecture.md](francais-lecture.md) | Lecture, phrase, argumentation | squelette |
-| [unites-et-grandeurs.md](unites-et-grandeurs.md) | SI, conversions (ES/PC) | squelette |
+| [mathematiques-base.md](mathematiques-base.md) | Fractions, équations, pourcentages | **rédigé** |
+| [francais-lecture.md](francais-lecture.md) | Lecture, thèse, arguments | **rédigé** |
+| [unites-et-grandeurs.md](unites-et-grandeurs.md) | SI, conversions (ES/PC) | **rédigé** |
+
+Standard : [.cursor/skills/bac-cours-reprise/reference.md](../../../.cursor/skills/bac-cours-reprise/reference.md)

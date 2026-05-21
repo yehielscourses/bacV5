@@ -14,6 +14,7 @@
 | **Synthèse philo notions/auteurs** | `syntheses/philo_notions_auteurs.md` |
 | **Liens entraînement** | `ressources/LIENS_ENTRAINEMENT.md` |
 | **EPS passée** | `fiches/14_eps.md` + checklist |
+| **Cours contenu (reprise 5e)** | `downloads/cours/` — **89 leçons rédigées** (skill `bac-cours-reprise`) |
 
 ---
 
@@ -56,14 +57,14 @@ Voir `ressources/LIENS_ENTRAINEMENT.md`.
 
 | Matière | Fiche | Bloquant restant |
 |---------|-------|------------------|
-| HG | ✅ | Questions (A)/(B) détaillées dans BO — révision thèmes |
+| HG | ✅ fiche + **cours** | Questions (A)/(B) — révision via `cours/01_hg/` |
 | ES | ✅ | Détail NS BO (navigateur) |
 | EMC | ✅ | Détail NS BO (navigateur) |
 | LV | ✅ | Axes candidat + grilles |
 | NSI | ✅ | Banque QCM |
-| Français | ✅ coque | **Œuvres + récap** |
-| Philo, PC, Maths | ✅ | Sujets zéro |
-| GO | ✅ coque | **2 questions** |
+| Français | ✅ fiche + **cours** | **Œuvres + récap** (cours : placeholders à personnaliser) |
+| Philo, PC, Maths | ✅ fiche + **cours** | Sujets zéro |
+| GO | ✅ fiche + **cours** | **2 questions** |
 | EPS | ✅ passée | — |
 | EOC | ✅ | Conditionnel 07/07 |
 

@@ -10,8 +10,8 @@
 
 | Compétence | Fichier | Statut |
 |------------|---------|--------|
-| CO | [competence-co.md](competence-co.md) | squelette |
-| CE | [competence-ce.md](competence-ce.md) | squelette |
-| EE | [competence-ee.md](competence-ee.md) | squelette |
-| EO | [competence-eo.md](competence-eo.md) | squelette |
-| Axe culturel | [competence-axe-culturel-hebreu.md](competence-axe-culturel-hebreu.md) | squelette — checklist |
+| CO | [competence-co.md](competence-co.md) | rédigé |
+| CE | [competence-ce.md](competence-ce.md) | rédigé |
+| EE | [competence-ee.md](competence-ee.md) | rédigé |
+| EO | [competence-eo.md](competence-eo.md) | rédigé |
+| Axe culturel | [competence-axe-culturel-hebreu.md](competence-axe-culturel-hebreu.md) | rédigé — checklist |
