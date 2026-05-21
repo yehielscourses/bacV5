@@ -10,6 +10,7 @@ downloads/
 ├── notes_de_service/    # NS Eduscol + BO ponctuelles (pdf + md)
 ├── grilles/             # Grilles et barèmes (pdf + synthèses md)
 ├── fiches/              # Une fiche par épreuve + checklist candidat
+├── cours/               # Cours contenu (reprise après 5e), par chapitre BO
 ├── syntheses/           # NSI 7 rubriques, philo notions/auteurs
 ├── ressources/          # Œuvres français, liens entraînement
 ├── convocation/         # Convocation anonymisée
@@ -24,6 +25,7 @@ scripts/
 | Document | Rôle |
 |----------|------|
 | [downloads/fiches/README.md](downloads/fiches/README.md) | Calendrier des épreuves et fiches par matière |
+| [downloads/cours/README.md](downloads/cours/README.md) | Cours markdown par matière (HG, ES, EMC, NSI rédigés ; reste squelette) |
 | [downloads/programmes/TABLEAU_PROGRAMMES.md](downloads/programmes/TABLEAU_PROGRAMMES.md) | Typologie ponctuelles / terminales → programmes BO |
 | [downloads/LACUNES_POUR_FICHES_REVISION.md](downloads/LACUNES_POUR_FICHES_REVISION.md) | État des lacunes (repo + candidat) |
 | [downloads/notes_de_service/VERIFICATION_NOTES_DE_SERVICE.md](downloads/notes_de_service/VERIFICATION_NOTES_DE_SERVICE.md) | Modalités, coefficients, NS locales |

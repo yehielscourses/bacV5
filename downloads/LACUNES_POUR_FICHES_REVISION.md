@@ -16,6 +16,7 @@
 | **EPS passée** | `fiches/14_eps.md` + checklist |
 | **Convocation anonymisée** | `convocation/Convocation_Epreuves_Anonymisee.md` |
 | **NS BO individuels, ES, EMC, EPS** | `notes_de_service/pdf_version/09`–`12` + `markdown_version/` |
+| **Cours de révision (contenu)** | `cours/` — HG/ES/EMC/NSI rédigés ; LV, français, philo, spé, GO en squelette |
 
 ---
 
@@ -54,13 +55,13 @@ Voir `ressources/LIENS_ENTRAINEMENT.md`.
 
 | Matière | Fiche | Bloquant restant |
 |---------|-------|------------------|
-| HG | ✅ | Questions (A)/(B) détaillées dans BO — révision thèmes |
-| ES | ✅ | Révision thèmes + sujets types |
-| EMC | ✅ | Liste domaines + préparation oral |
+| HG | ✅ | Cours : `cours/01_hg/` (3 rédigés, reste squelette) |
+| ES | ✅ | Cours : `cours/02_es/` (4 fichiers rédigés) |
+| EMC | ✅ | Cours : `cours/03_emc/` (4 domaines rédigés) |
 | LV | ✅ | Axes candidat + grilles |
-| NSI | ✅ | Banque QCM |
+| NSI | ✅ | Cours : `cours/06_nsi/` (6 rubriques rédigées) · banque QCM |
 | Français | ✅ coque | **Œuvres + récap** |
-| Philo, PC, Maths | ✅ | Sujets zéro |
+| Philo, PC, Maths | ✅ coque cours | Squelettes `cours/08_philo`, `09_pc`, `10_maths` + fondations |
 | GO | ✅ coque | **2 questions** |
 | EPS | ✅ passée | — |
 | EOC | ✅ | Conditionnel 07/07 |
