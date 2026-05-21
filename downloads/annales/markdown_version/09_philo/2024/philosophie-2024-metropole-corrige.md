@@ -1,6 +1,6 @@
 # philosophie-2024-metropole-corrige
 
-> Source : `../../../pdf_version/09_philo/2024/philosophie-2024-metropole-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/09_philo/2024/philosophie-2024-metropole-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -86,8 +86,6 @@ Analyse des termes du sujet
 
 
 Corrigé Bac 2024 – Philosophie – Métropole                              www.sujetdebac.fr
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/09_philo/2024/philosophie-2024-metropole-corrige/page-02.png)
 
 ---
 
@@ -197,6 +195,8 @@ Corrigé Bac 2024 – Philosophie – Métropole                               w
 
 ## Page 5
 
+*(Suite de la page précédente — le document continue ici.)*
+
 par essais et erreurs, en réfutant des hypothèses plutôt qu’en prouvant des vérités
 absolues. Ce qui est considéré comme vrai aujourd'hui pourrait être réfuté demain.
 Dans sa théorie des Idées, Platon suggère que la vérité ultime se trouve dans le monde
@@ -245,6 +245,8 @@ Corrigé Bac 2024 – Philosophie – Métropole                             www
 ---
 
 ## Page 6
+
+*(Suite de la page précédente — le document continue ici.)*
 
 également une éventuelle pluralité des « dettes » ou obligations que l’État pourrait
   avoir envers ses citoyens.
@@ -349,6 +351,8 @@ Corrigé Bac 2024 – Philosophie – Métropole                                
 
 ## Page 8
 
+*(Suite de la page précédente — le document continue ici.)*
+
 justice équitable, comme la gratuité de l’aide juridictionnelle pour les plus pauvres en
 France.
 Dans les démocraties modernes, les constitutions et les déclarations des droits de
@@ -445,6 +449,8 @@ Corrigé Bac 2024 – Philosophie – Métropole                                
 
 ## Page 10
 
+*(Suite de la page précédente — le document continue ici.)*
+
 soulève une réflexion sur le lien entre la structure économique et les relations
   humaines, et comment un environnement de travail peut nourrir l’indifférence, voire
   la brutalité, en érodant la solidarité et l’empathie.
@@ -491,8 +497,6 @@ de sens.
 
 
 Corrigé Bac 2024 – Philosophie – Métropole                              www.sujetdebac.fr
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/09_philo/2024/philosophie-2024-metropole-corrige/page-10.png)
 
 ---
 

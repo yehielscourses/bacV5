@@ -1,6 +1,6 @@
 # francais-premiere-2021-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---

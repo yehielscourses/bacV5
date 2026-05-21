@@ -1,6 +1,6 @@
 # spe-mathematiques-2021-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -206,10 +206,6 @@ triangle ABC.
 
                                                                                                Page 4 /6
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -258,10 +254,6 @@ d’intersection de la droite Δ et de la courbe 𝐶𝑔 .
 
 
                                                                                        Page 5 /6
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/11_maths/2021/spe-mathematiques-2021-metropole-2-sujet-officiel/img-05-01.png)
 
 ---
 

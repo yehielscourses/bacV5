@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05472-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -37,10 +37,6 @@
 
 Page 1 / 7
                                                                             GTCENSC05472
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -84,16 +80,6 @@ Exercice 1 - Population de la France métropolitaine de 1946
 
 Page 2 / 7
                                                                       GTCENSC05472
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-02-04.png)
 
 ---
 
@@ -145,12 +131,6 @@ Le recensement effectué au cours de l’année 2020 montre que la population en
 Page 3 / 7
                                                                     GTCENSC05472
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-03-02.png)
-
 ---
 
 ## Page 4
@@ -194,14 +174,6 @@ Exercice 2 - Réchauffement climatique et pêche au
 Page 4 / 7
                                                                     GTCENSC05472
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-04-02.jpeg)
-
-![Image embarquée 3 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-04-03.png)
-
 ---
 
 ## Page 5
@@ -243,14 +215,6 @@ Seule la couche superficielle (de hauteur H = 300 à 500 m sur le schéma) est
 Page 5 / 7
                                                                                       GTCENSC05472
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-05-02.jpeg)
-
-![Image embarquée 3 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-05-03.png)
-
 ---
 
 ## Page 6
@@ -285,10 +249,6 @@ Page 5 / 7
 Page 6 / 7
                                                                  GTCENSC05472
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-06-01.png)
-
 ---
 
 ## Page 7
@@ -321,13 +281,3 @@ Document 3 : carte des terres émergées du littoral de Charente-Maritime en fon
 
 Page 7 / 7
                                                              GTCENSC05472
-
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-02.jpeg)
-
-![Image embarquée 3 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-03.jpeg)
-
-![Image embarquée 4 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05472-sujet-officiel/img-07-04.jpeg)

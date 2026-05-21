@@ -1,6 +1,6 @@
 # e3c-histoire-geographie-general-premiere-02443-sujet-officiel
 
-> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 
 Page 1 / 4
                                                                             G1CHIGE02443
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -95,10 +91,6 @@ Première partie : question problématisée (sur 10 points)
 Page 2 / 4
                                                                     G1CHIGE02443
 
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/img-02-01.jpeg)
-
 ---
 
 ## Page 3
@@ -144,10 +136,6 @@ Page 2 / 4
 Page 3 / 4
                                                                   G1CHIGE02443
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -172,8 +160,4 @@ Document 2 : Photographie du champ de bataille de la Somme après l’offensive,
 Page 4 / 4
                                                                      G1CHIGE02443
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/img-04-01.jpeg)
-
-![Image embarquée 2 (page 4)](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/img-04-02.jpeg)
+![Page 4 — carte / document visuel](../../../../assets/01_hg_ponctuelle/e3c/2021_premiere/e3c-histoire-geographie-general-premiere-02443-sujet-officiel/page-04.png)

@@ -1,6 +1,6 @@
 # francais-premiere-2021-metropole-1-corrige-officiel
 
-> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -29,8 +29,6 @@ BACCALAURÉAT GÉNÉRAL
 
 
 21-FRGEME1C                          Page 1/23
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-01.png)
 
 ---
 
@@ -89,11 +87,11 @@ l’ordinaire : « Peut-être s’agit-il de fonder enfin notre propre anthropol
 Ribière, Nantes, Joseph K., 2003, t. II, p. 236.
 21-FRGEME1C                                                                                              Page 2/23
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-02.png)
-
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 qui ira chercher en nous ce que nous avons si longtemps pillé chez les autres. Non plus l’exotique,
 mais l’endotique. »2.
@@ -296,8 +294,6 @@ Le « miracle » ne peut s’accomplir s’ils sont présents. Georges Perec sou
 
 21-FRGEME1C                                                                            Page 6/23
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-06.png)
-
 ---
 
 ## Page 7
@@ -351,8 +347,6 @@ parcours associé et sur votre culture personnelle.
 
 21-FRGEME1C                                                                             Page 7/23
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-07.png)
-
 ---
 
 ## Page 8
@@ -404,8 +398,6 @@ recueil qui semble pourtant autobiographique.
 
 Bordeaux, Presses universitaires de Bordeaux, 1996, p. 87.
 21-FRGEME1C                                                                                             Page 8/23
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-08.png)
 
 ---
 
@@ -459,11 +451,11 @@ Contemplations du projet des Misérables, qui date de 1845, et du Discours sur l
      que « Vingt-cinq années sont dans ces deux volumes », avant d’ajouter : « C’est l’existence
 21-FRGEME1C                                                                             Page 9/23
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-09.png)
-
 ---
 
 ## Page 10
+
+*(Suite de la page précédente — le document continue ici.)*
 
 humaine sortant de l’énigme du berceau et aboutissant à l’énigme du cercueil ; c’est un esprit
        qui marche de lueur en lueur en laissant derrière lui la jeunesse, l’amour, l’illusion, le combat,
@@ -565,6 +557,8 @@ Aragon par exemple, ou Les Regrets de Joachim Du Bellay.]
 
 ## Page 12
 
+*(Suite de la page précédente — le document continue ici.)*
+
 à l’universel. D’un autre point de vue, c’est aussi par cette omniprésence du moi poétique,
       recréation du moi intime, que le lecteur est invité à plonger dans les abîmes de la conscience
       humaine.
@@ -644,8 +638,6 @@ associé et sur votre culture personnelle.
 
 21-FRGEME1C                                                                             Page 13/23
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-13.png)
-
 ---
 
 ## Page 14
@@ -702,6 +694,8 @@ Baudelaire prend à témoin le lecteur, l’entraînant dans le récit d’une e
 ---
 
 ## Page 15
+
+*(Suite de la page précédente — le document continue ici.)*
 
 souvenir qui parvient à revivre dans le concret de la sensation. Le poète est celui qui sait « l’art
 d’évoquer les minutes heureuses », le « crépuscule du soir » comme celui du matin, tous les plaisirs
@@ -805,6 +799,8 @@ une forte autonomie, ce qui nourrit et élargit la très grande liberté d’une
 
 ## Page 17
 
+*(Suite de la page précédente — le document continue ici.)*
+
 à elle-même ses propres lois ; c’est le cas par exemple dans les six premiers vers de « Sed non
 satiata » où les coréférences sont lâches et induisent une certaine équivoque.
 
@@ -851,8 +847,6 @@ un poète-pantocrator se fait le rival de Dieu, pouvant faire advenir le paradis
 résigner à l’attente (« Les Litanies de Satan »). Cette veine satanique, héritée du Romantisme, est
 active dans Les Fleurs du mal.
 21-FRGEME1C                                                                                Page 17/23
-
-![Page 17 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-17.png)
 
 ---
 
@@ -903,8 +897,6 @@ la pratique de l’hypnose dans le groupe surréaliste.]
 
 
 21-FRGEME1C                                                                                  Page 18/23
-
-![Page 18 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-18.png)
 
 ---
 
@@ -957,8 +949,6 @@ sur votre culture personnelle.
 
 
 21-FRGEME1C                                                                             Page 19/23
-
-![Page 19 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-19.png)
 
 ---
 
@@ -1067,6 +1057,8 @@ France.]
 
 ## Page 22
 
+*(Suite de la page précédente — le document continue ici.)*
+
 quel voyage ! dans le mythe, la religion et la littérature, de l’Antiquité égyptienne ou
                 gréco-latine à la Bible, sans oublier le drame hindou. Les lectures du poète
                 semblent lui avoir fourni des images qui peuplent son imaginaire ; la sorcière Lorelei
@@ -1114,8 +1106,6 @@ la description des paysages urbains.]
 
 
 21-FRGEME1C                                                                                Page 22/23
-
-![Page 22 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-corrige-officiel/page-22.png)
 
 ---
 

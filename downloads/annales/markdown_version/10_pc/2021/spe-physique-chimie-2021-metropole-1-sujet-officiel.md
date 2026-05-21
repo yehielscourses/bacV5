@@ -1,6 +1,6 @@
 # spe-physique-chimie-2021-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -107,22 +107,6 @@ vertical.
 
                                                                                                       Page 2 / 13
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-04.png)
-
-![Image embarquée 5 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-05.png)
-
-![Image embarquée 6 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-06.png)
-
-![Image embarquée 7 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-02-07.png)
-
 ---
 
 ## Page 3
@@ -172,12 +156,6 @@ qui permet de représenter l’évolution au cours du temps des énergies cinét
 
 
                                                                                                       Page 3 / 13
-
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -238,16 +216,6 @@ La distance d qui sépare l’origine O du repère d’espace et le bord de la p
 
 
                                                                                                    Page 4 / 13
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-04-03.png)
-
-![Image embarquée 4 (page 4)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-04-04.png)
 
 ---
 
@@ -335,8 +303,6 @@ correspondante :
 
                                                                                                               Page 6 / 13
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-06.png)
-
 ---
 
 ## Page 7
@@ -401,16 +367,6 @@ d’un yaourt.
 
 
                                                                                                          Page 7 / 13
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-07-03.png)
-
-![Image embarquée 4 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-07-04.png)
 
 ---
 
@@ -551,38 +507,6 @@ Cu2O(s), de couleur rouge-brique. L’équation de la réaction modélisant cett
 
                                                                                                                  Page 9 / 13
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-02.png)
-
-![Image embarquée 3 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-03.jpeg)
-
-![Image embarquée 4 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-04.png)
-
-![Image embarquée 5 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-05.png)
-
-![Image embarquée 6 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-06.png)
-
-![Image embarquée 7 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-07.png)
-
-![Image embarquée 8 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-08.png)
-
-![Image embarquée 9 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-09.png)
-
-![Image embarquée 10 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-10.png)
-
-![Image embarquée 11 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-11.png)
-
-![Image embarquée 12 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-12.png)
-
-![Image embarquée 13 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-13.png)
-
-![Image embarquée 14 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-14.png)
-
-![Image embarquée 15 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-09-15.png)
-
 ---
 
 ## Page 10
@@ -628,8 +552,6 @@ on réalise l’expérience suivante :
 
 
                                                                                               Page 10 / 13
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-10.png)
 
 ---
 
@@ -693,12 +615,6 @@ Le protocole expérimental simplifié est le suivant :
 
                                                                                                    Page 11 / 13
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-11-02.jpeg)
-
 ---
 
 ## Page 12
@@ -760,12 +676,6 @@ de 1,11 g de phénythoïne.
 
                                                                                                      Page 12 / 13
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-12.png)
-
-![Image embarquée 1 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-12-01.png)
-
-![Image embarquée 2 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/img-12-02.png)
-
 ---
 
 ## Page 13
@@ -793,4 +703,4 @@ Calculer le rendement de l’étape 3 de la synthèse de la phénytoïne.
 
                                                                                                 Page 13 / 13
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-13.png)
+![Page 13 — carte / document visuel](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-sujet-officiel/page-13.png)

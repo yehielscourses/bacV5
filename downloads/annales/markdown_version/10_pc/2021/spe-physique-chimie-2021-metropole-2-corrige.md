@@ -1,6 +1,6 @@
 # spe-physique-chimie-2021-metropole-2-corrige
 
-> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -21,8 +21,6 @@ Sujet de spécialité — Proposition de corrigé
 
 
          Ce corrigé est composé de 11 pages.
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige/page-01.png)
 
 ---
 
@@ -81,8 +79,6 @@ Exercice 1 —           L’aquarium récifal
           est visible sur la courbe, avec une pente positive sur la seconde partie du graphe.
 
 Sujet 2                                                                            Page 2 sur 11
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige/page-02.png)
 
 ---
 
@@ -214,8 +210,6 @@ Baccalauréat général        Épreuve de Physique-Chimie (spécialité)       
                                   mC   kmC    0, 1 × 100, 0 × 10−3
 
 Sujet 2                                                                                Page 4 sur 11
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige/page-04.png)
 
 ---
 
@@ -372,8 +366,6 @@ Baccalauréat général        Épreuve de Physique-Chimie (spécialité)       
 
 Sujet 2                                                                                    Page 7 sur 11
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige/page-07.png)
-
 ---
 
 ## Page 8
@@ -504,8 +496,6 @@ Baccalauréat général       Épreuve de Physique-Chimie (spécialité)        
 
 Sujet 2                                                                            Page 9 sur 11
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige/page-09.png)
-
 ---
 
 ## Page 10
@@ -572,8 +562,6 @@ Exercice C —           Quelle taille pour les mailles d’un tamis ?
           Donc finalement, la distance entre deux trous du tamis vaut b = 3, 4(±0, 2) × 10−4 m.
 
 Sujet 2                                                                                       Page 10 sur 11
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige/page-10.png)
 
 ---
 

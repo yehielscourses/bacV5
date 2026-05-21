@@ -1,6 +1,6 @@
 # philosophie-2023-metropole-corrige
 
-> Source : `../../../pdf_version/09_philo/2023/philosophie-2023-metropole-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/09_philo/2023/philosophie-2023-metropole-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -85,11 +85,11 @@ bonheur, en tant qu'état de satisfaction et de bien-être, et la raison, en tan
 
 Corrigé Bac 2023 – Philosophie – Métropole                               www.sujetdebac.fr
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/09_philo/2023/philosophie-2023-metropole-corrige/page-02.png)
-
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 de penser de manière logique et rationnelle. Il nous demande d'examiner si le bonheur
 dépend de la capacité à raisonner de manière appropriée, à prendre des décisions
@@ -432,6 +432,8 @@ Corrigé Bac 2023 – Philosophie – Métropole                              ww
 ---
 
 ## Page 10
+
+*(Suite de la page précédente — le document continue ici.)*
 
 que ces matériaux ne sont pas choisis pour un projet précis mais sont le fruit
 d'opportunités passées.

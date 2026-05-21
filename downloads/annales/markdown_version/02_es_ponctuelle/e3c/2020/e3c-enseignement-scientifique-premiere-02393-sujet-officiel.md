@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-premiere-02393-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 Page 1 / 9
                                                                             G1CENSC02393
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -82,14 +78,6 @@ EXERCICE 1
 
 Page 2 / 9
                                                                 G1CENSC02393
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-02-03.png)
 
 ---
 
@@ -138,10 +126,6 @@ Page 2 / 9
 Page 3 / 9
                                                                    G1CENSC02393
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -176,12 +160,6 @@ Partie 2 : détermination de l’âge de la Terre
 
 Page 4 / 9
                                                                      G1CENSC02393
-
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-04-02.png)
 
 ---
 
@@ -228,15 +206,11 @@ Page 4 / 9
 Page 5 / 9
                                                                 G1CENSC02393
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-05-02.png)
-
 ---
 
 ## Page 6
+
+*(Suite de la page précédente — le document continue ici.)*
 
 disposée en cercle parfait. Dans la lune, en effet, la cavité est entourée de cimes si
       élevées que la région extrême, attenante à la partie ténébreuse, se voit illuminée
@@ -261,12 +235,6 @@ disposée en cercle parfait. Dans la lune, en effet, la cavité est entourée de
 
 Page 6 / 9
                                                                  G1CENSC02393
-
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -302,12 +270,6 @@ Document 2. Observations de Léonard de Vinci
 Page 7 / 9
                                                                   G1CENSC02393
 
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-07-02.png)
-
 ---
 
 ## Page 8
@@ -340,12 +302,6 @@ Document 3. Calendrier du premier semestre 2021
 
 Page 8 / 9
                                                                 G1CENSC02393
-
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-08-02.jpeg)
 
 ---
 
@@ -390,7 +346,3 @@ Voici plusieurs propositions pour expliquer ce phénomène :
 
 Page 9 / 9
                                                                  G1CENSC02393
-
-![Page 9 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02393-sujet-officiel/img-09-01.png)

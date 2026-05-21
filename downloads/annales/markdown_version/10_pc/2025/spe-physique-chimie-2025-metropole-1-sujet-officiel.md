@@ -1,6 +1,6 @@
 # spe-physique-chimie-2025-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -103,22 +103,6 @@ Données :
 
 
                                                            EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-02.jpeg)
-
-![Image embarquée 3 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-03.jpeg)
-
-![Image embarquée 4 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-04.jpeg)
-
-![Image embarquée 5 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-05.jpeg)
-
-![Image embarquée 6 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-06.png)
-
-![Image embarquée 7 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-02-07.png)
 
 ---
 
@@ -250,8 +234,6 @@ L’équation de la réaction support du titrage est :
 
                                                                 EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-04.png)
-
 ---
 
 ## Page 5
@@ -321,10 +303,6 @@ Données :
 
                                                         EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-05-01.jpeg)
-
 ---
 
 ## Page 6
@@ -388,14 +366,6 @@ basique. Le protocole mis en place est le suivant :
 
                                                          EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-06-03.png)
-
 ---
 
 ## Page 7
@@ -430,8 +400,6 @@ en explicitant les évolutions de la couleur de la pastille de l’emballage au 
 
 
                                                         EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-07.png)
 
 ---
 
@@ -499,14 +467,6 @@ Q6. Justifier que le rubidium 87 est adapté pour dater un échantillon de 1 g d
 
 
                                                          EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-08-02.png)
-
-![Image embarquée 3 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-08-03.jpeg)
 
 ---
 
@@ -576,11 +536,11 @@ figure 1 ci-après :
 
                                                                      EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-09.png)
-
 ---
 
 ## Page 10
+
+*(Suite de la page précédente — le document continue ici.)*
 
 y
            0,735
@@ -617,7 +577,7 @@ Q12. Déterminer l’âge troche de la roche du site de Meymac.
 
                                                       EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-10.png)
+![Page 10 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-10.png)
 
 ---
 
@@ -690,18 +650,6 @@ Q1. Montrer, à l’aide d’un raisonnement sur les unités, que la viscosité 
 
                                                                     EducN_MMDQ0Mj5MzMDka5MD6gzMtjAyNj3A1MjEHwMzyE4MCTkg
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-11-02.png)
-
-![Image embarquée 3 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-11-03.png)
-
-![Image embarquée 4 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-11-04.png)
-
-![Image embarquée 5 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/img-11-05.jpeg)
-
 ---
 
 ## Page 12
@@ -765,5 +713,3 @@ sachant que le tube du viscosimètre a une hauteur d’environ 15 cm.
 
 
 25-PYCJ1ME1                                                                                             Page 12/12
-
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-sujet-officiel/page-12.png)

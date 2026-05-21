@@ -1,6 +1,6 @@
 # spe-physique-chimie-2024-metropole-1-corrige
 
-> Source : `../../../pdf_version/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -23,7 +23,7 @@ Baccalauréat Général
 
      Ce corrigé est composé de 9 pages.
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-01.png)
+![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-01.png)
 
 ---
 
@@ -89,8 +89,6 @@ Q7. Les composés P1, P2 et P3 ont la même formule brute que le thymol, et sont
 
                                                                                    Page 2 sur 9
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-02.png)
-
 ---
 
 ## Page 3
@@ -153,8 +151,6 @@ plus longue
 
 
                                                                                                 Page 3 sur 9
-
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-03.png)
 
 ---
 
@@ -239,8 +235,6 @@ sur la Tour Eiffel.
 
 
                                                                                                    Page 5 sur 9
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-05.png)
 
 ---
 
@@ -399,4 +393,4 @@ Annexe : schéma d’optique pour l’exercice 2
 
                                                  B1
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-09.png)
+![Page 9 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-1-corrige/page-09.png)

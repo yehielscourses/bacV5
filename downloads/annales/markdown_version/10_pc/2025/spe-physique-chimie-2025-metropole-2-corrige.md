@@ -1,6 +1,6 @@
 # spe-physique-chimie-2025-metropole-2-corrige
 
-> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -26,7 +26,7 @@ Baccalauréat Général
 
      Ce corrigé est composé de 7 pages.
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige/page-01.png)
+![Page 1 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige/page-01.png)
 
 ---
 
@@ -91,8 +91,6 @@ Q7. On calcule alors le Z-score entre cette mesure et la valeur de référence :
      précision de cette méthode de mesure.
 
                                                                                      Page 2 sur 7
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige/page-02.png)
 
 ---
 
@@ -225,8 +223,6 @@ Q3. On a la réaction de précipitation des ions argent avec les ions chlorure :
 
                                                                                        Page 4 sur 7
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige/page-04.png)
-
 ---
 
 ## Page 5
@@ -292,8 +288,6 @@ Q2. On remarque, sur le spectre IR donné en figure 1, une bande fine et forte a
 
 
                                                                                                    Page 5 sur 7
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige/page-05.png)
 
 ---
 
@@ -420,5 +414,3 @@ Q11. On a, en prenant en compte le titre massique en géraniol dans le parfum, u
 
 
                                                                                          Page 7 sur 7
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-corrige/page-07.png)

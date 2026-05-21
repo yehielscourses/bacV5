@@ -1,6 +1,6 @@
 # spe-mathematiques-2023-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2023/spe-mathematiques-2023-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2023/spe-mathematiques-2023-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -103,10 +103,6 @@ proposé ci-contre.
 
 
    23-MATJ1ME1                                                            Page 2 sur 5
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-sujet-officiel/img-02-01.png)
 
 ---
 
@@ -278,7 +274,3 @@ orthonormé (𝐴 ; 𝐴𝐵,    ⃗⃗⃗⃗⃗⃗⃗ 𝐴𝐸
 
 
    23-MATJ1ME1                                                                Page 5 sur 5
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-sujet-officiel/img-05-01.png)

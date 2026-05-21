@@ -1,6 +1,6 @@
 # spe-mathematiques-2025-metropole-1-corrige
 
-> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -75,10 +75,6 @@ EXERCICE 1 (5 points)
 
 
 Corrigé Bac 2025 – Spécialité Mathématiques – Métropole – Jour 1             www.sujetdebac.fr
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-corrige/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-corrige/img-02-01.png)
 
 ---
 

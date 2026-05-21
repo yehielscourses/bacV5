@@ -1,6 +1,6 @@
 # e3c-histoire-geographie-general-terminale-05518-sujet-officiel
 
-> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -43,10 +43,6 @@
 
 Page 1 / 3
                                                                             GTCHIGE05518
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -95,10 +91,6 @@ Première partie : question problématisée (10 points)
 Page 2 / 3
                                                                  GTCHIGE05518
 
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/img-02-01.jpeg)
-
 ---
 
 ## Page 3
@@ -126,9 +118,3 @@ Document 2 : dessin de presse de Nicholas Garland sur les politiques économique
 
 Page 3 / 3
                                                                      GTCHIGE05518
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05518-sujet-officiel/img-03-02.jpeg)

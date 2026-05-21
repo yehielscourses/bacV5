@@ -1,6 +1,6 @@
 # e3c-histoire-geographie-general-terminale-05516-sujet-officiel
 
-> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -43,10 +43,6 @@
 
 Page 1 / 5
                                                                             GTCHIGE05516
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -94,13 +90,11 @@ Première partie : question problématisée (10 points)
 Page 2 / 5
                                                                   GTCHIGE05516
 
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/img-02-01.jpeg)
-
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 grave, ils fonctionnent sans beaucoup d'histoires, mais dès qu'il apparaît une
       circonstance dramatique, un grand problème à résoudre, on s'aperçoit, à ce moment-
@@ -124,10 +118,6 @@ grave, ils fonctionnent sans beaucoup d'histoires, mais dès qu'il apparaît une
 Page 3 / 5
                                                                  GTCHIGE05516
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -148,11 +138,7 @@ Document 2 : caricature anglaise sur les conditions pour l’entrée de la Grand
 Page 4 / 5
                                                                GTCHIGE05516
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/img-04-01.jpeg)
-
-![Image embarquée 2 (page 4)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/img-04-02.png)
+![Page 4 — carte / document visuel](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/page-04.png)
 
 ---
 
@@ -180,7 +166,3 @@ Page 4 / 5
 
 Page 5 / 5
                                                               GTCHIGE05516
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05516-sujet-officiel/img-05-01.png)

@@ -1,6 +1,6 @@
 # francais-premiere-2025-metropole-sujet-officiel
 
-> Source : `../../../pdf_version/08_francais/2025/francais-premiere-2025-metropole-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2025/francais-premiere-2025-metropole-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---

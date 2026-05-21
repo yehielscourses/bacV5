@@ -1,6 +1,6 @@
 # spe-physique-chimie-2025-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -43,6 +43,8 @@ BACCALAURÉAT GÉNÉRAL
 
 
 25-PYCJ2ME1                                                                          Page 1/14
+
+![Page 1 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-01.png)
 
 ---
 
@@ -115,14 +117,6 @@ continue E = 4,9 V.                                  R
 
                                                                  EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-02-03.jpeg)
-
 ---
 
 ## Page 3
@@ -188,12 +182,6 @@ On étudie la charge du condensateur à partir de la date t = 0, date à laquell
 
 
                                                                EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
-
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -265,20 +253,6 @@ optique, elle-même reliée à un spectromètre.
 
                                                          EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-03.png)
-
-![Image embarquée 4 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-04.png)
-
-![Image embarquée 5 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-05.png)
-
-![Image embarquée 6 (page 4)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-04-06.png)
-
 ---
 
 ## Page 5
@@ -336,8 +310,6 @@ la longueur d’onde. Les résultats obtenus et leur modélisation sont représe
 
                                                                                                EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-05.png)
-
 ---
 
 ## Page 6
@@ -384,20 +356,6 @@ de l’expérience, β = 3,02. Commenter.
 
 
                                                                               EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-06-06.png)
 
 ---
 
@@ -468,10 +426,6 @@ versé. On néglige la dilution liée à l’ajout de la solution titrante.
 
                                                                 EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-07-01.jpeg)
-
 ---
 
 ## Page 8
@@ -522,20 +476,6 @@ dans l’eau de Quinton.
 
 
                                                          EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-02.png)
-
-![Image embarquée 3 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-03.png)
-
-![Image embarquée 4 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-04.png)
-
-![Image embarquée 5 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-05.png)
-
-![Image embarquée 6 (page 8)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-08-06.png)
 
 ---
 
@@ -620,16 +560,6 @@ parmi le géraniol et l’éthanoate de géranyle.
 
                                                         EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-10.png)
-
-![Image embarquée 1 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-01.png)
-
-![Image embarquée 2 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-02.png)
-
-![Image embarquée 3 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-03.png)
-
-![Image embarquée 4 (page 10)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-10-04.jpeg)
-
 ---
 
 ## Page 11
@@ -685,18 +615,6 @@ H3C                       C       OH          H3C    C     O
 
                                                            EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-02.jpeg)
-
-![Image embarquée 3 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-03.png)
-
-![Image embarquée 4 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-04.png)
-
-![Image embarquée 5 (page 11)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-11-05.png)
-
 ---
 
 ## Page 12
@@ -749,12 +667,6 @@ est suivi par pH-métrie et la courbe obtenue est représentée sur la figure 2.
 
 
                                                           EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
-
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-12.png)
-
-![Image embarquée 1 (page 12)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-12-01.jpeg)
-
-![Image embarquée 2 (page 12)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-12-02.jpeg)
 
 ---
 
@@ -820,8 +732,6 @@ La démarche est évaluée et nécessite d’être correctement présentée.
 
                                                        EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-13.png)
-
 ---
 
 ## Page 14
@@ -834,7 +744,7 @@ Page blanche laissée intentionnellement.
 
                     EducN_MMDQ0Mj5MzMDka5MD2gzMtjAyNj1A1MjEHwMzxE4MUjMg
 
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-14.png)
+![Page 14 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-14.png)
 
 ---
 
@@ -893,10 +803,4 @@ ANNEXE À RENDRE AVEC LA COPIE
 
 25-PYCJ2ME1                                                                                   Page 14/14
 
-![Page 15 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-15.png)
-
-![Image embarquée 1 (page 15)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-15-01.png)
-
-![Image embarquée 2 (page 15)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-15-02.jpeg)
-
-![Image embarquée 3 (page 15)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/img-15-03.jpeg)
+![Page 15 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-2-sujet-officiel/page-15.png)

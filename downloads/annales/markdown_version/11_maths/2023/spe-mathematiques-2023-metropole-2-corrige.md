@@ -1,6 +1,6 @@
 # spe-mathematiques-2023-metropole-2-corrige
 
-> Source : `../../../pdf_version/11_maths/2023/spe-mathematiques-2023-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2023/spe-mathematiques-2023-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -65,8 +65,6 @@ D’après l’énoncé : 𝑃(𝐴) = 5                           𝑃𝐴 (�
                                                        ) × (25) × (25)
                                                   13 10              13 10
        𝑃(𝑋 ≥ 1) = 1 − 1 × 1 × (25)                         = 1 − (25)                        Réponse d
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-2-corrige/page-01.png)
 
 ---
 

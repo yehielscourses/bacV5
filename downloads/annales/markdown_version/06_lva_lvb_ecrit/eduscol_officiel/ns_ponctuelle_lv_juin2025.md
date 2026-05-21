@@ -1,6 +1,6 @@
 # ns_ponctuelle_lv_juin2025
 
-> Source : `../../../pdf_version/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -42,10 +42,6 @@ compter de la session 2021 de l’examen du baccalauréat.
 
 Note de service relative aux évaluations ponctuelles LVA et LVB_des voies G et T
 Version consolidée – juin 2025                                                          1
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/img-01-01.png)
 
 ---
 
@@ -163,8 +159,6 @@ En japonais, pour l’EC2 : entre 600 et 800 signes
 Note de service relative aux évaluations ponctuelles LVA et LVB_des voies G et T
 Version consolidée – juin 2025                                                            3
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/page-03.png)
-
 ---
 
 ## Page 4
@@ -224,8 +218,6 @@ En japonais, pour l’EC3 : entre 700 et 900 signes
 Note de service relative aux évaluations ponctuelles LVA et LVB_des voies G et T
 Version consolidée – juin 2025                                                        4
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/page-04.png)
-
 ---
 
 ## Page 5
@@ -283,11 +275,11 @@ temps.
 Note de service relative aux évaluations ponctuelles LVA et LVB_des voies G et T
 Version consolidée – juin 2025                                                           5
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/page-05.png)
-
 ---
 
 ## Page 6
+
+*(Suite de la page précédente — le document continue ici.)*
 
 en français ou en langue cible à une question portant la compréhension de l’ensemble
       du dossier constitué par les documents supports de l’évaluation de la compréhension
@@ -342,11 +334,11 @@ second temps (expression orale) de terminale de la langue vivante à laquelle le
 Note de service relative aux évaluations ponctuelles LVA et LVB_des voies G et T
 Version consolidée – juin 2025                                                           6
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025/page-06.png)
-
 ---
 
 ## Page 7
+
+*(Suite de la page précédente — le document continue ici.)*
 
 choisi d’adosser l’ETLV. Elle repose sur l’enseignement technologique qui a fait l’objet d’un
 enseignement d’ETLV au cours de l’année de terminale. Le jury est composé de deux

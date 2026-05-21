@@ -1,6 +1,6 @@
 # francais-premiere-2022-metropole-sujet-officiel
 
-> Source : `../../../pdf_version/08_francais/2022/francais-premiere-2022-metropole-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2022/francais-premiere-2022-metropole-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -94,8 +94,6 @@ Vous traiterez, au choix, l’un des deux sujets suivants :
 
 
      22-FRGEME2                                                                      Page 2 / 3
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-sujet-officiel/page-02.png)
 
 ---
 

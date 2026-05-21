@@ -1,6 +1,6 @@
 # ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578
 
-> Source : `../../../pdf_version/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -42,10 +42,6 @@ classe de première de la voie technologique à compter de la session 2021.
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie technologique   1
 
 Version consolidée juin 2025
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578/img-01-01.png)
 
 ---
 
@@ -157,8 +153,6 @@ mettre en évidence la logique et la rigueur du raisonnement du candidat.
 
 Version consolidée juin 2025
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578/page-03.png)
-
 ---
 
 ## Page 4
@@ -268,8 +262,6 @@ les difficultés rencontrées et les pistes envisagées pour les résoudre.
 
 Version consolidée juin 2025
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578/page-05.png)
-
 ---
 
 ## Page 6
@@ -328,6 +320,8 @@ Version consolidée juin 2025
 
 ## Page 7
 
+*(Suite de la page précédente — le document continue ici.)*
+
 candidat est construite à partir d’une ou de plusieurs questions de gestion figurant dans le
 programme d’enseignement de spécialité sciences de gestion et numérique de la classe de
 première, appliquée à une ou plusieurs organisations choisies par le candidat.
@@ -366,8 +360,6 @@ L’évaluateur renseigne une grille d’évaluation conforme au modèle défini
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie technologique   7
 
 Version consolidée juin 2025
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluation-ponctuelleeds-non-poursuivivoie-tjuin-2025pdf-100578/page-07.png)
 
 ---
 

@@ -1,6 +1,6 @@
 # spe-mathematiques-2024-metropole-2-corrige
 
-> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -54,10 +54,6 @@ la question est d’environ 0,962.
 valeurs entières.
 Pour tout 𝑛 ∈ ℕ, 𝑃(𝑁 ≥ 𝑛) ≥ 0,65 ⇔ 1 − 𝑃(𝑁 ≤ 𝑛 − 1) ≥ 0,65 ⇔ 𝑃(𝑁 ≤ 𝑛 − 1) ≥ 0,35
 D’après la calculatrice, 𝑃(𝑁 ≤ 10) ≈ 0,203 < 0,35 et 𝑃 (𝑁 ≤ 11) ≈ 0,351 ≥ 0,35.
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/img-01-01.png)
 
 ---
 
@@ -200,10 +196,6 @@ Partie B : étude d’un modèle continu
                                                                                   𝟒
        constante réelle.
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -276,8 +268,6 @@ Calcul du discriminant : Δ = 62 − 4 × 2 × 5 = 36 − 40 = −4. Δ < 0 donc
 
 Comme 2 > 0, on a : pour tout 𝑥 ∈ ] − 2 ; +∞[, 2𝑥 2 + 6𝑥 + 5 > 0.
 Donc, pour tout 𝑥 ∈ ] − 2 ; +∞[, 𝑓′(𝑥) > 0, donc 𝑓 est strictement croissante sur ] − 2 ; +∞[
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-corrige/page-06.png)
 
 ---
 

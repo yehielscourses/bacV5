@@ -1,6 +1,6 @@
 # e3c-histoire-geographie-general-terminale-05515-sujet-officiel
 
-> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -44,10 +44,6 @@
 Page 1 / 4
                                                                             GTCHIGE05515
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -79,12 +75,6 @@ Première partie : question problématisée (10 points)
 
 Page 2 / 4
                                                                GTCHIGE05515
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -132,10 +122,6 @@ Document 2 : extraits du discours d'ouverture de Sukarno à la conférence de
 Page 3 / 4
                                                                  GTCHIGE05515
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -159,7 +145,3 @@ Et pourtant, nous nous connaissons si peu ! Si cette conférence parvient à fai
 
 Page 4 / 4
                                                                  GTCHIGE05515
-
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05515-sujet-officiel/img-04-01.jpeg)

@@ -1,6 +1,6 @@
 # e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel
 
-> Source : `../../../../pdf_version/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 Page 1 / 2
                                                                             C1CANGL04212
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -81,7 +77,3 @@ ANGLAIS – ÉVALUATION 1
 
 Page 2 / 2
                                                              C1CANGL04212
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/06_lva_lvb_ecrit/e3c_anglais_lva/2021/e3c-langues-vivantes-anglais-premiere-t2-04212-sujet-officiel/img-02-01.jpeg)

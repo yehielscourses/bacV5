@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-premiere-02398-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 Page 1 / 10
                                                                             G1CENSC02398
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -82,14 +78,6 @@ EXERCICE 1
 
 Page 2 / 10
                                                                  G1CENSC02398
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-02-03.png)
 
 ---
 
@@ -137,10 +125,6 @@ Page 2 / 10
 
 Page 3 / 10
                                                                 G1CENSC02398
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -193,10 +177,6 @@ Page 3 / 10
 Page 4 / 10
                                                                   G1CENSC02398
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -248,10 +228,6 @@ J'ai cherché à saisir deux instants dans le refroidissement, le premier où le
 Page 5 / 10
                                                                 G1CENSC02398
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-05-01.png)
-
 ---
 
 ## Page 6
@@ -287,10 +263,6 @@ Page 5 / 10
 
 Page 6 / 10
                                                                  G1CENSC02398
-
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-06-01.png)
 
 ---
 
@@ -333,19 +305,13 @@ Document 3. Composition simplifiée des principales enveloppes terrestres
 Page 7 / 10
                                                                     G1CENSC02398
 
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-07-02.png)
-
 ---
 
 ## Page 8
 
 G1CENSC02398
 
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-08.png)
+![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-08.png)
 
 ---
 
@@ -369,13 +335,7 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 9 / 10
                                                             G1CENSC02398
 
-![Page 9 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-09-02.png)
-
-![Image embarquée 3 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-09-03.png)
+![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-09.png)
 
 ---
 
@@ -398,9 +358,3 @@ Dans la première ligne du tableau chaque point représente un très grand nombr
 
 Page 10 / 10
                                                              G1CENSC02398
-
-![Page 10 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/page-10.png)
-
-![Image embarquée 1 (page 10)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-10-01.png)
-
-![Image embarquée 2 (page 10)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02398-sujet-officiel/img-10-02.jpeg)

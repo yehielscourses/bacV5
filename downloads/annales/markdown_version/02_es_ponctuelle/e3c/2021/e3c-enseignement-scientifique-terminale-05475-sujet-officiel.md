@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05475-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -37,10 +37,6 @@
 
 Page 1 / 8
                                                                             GTCENSC05475
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -89,10 +85,6 @@ Exercice 1 - La solution hydrogène
 
 Page 2 / 8
                                                                   GTCENSC05475
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-02-01.png)
 
 ---
 
@@ -143,10 +135,6 @@ Page 2 / 8
 Page 3 / 8
                                                                    GTCENSC05475
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -170,10 +158,6 @@ Page 3 / 8
 
 Page 4 / 8
                                                                  GTCENSC05475
-
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -223,10 +207,6 @@ Exercice 2 - La dengue, une maladie transmise par les
 Page 5 / 8
                                                                      GTCENSC05475
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-05-01.png)
-
 ---
 
 ## Page 6
@@ -268,10 +248,6 @@ Page 5 / 8
 Page 6 / 8
                                                                   GTCENSC05475
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-06-01.png)
-
 ---
 
 ## Page 7
@@ -297,12 +273,6 @@ Document 2 : un traitement homéopathique pour éloigner les moustiques
 
 Page 7 / 8
                                                                  GTCENSC05475
-
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-07-02.png)
 
 ---
 
@@ -335,9 +305,3 @@ Document 3 : une méthode utilisant des pièges à CO2.
 
 Page 8 / 8
                                                                 GTCENSC05475
-
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05475-sujet-officiel/img-08-02.png)

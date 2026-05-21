@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-premiere-02423-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 
 Page 1 / 8
                                                                             G1CENSC02423
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -104,10 +100,6 @@ EXERCICE 1
 Page 2 / 8
                                                                      G1CENSC02423
 
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-02-01.jpeg)
-
 ---
 
 ## Page 3
@@ -154,10 +146,6 @@ Page 2 / 8
 Page 3 / 8
                                                                          G1CENSC02423
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -189,12 +177,6 @@ Document 2 : Représentation graphique de la fonction donnant la masse d’or ob
 
 Page 4 / 8
                                                                        G1CENSC02423
-
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-04-01.jpeg)
-
-![Image embarquée 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-04-02.png)
 
 ---
 
@@ -240,10 +222,6 @@ Page 4 / 8
 
 Page 5 / 8
                                                                        G1CENSC02423
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -294,10 +272,6 @@ Document 1. Étude du temps de refroidissement des boulets de canon
 Page 6 / 8
                                                                    G1CENSC02423
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-06-01.jpeg)
-
 ---
 
 ## Page 7
@@ -336,10 +310,6 @@ En s’appuyant sur le document 1, les informations précédentes et sur vos
 
 Page 7 / 8
                                                                  G1CENSC02423
-
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-07-01.png)
 
 ---
 
@@ -383,9 +353,3 @@ Document 2. Coupe géologique d’un affleurement géologique à Wöllstein
 
 Page 8 / 8
                                                                 G1CENSC02423
-
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-08-01.jpeg)
-
-![Image embarquée 2 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02423-sujet-officiel/img-08-02.png)

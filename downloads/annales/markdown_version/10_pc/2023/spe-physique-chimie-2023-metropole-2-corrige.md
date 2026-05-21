@@ -1,6 +1,6 @@
 # spe-physique-chimie-2023-metropole-2-corrige
 
-> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -22,8 +22,6 @@ Baccalauréat général
 
 
      Ce corrigé est composé de 7 pages.
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-corrige/page-01.png)
 
 ---
 
@@ -78,10 +76,6 @@ Q5. On cherche à montrer que l’acide ascorbique est un acide faible. Pour cel
 
 
                                                                                       Page 2 sur 7
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-corrige/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-corrige/img-02-01.png)
 
 ---
 

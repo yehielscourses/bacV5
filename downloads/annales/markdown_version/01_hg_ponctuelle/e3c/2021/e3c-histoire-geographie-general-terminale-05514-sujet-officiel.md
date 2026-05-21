@@ -1,6 +1,6 @@
 # e3c-histoire-geographie-general-terminale-05514-sujet-officiel
 
-> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -44,10 +44,6 @@
 Page 1 / 3
                                                                             GTCHIGE05514
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -81,12 +77,6 @@ Première partie : question problématisée (10 points)
 
 Page 2 / 3
                                                                GTCHIGE05514
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/img-02-02.jpeg)
 
 ---
 
@@ -126,7 +116,3 @@ Document 2 : Discours de Zhou Enlai, 1955 (extrait)
 
 Page 3 / 3
                                                                 GTCHIGE05514
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/01_hg_ponctuelle/e3c/2021/e3c-histoire-geographie-general-terminale-05514-sujet-officiel/img-03-01.png)

@@ -1,6 +1,6 @@
 # philosophie-2024-metropole-corrige-officiel
 
-> Source : `../../../pdf_version/09_philo/2024/philosophie-2024-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/09_philo/2024/philosophie-2024-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -28,8 +28,6 @@ BACCALAURÉAT GÉNÉRAL
 
 
 24-PHGEME1C                                                     Page 1 sur 10
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/09_philo/2024/philosophie-2024-metropole-corrige-officiel/page-01.png)
 
 ---
 
@@ -153,11 +151,11 @@ serait éclairant de caractériser ? S’il est un besoin de vérité, répond-i
 
 24-PHGEME1C                                                                               Page 3 sur 10
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/09_philo/2024/philosophie-2024-metropole-corrige-officiel/page-03.png)
-
 ---
 
 ## Page 4
+
+*(Suite de la page précédente — le document continue ici.)*
 
 exigences d’une connaissance, ou faut-il introduire d’autres dimensions de l’existence,
 ayant trait aux dimensions techniques (savoir-faire, produire) ou pratiques (agir) ?
@@ -211,6 +209,8 @@ n'a plus grand chose à voir avec le fait de soumettre méthodiquement une hypot
 ---
 
 ## Page 5
+
+*(Suite de la page précédente — le document continue ici.)*
 
 lorsque nous entreprenons de satisfaire notre besoin de vérité ? Et ce besoin lui-même
 ne dissimule-t-il pas des motifs et des aspirations tout à fait différents de ceux qu’il
@@ -416,6 +416,8 @@ une première partie (lignes 1-5) assignant la spécificité des mobiles propres
 ---
 
 ## Page 9
+
+*(Suite de la page précédente — le document continue ici.)*
 
 d’usine. De manière classique, on valorise les copies qui s’interrogent sur les
 articulations du propos : comment passe-t-on des caractéristiques générales de

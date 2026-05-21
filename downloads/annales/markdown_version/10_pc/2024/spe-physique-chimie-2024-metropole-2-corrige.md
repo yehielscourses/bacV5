@@ -1,6 +1,6 @@
 # spe-physique-chimie-2024-metropole-2-corrige
 
-> Source : `../../../pdf_version/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -23,7 +23,7 @@ Baccalauréat Général
 
      Ce corrigé est composé de 7 pages.
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/page-01.png)
+![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/page-01.png)
 
 ---
 
@@ -392,62 +392,6 @@ Q6. Pour la pile lithium-ion, on a bien :
                                                     Q = i∆t =⇒ ∆t =
                                                                                                        i
                                                                                                                                   Page 6 sur 7
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-01.jpeg)
-
-![Image embarquée 2 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-08.png)
-
-![Image embarquée 9 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-09.png)
-
-![Image embarquée 10 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-10.png)
-
-![Image embarquée 11 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-11.png)
-
-![Image embarquée 12 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-12.png)
-
-![Image embarquée 13 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-13.png)
-
-![Image embarquée 14 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-14.png)
-
-![Image embarquée 15 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-15.png)
-
-![Image embarquée 16 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-16.png)
-
-![Image embarquée 17 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-17.png)
-
-![Image embarquée 18 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-18.png)
-
-![Image embarquée 19 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-19.png)
-
-![Image embarquée 20 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-20.png)
-
-![Image embarquée 21 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-21.png)
-
-![Image embarquée 22 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-22.png)
-
-![Image embarquée 23 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-23.png)
-
-![Image embarquée 24 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-24.png)
-
-![Image embarquée 25 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-25.png)
-
-![Image embarquée 26 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-26.png)
-
-![Image embarquée 27 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-corrige/img-06-27.png)
 
 ---
 

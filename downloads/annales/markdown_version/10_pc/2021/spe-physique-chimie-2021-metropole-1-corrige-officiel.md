@@ -1,6 +1,6 @@
 # spe-physique-chimie-2021-metropole-1-corrige-officiel
 
-> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -56,8 +56,6 @@ EXERCICE 1 : Le jeu du cornhole (10 points)
 
 
                                                                                                                                                      Page : 1 / 5
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/page-01.png)
 
 ---
 
@@ -150,20 +148,6 @@ EXERCICE A : UN INDICATEUR COLORÉ NATUREL ISSU DU CHOU ROUGE (5 points)
 
                                                                                                                                                       Page : 3 / 5
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-02.png)
-
-![Image embarquée 3 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-03.png)
-
-![Image embarquée 4 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-04.png)
-
-![Image embarquée 5 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-05.png)
-
-![Image embarquée 6 (page 3)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/img-03-06.png)
-
 ---
 
 ## Page 4
@@ -215,8 +199,6 @@ EXERCICE B : UNE BOISSON DE RÉHYDRATATION (5 points)
                                               On en déduit que le résultat de la mesure expérimentale est cohérent avec la valeur de référence (4 g).
                                       EXERCICE C : FOUR À MICRO-ONDES POUR SYNTHÈSE ORGANIQUE (5 points)
                                                                                                                                                 Page : 4 / 5
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige-officiel/page-04.png)
 
 ---
 

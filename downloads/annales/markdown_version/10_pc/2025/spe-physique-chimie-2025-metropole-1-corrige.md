@@ -1,6 +1,6 @@
 # spe-physique-chimie-2025-metropole-1-corrige
 
-> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -26,7 +26,7 @@ Baccalauréat Général
 
      Ce corrigé est composé de 7 pages.
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige/page-01.png)
+![Page 1 — carte / document visuel](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige/page-01.png)
 
 ---
 
@@ -93,8 +93,6 @@ Q11. La valeur tabulée (4, 1) étant comprise dans l’intervalle 3, 9 ± u(pKa
 
                                                                                       Page 2 sur 7
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige/page-02.png)
-
 ---
 
 ## Page 3
@@ -153,8 +151,6 @@ Q1. Deux noyaux isotopes ont le même nombre de protons mais ont un nombre de ne
 
 
                                                                                         Page 3 sur 7
-
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige/page-03.png)
 
 ---
 
@@ -292,8 +288,6 @@ Exercice 3 —           Viscosimètre à chute de bille
 
 
                                                                                           Page 5 sur 7
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2025/spe-physique-chimie-2025-metropole-1-corrige/page-05.png)
 
 ---
 

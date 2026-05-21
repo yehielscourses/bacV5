@@ -1,6 +1,6 @@
 # spe-mathematiques-2025-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -229,8 +229,6 @@ chaque réponse. Une réponse non justifiée ne rapporte aucun point.
 
                                                  EducN_MMDQ0Mj5UyMjAayMT9M2MtjAyNj9A1MjEHwMzcE4MJzAg
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/page-04.png)
-
 ---
 
 ## Page 5
@@ -280,16 +278,6 @@ Sur la figure (Fig. 2) ci-dessous, on a tracé dans un repère orthonormé :
 
 
                                             EducN_MMDQ0Mj5UyMjAayMT9M2MtjAyNj9A1MjEHwMzcE4MJzAg
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-05-03.png)
-
-![Image embarquée 4 (page 5)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-05-04.png)
 
 ---
 
@@ -350,30 +338,6 @@ On admet que :
 
 
                                              EducN_MMDQ0Mj5UyMjAayMT9M2MtjAyNj9A1MjEHwMzcE4MJzAg
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-02.jpeg)
-
-![Image embarquée 3 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-08.png)
-
-![Image embarquée 9 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-09.png)
-
-![Image embarquée 10 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-10.png)
-
-![Image embarquée 11 (page 6)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-sujet-officiel/img-06-11.png)
 
 ---
 

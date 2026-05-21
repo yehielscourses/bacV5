@@ -1,6 +1,6 @@
 # nds_pc_finale
 
-> Source : `../../../pdf_version/10_pc/eduscol_officiel/nds_pc_finale.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/eduscol_officiel/nds_pc_finale.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -40,10 +40,6 @@ de la partie pratique et en additionnant ces deux résultats.
 
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – août 2024                                                             1
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/eduscol_officiel/nds_pc_finale/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/10_pc/eduscol_officiel/nds_pc_finale/img-01-01.png)
 
 ---
 
@@ -154,6 +150,8 @@ Version consolidée – août 2024                                              
 ---
 
 ## Page 4
+
+*(Suite de la page précédente — le document continue ici.)*
 
 des compétences expérimentales soient mises en œuvre par le candidat afin qu’elles
   puissent être évaluées. L’objectif est que le maximum de candidats en situation de

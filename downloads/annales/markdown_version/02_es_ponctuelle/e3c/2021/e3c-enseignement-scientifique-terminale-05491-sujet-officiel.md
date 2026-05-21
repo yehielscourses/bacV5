@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05491-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -40,10 +40,6 @@
 
 Page 1 / 7
                                                                             GTCENSC05491
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -86,10 +82,6 @@ Exercice 1 : Transporter de l’énergie coûte de l’énergie !
 Page 2 / 7
                                                                  GTCENSC05491
 
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-02-01.jpeg)
-
 ---
 
 ## Page 3
@@ -109,13 +101,7 @@ Document 2 Modélisation simple d’un réseau de distribution électrique par
 Page 3 / 7
                                                              GTCENSC05491
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-03-02.png)
-
-![Image embarquée 3 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-03-03.png)
+![Page 3 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-03.png)
 
 ---
 
@@ -161,10 +147,6 @@ PARTIE A : Transport de l’énergie électrique
 
 Page 4 / 7
                                                                   GTCENSC05491
-
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-04-01.jpeg)
 
 ---
 
@@ -216,12 +198,6 @@ Page 4 / 7
 Page 5 / 7
                                                                 GTCENSC05491
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-05-02.png)
-
 ---
 
 ## Page 6
@@ -263,10 +239,6 @@ Aujourd’hui, au terme de leur durée de vie optimale (estimée à environ 25 a
 
 Page 6 / 7
                                                                GTCENSC05491
-
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-06-01.jpeg)
 
 ---
 
@@ -314,7 +286,3 @@ Document 3 : quelques valeurs
 
 Page 7 / 7
                                                                GTCENSC05491
-
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05491-sujet-officiel/img-07-01.png)

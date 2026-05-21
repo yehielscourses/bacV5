@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05471-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -38,10 +38,6 @@
 Page 1 / 7
                                                                             GTCENSC05471
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -75,12 +71,6 @@ Exercice 1 - La lutte contre un ravageur des cultures
 
 Page 2 / 7
                                                                  GTCENSC05471
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -119,10 +109,6 @@ Document 1 : caractéristiques biologiques de quelques plantes cultivées
 
 Page 3 / 7
                                                                           GTCENSC05471
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-03-01.png)
 
 ---
 
@@ -169,12 +155,6 @@ Document 2 : utilisation du pesticide chlorpyriphos et mortalité de l’aleurod
 Page 4 / 7
                                                                                   GTCENSC05471
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-04-02.png)
-
 ---
 
 ## Page 5
@@ -213,12 +193,6 @@ Exercice 2 - L’Agrivoltaïsme
 Page 5 / 7
                                                                    GTCENSC05471
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-05-02.png)
-
 ---
 
 ## Page 6
@@ -253,104 +227,6 @@ Document 2 : courbes représentatives types de l’intensité I en fonction de l
 
 Page 6 / 7
                                                                   GTCENSC05471
-
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-08.png)
-
-![Image embarquée 9 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-09.png)
-
-![Image embarquée 10 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-10.png)
-
-![Image embarquée 11 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-11.png)
-
-![Image embarquée 12 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-12.png)
-
-![Image embarquée 13 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-13.png)
-
-![Image embarquée 14 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-14.png)
-
-![Image embarquée 15 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-15.png)
-
-![Image embarquée 16 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-16.png)
-
-![Image embarquée 17 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-17.png)
-
-![Image embarquée 18 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-18.png)
-
-![Image embarquée 19 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-19.png)
-
-![Image embarquée 20 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-20.png)
-
-![Image embarquée 21 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-21.png)
-
-![Image embarquée 22 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-22.png)
-
-![Image embarquée 23 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-23.png)
-
-![Image embarquée 24 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-24.png)
-
-![Image embarquée 25 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-25.png)
-
-![Image embarquée 26 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-26.png)
-
-![Image embarquée 27 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-27.png)
-
-![Image embarquée 28 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-28.png)
-
-![Image embarquée 29 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-29.png)
-
-![Image embarquée 30 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-30.png)
-
-![Image embarquée 31 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-31.png)
-
-![Image embarquée 32 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-32.png)
-
-![Image embarquée 33 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-33.png)
-
-![Image embarquée 34 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-34.png)
-
-![Image embarquée 35 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-35.png)
-
-![Image embarquée 36 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-36.png)
-
-![Image embarquée 37 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-37.png)
-
-![Image embarquée 38 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-38.png)
-
-![Image embarquée 39 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-39.png)
-
-![Image embarquée 40 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-40.png)
-
-![Image embarquée 41 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-41.png)
-
-![Image embarquée 42 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-42.png)
-
-![Image embarquée 43 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-43.png)
-
-![Image embarquée 44 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-44.png)
-
-![Image embarquée 45 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-45.png)
-
-![Image embarquée 46 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-46.png)
-
-![Image embarquée 47 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-47.png)
-
-![Image embarquée 48 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-06-48.png)
 
 ---
 
@@ -387,7 +263,3 @@ Page 6 / 7
 
 Page 7 / 7
                                                                  GTCENSC05471
-
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05471-sujet-officiel/img-07-01.png)

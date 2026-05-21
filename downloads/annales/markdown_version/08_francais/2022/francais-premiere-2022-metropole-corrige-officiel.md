@@ -1,6 +1,6 @@
 # francais-premiere-2022-metropole-corrige-officiel
 
-> Source : `../../../pdf_version/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -29,8 +29,6 @@ BACCALAURÉAT GÉNÉRAL
 
 
 22-FRGEME2C                          Page 1/19
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-01.png)
 
 ---
 
@@ -85,8 +83,6 @@ service d’une lecture sensible du texte.)
   d’une dimension merveilleuse.
 22-FRGEME2C                                                                                 Page 2/19
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-02.png)
-
 ---
 
 ## Page 3
@@ -138,11 +134,11 @@ service d’une lecture sensible du texte.)
    sonore entre les mots « sol » et « socle » fait naître l’image de créatures surgies tout droit des
 22-FRGEME2C                                                                              Page 3/19
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-03.png)
-
 ---
 
 ## Page 4
+
+*(Suite de la page précédente — le document continue ici.)*
 
 profondeurs de la Terre. Leur « chant », qui résonne avec celui des forêts, souligne leur
     puissance : il s’agit d’« un chant fait de cris, de clameurs, de résonances et de stridences ».
@@ -196,6 +192,8 @@ profondeurs de la Terre. Leur « chant », qui résonne avec celui des forêts, 
 
 ## Page 5
 
+*(Suite de la page précédente — le document continue ici.)*
+
 son sol, « bruissant de sources » et « troué d’étangs », dans lequel il vient « puiser » sa dureté.
    L’image du puits rend sensible cette profondeur, tout comme l’évocation des
    « fruits », « végétaux » et « baies sauvages » poussant « dans les sous-bois », qui suggère la
@@ -242,8 +240,6 @@ On pénalisera :
 
 
 22-FRGEME2C                                                                              Page 5/19
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-05.png)
 
 ---
 
@@ -296,8 +292,6 @@ parcours associé, et sur votre culture personnelle.
 
 
 22-FRGEME2C                                                                              Page 6/19
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-06.png)
 
 ---
 
@@ -354,11 +348,11 @@ mort affecte en profondeur le sujet poétique lui-même : le moi se dépersonnal
 « passant obscur » (I, 24), enseveli dans l’immensité obscure du deuil et de l’exil. La poésie dit
 22-FRGEME2C                                                                                     Page 7/19
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-07.png)
-
 ---
 
 ## Page 8
+
+*(Suite de la page précédente — le document continue ici.)*
 
 désormais sa propre impossibilité, et s’appuie sur cette impossibilité même pour renaître. La
 répétition de l’adjectif « ineffable » dans les poèmes des quatre premiers livres du recueil dit les
@@ -417,6 +411,8 @@ dépouillé par la proscription du statut de grand poète institutionnel, Victor
 
 ## Page 9
 
+*(Suite de la page précédente — le document continue ici.)*
+
 symboliquement solidaire du peuple auquel il s’adresse. Le poème « Melancholia » développe ainsi
 l’image du « peuple océan jetant l’écume populace » que l’on retrouve aussi dans le recueil de 1853.
 Finalement, on peut dire que les quatre premiers livres des Contemplations ne renoncent pas
@@ -467,8 +463,6 @@ On valorisera :
 
 
 22-FRGEME2C                                                                                    Page 9/19
-
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-09.png)
 
 ---
 
@@ -544,8 +538,6 @@ votre culture personnelle.
 
 22-FRGEME2C                                                                              Page 11/19
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-11.png)
-
 ---
 
 ## Page 12
@@ -601,6 +593,8 @@ La citation est extraite des pages que Baudelaire consacre dans L’Art romantiq
 ---
 
 ## Page 13
+
+*(Suite de la page précédente — le document continue ici.)*
 
 d’un nouvel ordre. C’est pour extraire la beauté du mal que Baudelaire fait entrer en poésie des
     thèmes ou des motifs traditionnellement considérés comme antipoétiques. L’exemple le plus
@@ -663,8 +657,6 @@ On pénalisera :
 
     22-FRGEME2C                                                                             Page 14/19
 
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-14.png)
-
 ---
 
 ## Page 15
@@ -716,8 +708,6 @@ culture personnelle.
 
 
 22-FRGEME2C                                                                              Page 15/19
-
-![Page 15 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-15.png)
 
 ---
 
@@ -887,6 +877,8 @@ Et plus généralement :
 
 ## Page 19
 
+*(Suite de la page précédente — le document continue ici.)*
+
 mobilisation pertinente d’une culture littéraire solide.
 
 
@@ -899,5 +891,3 @@ On pénalisera :
 
 
 22-FRGEME2C                                                                           Page 19/19
-
-![Page 19 — reproduction (carte, graphique, document)](../../../assets/08_francais/2022/francais-premiere-2022-metropole-corrige-officiel/page-19.png)

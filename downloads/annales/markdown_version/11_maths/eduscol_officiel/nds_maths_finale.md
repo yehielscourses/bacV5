@@ -1,6 +1,6 @@
 # nds_maths_finale
 
-> Source : `../../../pdf_version/11_maths/eduscol_officiel/nds_maths_finale.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/eduscol_officiel/nds_maths_finale.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,13 +41,11 @@ mobilisées dans le cadre de l’épreuve. Elle est destinée à évaluer égale
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – août 2024                                                          1
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/11_maths/eduscol_officiel/nds_maths_finale/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/11_maths/eduscol_officiel/nds_maths_finale/img-01-01.png)
-
 ---
 
 ## Page 2
+
+*(Suite de la page précédente — le document continue ici.)*
 
 candidats ont atteint les grands objectifs de formation mathématique visés par le
 programme de spécialité mathématiques.

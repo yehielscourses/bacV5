@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05486-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 Page 1 / 7
                                                                             GTCENSC05486
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -78,12 +74,6 @@ Exercice 1 : L’empreinte carbone des appareils
 
 Page 2 / 7
                                                                           GTCENSC05486
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-02-02.jpeg)
 
 ---
 
@@ -129,12 +119,6 @@ Document 2 : projection de l’évolution des ventes de produits de gros
 
 Page 3 / 7
                                                                             GTCENSC05486
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -183,10 +167,6 @@ Masse de CO2 produite pour 1 MJ d’énergie obtenue :
 Page 4 / 7
                                                                            GTCENSC05486
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-04-01.jpeg)
-
 ---
 
 ## Page 5
@@ -221,10 +201,6 @@ Page 4 / 7
 
 Page 5 / 7
                                                                    GTCENSC05486
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -266,12 +242,6 @@ Document 2 : répartition (en %) par grands secteurs d’activité des émission
 Page 6 / 7
                                                                 GTCENSC05486
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-06-01.jpeg)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-06-02.png)
-
 ---
 
 ## Page 7
@@ -297,8 +267,4 @@ Nombre de morts qui auraient été évités dans l’année selon la
 Page 7 / 7
                                                                               GTCENSC05486
 
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/img-07-02.png)
+![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05486-sujet-officiel/page-07.png)

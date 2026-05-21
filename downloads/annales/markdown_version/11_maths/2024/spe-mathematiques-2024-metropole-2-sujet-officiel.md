@@ -1,6 +1,6 @@
 # spe-mathematiques-2024-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -106,24 +106,6 @@ Dans tout l’exercice, les probabilités sont, si besoin, arrondies à 𝟏𝟎
 
 
 24-MATJ2ME2                                                                 page 2 sur 6
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-04.png)
-
-![Image embarquée 5 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-05.png)
-
-![Image embarquée 6 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-06.png)
-
-![Image embarquée 7 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-07.png)
-
-![Image embarquée 8 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-02-08.png)
 
 ---
 
@@ -235,16 +217,6 @@ ln désigne la fonction logarithme népérien.
 
 24-MATJ2ME2                                                                 page 4 sur 6
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-04-03.png)
-
-![Image embarquée 4 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-04-04.png)
-
 ---
 
 ## Page 5
@@ -298,18 +270,6 @@ sur ]−2 ; +∞[ par ℎ(𝑥) = 𝐽𝑀2 .                                   
 
 
 24-MATJ2ME2                                                                     page 5 sur 6
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-05-03.png)
-
-![Image embarquée 4 (page 5)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-05-04.png)
-
-![Image embarquée 5 (page 5)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-2-sujet-officiel/img-05-05.png)
 
 ---
 

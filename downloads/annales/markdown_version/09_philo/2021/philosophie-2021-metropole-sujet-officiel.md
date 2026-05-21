@@ -1,6 +1,6 @@
 # philosophie-2021-metropole-sujet-officiel
 
-> Source : `../../../pdf_version/09_philo/2021/philosophie-2021-metropole-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/09_philo/2021/philosophie-2021-metropole-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---

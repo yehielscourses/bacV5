@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-premiere-02422-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 
 Page 1 / 7
                                                                             G1CENSC02422
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -94,16 +90,6 @@ EXERCICE 1
 Page 2 / 7
                                                                             G1CENSC02422
 
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-02-02.jpeg)
-
-![Image embarquée 3 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-02-03.jpeg)
-
-![Image embarquée 4 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-02-04.png)
-
 ---
 
 ## Page 3
@@ -139,12 +125,6 @@ Page 2 / 7
 
 Page 3 / 7
                                                                  G1CENSC02422
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -185,12 +165,6 @@ Page 3 / 7
 Page 4 / 7
                                                                 G1CENSC02422
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-04-01.jpeg)
-
-![Image embarquée 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-04-02.png)
-
 ---
 
 ## Page 5
@@ -221,14 +195,6 @@ Document 2. Révolution de la Lune autour de la Terre
 
 Page 5 / 7
                                                                  G1CENSC02422
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-05-02.jpeg)
-
-![Image embarquée 3 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-05-03.jpeg)
 
 ---
 
@@ -272,12 +238,6 @@ Partie 2. Analyse des roches lunaires
 Page 6 / 7
                                                                 G1CENSC02422
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-06-01.jpeg)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-06-02.jpeg)
-
 ---
 
 ## Page 7
@@ -313,9 +273,3 @@ Page 6 / 7
 
 Page 7 / 7
                                                                    G1CENSC02422
-
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02422-sujet-officiel/img-07-02.png)

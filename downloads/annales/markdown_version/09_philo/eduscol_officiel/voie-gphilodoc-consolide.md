@@ -1,6 +1,6 @@
 # voie-gphilodoc-consolide
 
-> Source : `../../../pdf_version/09_philo/eduscol_officiel/voie-gphilodoc-consolide.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/09_philo/eduscol_officiel/voie-gphilodoc-consolide.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -45,10 +45,6 @@ Il s’agit d’évaluer l’aptitude du candidat à :
 
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – mars 2024                                                          1
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/09_philo/eduscol_officiel/voie-gphilodoc-consolide/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/09_philo/eduscol_officiel/voie-gphilodoc-consolide/img-01-01.png)
 
 ---
 
@@ -106,8 +102,6 @@ Durée : 20 minutes
 
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – mars 2024                                                                 2
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/09_philo/eduscol_officiel/voie-gphilodoc-consolide/page-02.png)
 
 ---
 

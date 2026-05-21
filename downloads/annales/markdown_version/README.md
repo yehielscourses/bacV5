@@ -1,7 +1,10 @@
 # Versions Markdown des annales
 
-Conversion automatique : `python3 scripts/pdf_annales_to_markdown.py`
+```bash
+python3 scripts/pdf_annales_to_markdown.py        # incremental
+python3 scripts/pdf_annales_to_markdown.py --force  # tout regenerer
+```
 
-- PDF sources : `../pdf_version/`
-- Images : `../assets/`
-- Méthode : [STRATEGIE_MARKDOWN.md](../STRATEGIE_MARKDOWN.md)
+- PDF : `../pdf_version/`
+- Visuels : `../assets/` (cartes, photos, graphiques — pas les bandeaux E3C)
+- [STRATEGIE_MARKDOWN.md](../STRATEGIE_MARKDOWN.md)

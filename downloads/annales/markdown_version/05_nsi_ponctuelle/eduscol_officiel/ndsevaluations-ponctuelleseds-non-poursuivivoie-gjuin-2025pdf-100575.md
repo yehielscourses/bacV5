@@ -1,6 +1,6 @@
 # ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575
 
-> Source : `../../../pdf_version/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -42,13 +42,11 @@ technologique. Elle abroge et remplace la note de service du 23 juillet 2020 rel
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale      1
 Version consolidée juin 2025
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/img-01-01.png)
-
 ---
 
 ## Page 2
+
+*(Suite de la page précédente — le document continue ici.)*
 
 évaluations communes des enseignements de spécialité suivis uniquement en classe de
 première de la voie générale à compter de la session 2021.
@@ -103,6 +101,8 @@ Version consolidée juin 2025
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 à faire des liens avec sa propre pratique. L’entretien permet au jury de le solliciter sur ses
 connaissances relatives aux thématiques du programme de première.
@@ -262,8 +262,6 @@ Niveau attendu : B2
 
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale              5
 Version consolidée juin 2025
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-05.png)
 
 ---
 
@@ -485,6 +483,8 @@ Version consolidée juin 2025
 
 ## Page 10
 
+*(Suite de la page précédente — le document continue ici.)*
+
 d’évaluer la pratique du raisonnement scientifique du candidat. Il permet de tester sa
 capacité à pratiquer une démarche scientifique dans le cadre d’un problème scientifique, à
 partir de l’exploitation d’un document ou d’un ensemble de documents et en mobilisant
@@ -534,8 +534,6 @@ est composée de la somme des points obtenus à chacune des parties.
 
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale    10
 Version consolidée juin 2025
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-10.png)
 
 ---
 
@@ -591,8 +589,6 @@ la présentation.
 
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale    11
 Version consolidée juin 2025
-
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-11.png)
 
 ---
 
@@ -705,11 +701,11 @@ d’examen sans aide extérieure et installées sans nécessiter ni temps additi
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale     13
 Version consolidée juin 2025
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-13.png)
-
 ---
 
 ## Page 14
+
+*(Suite de la page précédente — le document continue ici.)*
 
 particulier d’accrochage ou de présentation. Elles ne sont pas manipulées par le jury. La
 photographie et la vidéo sont employées pour restituer les réalisations bidimensionnelles et
@@ -760,8 +756,6 @@ pas évalués. Chaque partie de l’évaluation est notée sur 10 points.
 
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale   14
 Version consolidée juin 2025
-
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-14.png)
 
 ---
 
@@ -817,8 +811,6 @@ programme de première.
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale   15
 Version consolidée juin 2025
 
-![Page 15 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-15.png)
-
 ---
 
 ## Page 16
@@ -873,8 +865,6 @@ danseur.
 
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale    16
 Version consolidée juin 2025
-
-![Page 16 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-16.png)
 
 ---
 
@@ -932,8 +922,6 @@ plusieurs brefs extraits de l’œuvre.
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale    17
 Version consolidée juin 2025
 
-![Page 17 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-17.png)
-
 ---
 
 ## Page 18
@@ -990,8 +978,6 @@ rôle qu’y tient le candidat.
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale   18
 Version consolidée juin 2025
 
-![Page 18 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-18.png)
-
 ---
 
 ## Page 19
@@ -1047,8 +1033,6 @@ rencontres de professionnels de la musique, etc.
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale     19
 Version consolidée juin 2025
 
-![Page 19 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-19.png)
-
 ---
 
 ## Page 20
@@ -1103,8 +1087,6 @@ Composition du jury
 
 Évaluation ponctuelle spécialité suivie uniquement en classe de 1re - voie générale      20
 Version consolidée juin 2025
-
-![Page 20 — reproduction (carte, graphique, document)](../../../assets/05_nsi_ponctuelle/eduscol_officiel/ndsevaluations-ponctuelleseds-non-poursuivivoie-gjuin-2025pdf-100575/page-20.png)
 
 ---
 

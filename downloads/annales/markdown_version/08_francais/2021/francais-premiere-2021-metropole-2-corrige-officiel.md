@@ -1,6 +1,6 @@
 # francais-premiere-2021-metropole-2-corrige-officiel
 
-> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -29,8 +29,6 @@ BACCALAURÉAT GÉNÉRAL
 
 
 21-FRGEME1BISC                          Page 1 / 32
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-01.png)
 
 ---
 
@@ -86,8 +84,6 @@ ses droits.
             nouvel état de la gare : « retirée des affaires », elle goûte un repos bien mérité.
 
 21-FRGEME1BISC                                                                            Page 2 / 32
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-02.png)
 
 ---
 
@@ -148,11 +144,11 @@ L’image est reprise au vers 17, grâce au verbe « reposes » et est matérial
 
 21-FRGEME1BISC                                                                            Page 3 / 32
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-03.png)
-
 ---
 
 ## Page 4
+
+*(Suite de la page précédente — le document continue ici.)*
 
 elle est encadrée et absorbée par les références au présent, dont la dernière se
               prolonge encore par l’utilisation des points de suspension.
@@ -210,6 +206,8 @@ Mais, par la grâce qu’elle conserve, la nostalgie qu’elle éveille, elle ga
 
 ## Page 5
 
+*(Suite de la page précédente — le document continue ici.)*
+
 seulement à l’âge et aux matériaux de construction de la gare, mais suggère une
            femme âgée, quoiqu’encore éclatante ; la marquise est un élément architectural, mais
            il évoque une image féminine que les vers suivants concourent à confirmer : la gare
@@ -265,8 +263,6 @@ seulement à l’âge et aux matériaux de construction de la gare, mais suggèr
 
 21-FRGEME1BISC                                                                         Page 5 / 32
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-05.png)
-
 ---
 
 ## Page 6
@@ -280,8 +276,6 @@ est donc une double célébration, de la gare et du monde.
 
 
 21-FRGEME1BISC                                                                      Page 6 / 32
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-06.png)
 
 ---
 
@@ -330,8 +324,6 @@ sur votre culture personnelle.
 
 
 21-FRGEME1BISC                                                                         Page 7 / 32
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-07.png)
 
 ---
 
@@ -383,11 +375,11 @@ pastorales ou en incluent en leur sein – George Dandin, Le Bourgeois gentilhom
 
 21-FRGEME1BISC                                                                             Page 8 / 32
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-08.png)
-
 ---
 
 ## Page 9
+
+*(Suite de la page précédente — le document continue ici.)*
 
 toujours des bergers ? On ne voit que cela partout » demande M.Jourdain. La mise en scène de
 B.Lazar pour Le Bourgeois gentilhomme propose également de magnifiques costumes colorés.]
@@ -496,6 +488,8 @@ Monsieur de Pourceaugnac, qui fonctionnent sur l’arrivée successive des fâch
 
 ## Page 11
 
+*(Suite de la page précédente — le document continue ici.)*
+
 l’outrance sont paradoxalement la forme spécifiquement comique de la vraisemblance, il y a
        bien une part de vérité dans la grimace difforme.
 
@@ -547,6 +541,8 @@ dans une agréable euphorie.]
 ---
 
 ## Page 12
+
+*(Suite de la page précédente — le document continue ici.)*
 
 pompeux galimatias, en un spécieux babil, qui vous donne des mots pour des raisons, et des
        promesses pour des effets » acte III scène 3) ; vêtus ostensiblement de noir, ils passent leur
@@ -691,8 +687,6 @@ et sur votre culture personnelle.
 
 21-FRGEME1BISC                                                                        Page 14 / 32
 
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-14.png)
-
 ---
 
 ## Page 15
@@ -748,6 +742,8 @@ abyme du théâtre comme accès à la vérité.
 ---
 
 ## Page 16
+
+*(Suite de la page précédente — le document continue ici.)*
 
 que ses propos sont emphatiques : ces amplifications et leur effet provoquent
               assurément le rire du spectateur complice.
@@ -1084,8 +1080,6 @@ intime ?
 
 21-FRGEME1BISC                                                                Page 22 / 32
 
-![Page 22 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-22.png)
-
 ---
 
 ## Page 23
@@ -1141,6 +1135,8 @@ la parole et l’incapacité des hommes à communiquer leurs peines.
 
 ## Page 24
 
+*(Suite de la page précédente — le document continue ici.)*
+
 fin du monde semble orienté de son point de vue, et le dialogue qu’il noue avec
         les membres de sa famille peut être interprété comme l’extériorisation de son
         drame intime, la projection de sa scène intérieure. Le dispositif choisi fait
@@ -1194,6 +1190,8 @@ Kammerspiele de Max Reinhardt.
 
 ## Page 25
 
+*(Suite de la page précédente — le document continue ici.)*
+
 monologue de la scène 5 de la première partie que s’il est revenu dans la
      maison familiale, c’est d’abord pour tenter d’exorciser la peur de l’oubli, la peur
      de ne plus être aimé qu’il ressent depuis l’enfance. Le jeune homme semble en
@@ -1240,11 +1238,11 @@ monologue de la scène 5 de la première partie que s’il est revenu dans la
      et de l’errance, tel qu’il apparaît dans l’épilogue : « en mouvement, un marcheur,
 21-FRGEME1BISC                                                                Page 25 / 32
 
-![Page 25 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-25.png)
-
 ---
 
 ## Page 26
+
+*(Suite de la page précédente — le document continue ici.)*
 
 un mort debout, un mort qui marche »4. C’est cet aspect du personnage que la
         mise en scène de Joël Jouanneau (1999-2000), a choisi de mettre en avant, le
@@ -1295,11 +1293,11 @@ théâtre de la Colline à Paris.
 
 21-FRGEME1BISC                                                                            Page 26 / 32
 
-![Page 26 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-26.png)
-
 ---
 
 ## Page 27
+
+*(Suite de la page précédente — le document continue ici.)*
 
 partager avec les siens. Le départ de Louis, et l’infrangible distance qu’il a
       ensuite instaurée et maintenue avec sa famille, semblent avoir décidé du mode
@@ -1351,6 +1349,8 @@ partager avec les siens. Le départ de Louis, et l’infrangible distance qu’i
 
 ## Page 28
 
+*(Suite de la page précédente — le document continue ici.)*
+
 telle une vigie, tente d’avertir Louis de la violence possible des réactions de
         Suzanne et d’Antoine. Lui expliquant qu’« ils voudraient tous deux [qu’il ne soit]
         plus là », elle avoue pudiquement son propre manque. Enfin, elle affronte
@@ -1400,11 +1400,11 @@ distingué de la pièce ; c’est bien le texte de Lagarce qui reste l’objet d
 s’en inspire.
 21-FRGEME1BISC                                                                              Page 28 / 32
 
-![Page 28 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-28.png)
-
 ---
 
 ## Page 29
+
+*(Suite de la page précédente — le document continue ici.)*
 
 épagneul ». Il note à plusieurs reprises que le comportement de Suzanne a
         changé avec l’arrivée de leur frère : « Elle est impossible aujourd’hui, ce que je
@@ -1451,8 +1451,6 @@ s’en inspire.
      détachant dans la mesure où le conflit entre les frères est avant tout verbal et
      ne s’achève pas par le meurtre de l’un ou l’autre, ou des deux.
 21-FRGEME1BISC                                                              Page 29 / 32
-
-![Page 29 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-29.png)
 
 ---
 
@@ -1508,6 +1506,8 @@ Cette multiplication des références mythiques confère à la pièce une porté
 
 ## Page 31
 
+*(Suite de la page précédente — le document continue ici.)*
+
 allions nous promener »), et enfin dans celle de Louis lorsque, dans l’épilogue,
        il met un terme à « l’histoire » : « une chose dont je me souviens et que je
        raconte encore (après j’en aurai fini) ». De multiples récits se substituent ainsi
@@ -1557,11 +1557,11 @@ Semeuse à Nice en 2005.
 la fin du monde au Théâtre du Marais en 2005.
 21-FRGEME1BISC                                                                           Page 31 / 32
 
-![Page 31 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-31.png)
-
 ---
 
 ## Page 32
+
+*(Suite de la page précédente — le document continue ici.)*
 
 à démêler parfois et à l’annonce de la mort. La solitude de Louis est à la fois
     intime et universelle, à l’image du « grand et beau cri » dont il rêve dans
@@ -1573,5 +1573,3 @@ la fin du monde au Théâtre du Marais en 2005.
 
 
 21-FRGEME1BISC                                                          Page 32 / 32
-
-![Page 32 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-2-corrige-officiel/page-32.png)

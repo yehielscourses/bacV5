@@ -1,6 +1,6 @@
 # spe-mathematiques-2024-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -156,16 +156,6 @@ probabilité.
 
 24-MATJ1ME1                                                                 page 3 sur 6
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-03-02.png)
-
-![Image embarquée 3 (page 3)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-03-03.png)
-
-![Image embarquée 4 (page 3)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-03-04.png)
-
 ---
 
 ## Page 4
@@ -223,14 +213,6 @@ On considère les points 𝐴 (5 ; 5 ; 0),
 
 
 24-MATJ1ME1                                                                          page 4 sur 6
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-04-01.jpeg)
-
-![Image embarquée 2 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-04-03.png)
 
 ---
 
@@ -334,19 +316,3 @@ On rappelle que ln(α) = 2(2 − 𝛼).
 
 
 24-MATJ1ME1                                                                            page 6 sur 6
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-sujet-officiel/img-06-07.png)

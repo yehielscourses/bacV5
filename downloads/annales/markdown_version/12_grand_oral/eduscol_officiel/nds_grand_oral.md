@@ -1,6 +1,6 @@
 # nds_grand_oral
 
-> Source : `../../../pdf_version/12_grand_oral/eduscol_officiel/nds_grand_oral.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/12_grand_oral/eduscol_officiel/nds_grand_oral.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -43,10 +43,6 @@ Coefficient : 10
 
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – juin 2024                                                           1
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/12_grand_oral/eduscol_officiel/nds_grand_oral/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/12_grand_oral/eduscol_officiel/nds_grand_oral/img-01-01.png)
 
 ---
 
@@ -146,8 +142,6 @@ langue vivante concernée par l'enseignement de spécialité, selon le choix du 
 
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – juin 2024                                                           3
-
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/12_grand_oral/eduscol_officiel/nds_grand_oral/page-03.png)
 
 ---
 

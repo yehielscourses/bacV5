@@ -1,6 +1,6 @@
 # spe-mathematiques-2022-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2022/spe-mathematiques-2022-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2022/spe-mathematiques-2022-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -211,10 +211,6 @@ Quel est le pourcentage moyen d’augmentation des salaires de cette entreprise 
 
 22 – MATJ1ME1                                                                                page 4 /5
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-1-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-1-sujet-officiel/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -277,7 +273,3 @@ Les six questions sont indépendantes.
 
 
 22 – MATJ1ME1                                                                                             page 5 /5
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-1-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-1-sujet-officiel/img-05-01.png)

@@ -1,6 +1,6 @@
 # spe-physique-chimie-2021-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -113,12 +113,6 @@ partiellement en ions hydrogénocarbonate HCO3 aq et en ions carbonate CO3 (aq).
                                                                                                   aquariophilie.com)
                                                                                                         Page 2 / 13
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-02-02.jpeg)
-
 ---
 
 ## Page 3
@@ -191,8 +185,6 @@ Le schéma de Lewis de la molécule de dioxyde de carbone et celui de la molécu
 
                                                                                                                                   Page 3 / 13
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-03.png)
-
 ---
 
 ## Page 4
@@ -263,8 +255,6 @@ Le schéma de Lewis de la molécule de dioxyde de carbone et celui de la molécu
 
                                                                                                        Page 4 / 13
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-04.png)
-
 ---
 
 ## Page 5
@@ -331,12 +321,6 @@ Le schéma de Lewis de la molécule de dioxyde de carbone et celui de la molécu
 
 
                                                                                                               Page 5 / 13
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-05-02.png)
 
 ---
 
@@ -405,12 +389,6 @@ Données :
 
                                                                                                           Page 6 / 13
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-06-01.jpeg)
-
-![Image embarquée 2 (page 6)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-06-02.png)
-
 ---
 
 ## Page 7
@@ -468,10 +446,6 @@ vitesse limite est la vitesse atteinte lorsque la norme de la force de frottemen
 
                                                                                                     Page 7 / 13
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-07-01.png)
-
 ---
 
 ## Page 8
@@ -527,39 +501,11 @@ puis celle de la charge QB en fonction de C et UAB.
 
                                                                                                        Page 8 / 13
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-01.jpeg)
-
-![Image embarquée 2 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-02.jpeg)
-
-![Image embarquée 3 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-03.jpeg)
-
-![Image embarquée 4 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-04.jpeg)
-
-![Image embarquée 5 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-05.jpeg)
-
-![Image embarquée 6 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-06.jpeg)
-
-![Image embarquée 7 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-07.jpeg)
-
-![Image embarquée 8 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-08.jpeg)
-
-![Image embarquée 9 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-09.jpeg)
-
-![Image embarquée 10 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-10.jpeg)
-
-![Image embarquée 11 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-11.jpeg)
-
-![Image embarquée 12 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-12.jpeg)
-
-![Image embarquée 13 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-13.jpeg)
-
-![Image embarquée 14 (page 8)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-08-14.jpeg)
-
 ---
 
 ## Page 9
+
+*(Suite de la page précédente — le document continue ici.)*
 
 ε×S
 1.3. La capacité électrique C d’un tel capteur s’écrit C =           avec S la surface en regard des feuilles
@@ -613,14 +559,6 @@ On réalise l’expérience suivante :
 
 
                                                                                                            Page 9 / 13
-
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-09-02.jpeg)
-
-![Image embarquée 3 (page 9)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-09-03.jpeg)
 
 ---
 
@@ -679,8 +617,6 @@ On considère que la variation de capacité électrique ΔC est liée à la vari
 
 
                                                                                                    Page 10 / 13
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-10.png)
 
 ---
 
@@ -746,30 +682,6 @@ maximale reçue.
 
                                                                                                     Page 11 / 13
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-02.png)
-
-![Image embarquée 3 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-03.png)
-
-![Image embarquée 4 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-04.png)
-
-![Image embarquée 5 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-05.png)
-
-![Image embarquée 6 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-06.png)
-
-![Image embarquée 7 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-07.png)
-
-![Image embarquée 8 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-08.png)
-
-![Image embarquée 9 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-09.png)
-
-![Image embarquée 10 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-10.png)
-
-![Image embarquée 11 (page 11)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-11-11.jpeg)
-
 ---
 
 ## Page 12
@@ -831,40 +743,6 @@ L’expérience d’interférences est décrite ci-dessous :
 
                                                                                                   Page 12 / 13
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-12.png)
-
-![Image embarquée 1 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-01.jpeg)
-
-![Image embarquée 2 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-02.png)
-
-![Image embarquée 3 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-03.jpeg)
-
-![Image embarquée 4 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-04.png)
-
-![Image embarquée 5 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-05.png)
-
-![Image embarquée 6 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-06.png)
-
-![Image embarquée 7 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-07.png)
-
-![Image embarquée 8 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-08.png)
-
-![Image embarquée 9 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-09.png)
-
-![Image embarquée 10 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-10.png)
-
-![Image embarquée 11 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-11.png)
-
-![Image embarquée 12 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-12.png)
-
-![Image embarquée 13 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-13.png)
-
-![Image embarquée 14 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-14.png)
-
-![Image embarquée 15 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-15.png)
-
-![Image embarquée 16 (page 12)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-12-16.png)
-
 ---
 
 ## Page 13
@@ -906,9 +784,3 @@ L’incertitude-type u(b) sur la grandeur b peut se calculer à partir de la rel
 
 
                                                                                                          Page 13 / 13
-
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/page-13.png)
-
-![Image embarquée 1 (page 13)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-13-01.jpeg)
-
-![Image embarquée 2 (page 13)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-sujet-officiel/img-13-02.png)

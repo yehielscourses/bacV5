@@ -1,6 +1,6 @@
 # spe-physique-chimie-2022-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -48,6 +48,8 @@ BACCALAURÉAT GÉNÉRAL
 
 
 22-PYCJ1ME1                                                                       Page 1/12
+
+![Page 1 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-01.png)
 
 ---
 
@@ -113,10 +115,6 @@ Données :
 
 
 22-PYCJ1ME1                                                                                                   Page 2/12
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-02-01.jpeg)
 
 ---
 
@@ -188,14 +186,6 @@ Dosage spectrophotométrique par étalonnage :
 
 22-PYCJ1ME1                                                                                               Page 3/12
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-03-02.png)
-
-![Image embarquée 3 (page 3)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-03-03.png)
-
 ---
 
 ## Page 4
@@ -262,12 +252,6 @@ concentration égale à 2,2×10–2 mol·L–1 en colorant E127, qu’il est pos
 
 
 22-PYCJ1ME1                                                                                              Page 4/12
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-04-02.png)
 
 ---
 
@@ -336,10 +320,6 @@ Q12. Expliquer comment il est possible d’optimiser la décoloration du filtre 
 
 22-PYCJ1ME1                                                                                                 Page 5/12
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-05-01.jpeg)
-
 ---
 
 ## Page 6
@@ -404,42 +384,6 @@ Q2. Interpréter la figure 2a pour décrire le rôle de la main sur le mouvement
 
 22-PYCJ1ME1                                                                                            Page 6/12
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-01.jpeg)
-
-![Image embarquée 2 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-08.png)
-
-![Image embarquée 9 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-09.png)
-
-![Image embarquée 10 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-10.png)
-
-![Image embarquée 11 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-11.png)
-
-![Image embarquée 12 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-12.png)
-
-![Image embarquée 13 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-13.png)
-
-![Image embarquée 14 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-14.png)
-
-![Image embarquée 15 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-15.png)
-
-![Image embarquée 16 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-16.png)
-
-![Image embarquée 17 (page 6)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-06-17.png)
-
 ---
 
 ## Page 7
@@ -483,8 +427,6 @@ Commenter.
 
 
 22-PYCJ1ME1                                                                                           Page 7/12
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-07.png)
 
 ---
 
@@ -549,10 +491,6 @@ Le système étudié est le fer à cheval.
 
 
 22-PYCJ1ME1                                                                                                Page 8/12
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-08-01.jpeg)
 
 ---
 
@@ -670,34 +608,6 @@ de sa charge, en précisant les valeurs de uC (t) à t = 0 s et au bout d’un t
 
 22-PYCJ1ME1                                                                                             Page 10/12
 
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-10.png)
-
-![Image embarquée 1 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-01.jpeg)
-
-![Image embarquée 2 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-02.png)
-
-![Image embarquée 3 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-03.png)
-
-![Image embarquée 4 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-04.png)
-
-![Image embarquée 5 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-05.png)
-
-![Image embarquée 6 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-06.png)
-
-![Image embarquée 7 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-07.png)
-
-![Image embarquée 8 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-08.png)
-
-![Image embarquée 9 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-09.png)
-
-![Image embarquée 10 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-10.png)
-
-![Image embarquée 11 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-11.png)
-
-![Image embarquée 12 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-12.png)
-
-![Image embarquée 13 (page 10)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-10-13.png)
-
 ---
 
 ## Page 11
@@ -732,8 +642,6 @@ défibrillateur soit considérée comme totale. Commenter.
 
 22-PYCJ1ME1                                                                                        Page 11/12
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-11.png)
-
 ---
 
 ## Page 12
@@ -748,7 +656,7 @@ Page blanche laissée intentionnellement.
 
 22-PYCJ1ME1
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-12.png)
+![Page 12 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-12.png)
 
 ---
 
@@ -789,10 +697,10 @@ ANNEXE à rendre avec la copie
 
 22-PYCJ1ME1                                                                         Page 12/12
 
+![Page 13 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-13.png)
+
 ---
 
 ## Page 14
 
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-14.png)
-
-![Image embarquée 1 (page 14)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/img-14-01.png)
+![Page 14 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-1-sujet-officiel/page-14.png)

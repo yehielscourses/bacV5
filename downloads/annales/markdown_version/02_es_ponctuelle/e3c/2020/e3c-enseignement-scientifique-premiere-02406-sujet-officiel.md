@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-premiere-02406-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -41,10 +41,6 @@
 Page 1 / 6
                                                                             G1CENSC02406
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -81,12 +77,6 @@ EXERCICE 1
 
 Page 2 / 6
                                                                G1CENSC02406
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -128,12 +118,6 @@ Figure 1b : Modèle du
 
 Page 3 / 6
                                                                  G1CENSC02406
-
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-03-02.png)
 
 ---
 
@@ -177,10 +161,6 @@ EXERCICE 2
 Page 4 / 6
                                                                   G1CENSC02406
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -207,10 +187,6 @@ Partie 2. Les conditions de formation du diamant
 
 Page 5 / 6
                                                                   G1CENSC02406
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-05-01.png)
 
 ---
 
@@ -247,11 +223,3 @@ Document 2 : Comparaison des propriétés physiques du graphite et du diamant
 
  Page 6 / 6
                                                                     G1CENSC02406
-
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2020/e3c-enseignement-scientifique-premiere-02406-sujet-officiel/img-06-03.png)

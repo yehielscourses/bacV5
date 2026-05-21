@@ -1,6 +1,6 @@
 # spe-physique-chimie-2023-metropole-1-corrige
 
-> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -22,8 +22,6 @@ Baccalauréat général
 
 
      Ce corrigé est composé de 7 pages.
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/page-01.png)
 
 ---
 
@@ -91,8 +89,6 @@ Q9. Par définition du grossissement, on a la relation sur les angles :
      la planète de son premier anneau.
 
                                                                                     Page 2 sur 7
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/page-02.png)
 
 ---
 
@@ -271,10 +267,6 @@ Exercice 3 —           Une formulation de l’aspirine
 
                                                                                     Page 5 sur 7
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/img-05-01.png)
-
 ---
 
 ## Page 6
@@ -339,4 +331,4 @@ Annexe : schéma d’optique pour l’exercice 1
 
                                                               Page 7 sur 7
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/page-07.png)
+![Page 7 — carte / document visuel](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-corrige/page-07.png)

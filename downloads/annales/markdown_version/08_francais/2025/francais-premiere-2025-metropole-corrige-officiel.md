@@ -1,6 +1,6 @@
 # francais-premiere-2025-metropole-corrige-officiel
 
-> Source : `../../../pdf_version/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -33,23 +33,7 @@ BACCALAURÉAT GÉNÉRAL
 
 25-FRGEME1C                            Page 1 sur 14
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-01.png)
-
-![Image embarquée 2 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-02.png)
-
-![Image embarquée 3 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-03.png)
-
-![Image embarquée 4 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-04.png)
-
-![Image embarquée 5 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-05.png)
-
-![Image embarquée 6 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-06.png)
-
-![Image embarquée 7 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-07.png)
-
-![Image embarquée 8 (page 1)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-01-08.png)
+![Page 1 — carte / document visuel](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-01.png)
 
 ---
 
@@ -78,24 +62,6 @@ insuffisances de la copie ?
 25-FRGEME1C                                                                                                    Page 2 sur 14
 
                                                          EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-04.png)
-
-![Image embarquée 5 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-05.png)
-
-![Image embarquée 6 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-06.png)
-
-![Image embarquée 7 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-07.png)
-
-![Image embarquée 8 (page 2)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-02-08.png)
 
 ---
 
@@ -171,24 +137,6 @@ plus ou moins bien maitrisées.
 
                                                            EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-02.png)
-
-![Image embarquée 3 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-03.png)
-
-![Image embarquée 4 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-04.png)
-
-![Image embarquée 5 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-05.png)
-
-![Image embarquée 6 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-06.png)
-
-![Image embarquée 7 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-07.png)
-
-![Image embarquée 8 (page 3)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-03-08.png)
-
 ---
 
 ## Page 4
@@ -232,24 +180,6 @@ Explicitation des compétences
 25-FRGEME1C                                                                                                    Page 4 sur 14
 
                                                          EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-03.png)
-
-![Image embarquée 4 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-04.png)
-
-![Image embarquée 5 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-05.png)
-
-![Image embarquée 6 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-06.png)
-
-![Image embarquée 7 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-07.png)
-
-![Image embarquée 8 (page 4)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-04-08.png)
 
 ---
 
@@ -315,27 +245,11 @@ Jules Barbey d’Aurevilly, L’Ensorcelée, 1854
 
                                                          EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-03.png)
-
-![Image embarquée 4 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-04.png)
-
-![Image embarquée 5 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-05.png)
-
-![Image embarquée 6 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-06.png)
-
-![Image embarquée 7 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-07.png)
-
-![Image embarquée 8 (page 5)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-05-08.png)
-
 ---
 
 ## Page 6
+
+*(Suite de la page précédente — le document continue ici.)*
 
 o   Le texte propose une image particulièrement puissante de l’imaginaire nocturne angoissant à travers
        la personnification du silence : « dans la nuit, un si vaste silence aurait dévoré tous les cris qu’on
@@ -379,24 +293,6 @@ o   Le texte propose une image particulièrement puissante de l’imaginaire noc
 25-FRGEME1C                                                                                                     Page 6 sur 14
 
                                                           EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-06-08.png)
 
 ---
 
@@ -474,24 +370,6 @@ plus ou moins bien maitrisées.
 
                                                            EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-03.png)
-
-![Image embarquée 4 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-04.png)
-
-![Image embarquée 5 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-05.png)
-
-![Image embarquée 6 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-06.png)
-
-![Image embarquée 7 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-07.png)
-
-![Image embarquée 8 (page 7)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-07-08.png)
-
 ---
 
 ## Page 8
@@ -534,24 +412,6 @@ Explicitation des compétences
 25-FRGEME1C                                                                                                    Page 8 sur 14
 
                                                          EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-02.png)
-
-![Image embarquée 3 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-03.png)
-
-![Image embarquée 4 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-04.png)
-
-![Image embarquée 5 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-05.png)
-
-![Image embarquée 6 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-06.png)
-
-![Image embarquée 7 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-07.png)
-
-![Image embarquée 8 (page 8)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-08-08.png)
 
 ---
 
@@ -623,27 +483,11 @@ Selon vous, dans la comédie Le Menteur, l’art du mensonge est-il toujours ma�
 
                                                           EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-02.png)
-
-![Image embarquée 3 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-03.png)
-
-![Image embarquée 4 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-04.png)
-
-![Image embarquée 5 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-05.png)
-
-![Image embarquée 6 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-06.png)
-
-![Image embarquée 7 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-07.png)
-
-![Image embarquée 8 (page 9)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-09-08.png)
-
 ---
 
 ## Page 10
+
+*(Suite de la page précédente — le document continue ici.)*
 
 o   Dorante, homme-orchestre, contrôle tout, même l’imprévu. Lorsque Clarice le confond sur son
        mariage, il rétablit la situation à son avantage (III,5), de même lorsqu’il apprend que les deux jeunes
@@ -709,24 +553,6 @@ o   Dorante, homme-orchestre, contrôle tout, même l’imprévu. Lorsque Claric
 25-FRGEME1C                                                                                                    Page 10 sur 14
 
                                                          EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-10.png)
-
-![Image embarquée 1 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-01.png)
-
-![Image embarquée 2 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-02.png)
-
-![Image embarquée 3 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-03.png)
-
-![Image embarquée 4 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-04.png)
-
-![Image embarquée 5 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-05.png)
-
-![Image embarquée 6 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-06.png)
-
-![Image embarquée 7 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-07.png)
-
-![Image embarquée 8 (page 10)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-10-08.png)
 
 ---
 
@@ -800,24 +626,6 @@ Les personnages s’affrontent-ils sérieusement dans On ne badine pas avec l’
 
                                                         EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-02.png)
-
-![Image embarquée 3 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-03.png)
-
-![Image embarquée 4 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-04.png)
-
-![Image embarquée 5 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-05.png)
-
-![Image embarquée 6 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-06.png)
-
-![Image embarquée 7 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-07.png)
-
-![Image embarquée 8 (page 11)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-11-08.png)
-
 ---
 
 ## Page 12
@@ -865,24 +673,6 @@ Les personnages dérogent au principe de l’affrontement direct, « front à fr
 25-FRGEME1C                                                                                                  Page 12 sur 14
 
                                                        EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
-
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-12.png)
-
-![Image embarquée 1 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-01.png)
-
-![Image embarquée 2 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-02.png)
-
-![Image embarquée 3 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-03.png)
-
-![Image embarquée 4 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-04.png)
-
-![Image embarquée 5 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-05.png)
-
-![Image embarquée 6 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-06.png)
-
-![Image embarquée 7 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-07.png)
-
-![Image embarquée 8 (page 12)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-12-08.png)
 
 ---
 
@@ -956,27 +746,11 @@ lecture de la pièce ?
 
                                                           EducN_MMDQ0Mj5MzMDka5MD5gzMtjAyNj2A1MjEHwMzlE4NWDkg
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-13.png)
-
-![Image embarquée 1 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-01.png)
-
-![Image embarquée 2 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-02.png)
-
-![Image embarquée 3 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-03.png)
-
-![Image embarquée 4 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-04.png)
-
-![Image embarquée 5 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-05.png)
-
-![Image embarquée 6 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-06.png)
-
-![Image embarquée 7 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-07.png)
-
-![Image embarquée 8 (page 13)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-13-08.png)
-
 ---
 
 ## Page 14
+
+*(Suite de la page précédente — le document continue ici.)*
 
 s’engage entre les deux protagonistes, au début à fleurets mouchetés mais de plus en plus frontale.
    o   Tous les coups sont alors permis : violence verbale (accusations de jalousie d’une part, de
@@ -1031,21 +805,3 @@ s’engage entre les deux protagonistes, au début à fleurets mouchetés mais d
 
 
 25-FRGEME1C                                                                                    Page 14 sur 14
-
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/page-14.png)
-
-![Image embarquée 1 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-01.png)
-
-![Image embarquée 2 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-02.png)
-
-![Image embarquée 3 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-03.png)
-
-![Image embarquée 4 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-04.png)
-
-![Image embarquée 5 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-05.png)
-
-![Image embarquée 6 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-06.png)
-
-![Image embarquée 7 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-07.png)
-
-![Image embarquée 8 (page 14)](../../../assets/08_francais/2025/francais-premiere-2025-metropole-corrige-officiel/img-14-08.png)

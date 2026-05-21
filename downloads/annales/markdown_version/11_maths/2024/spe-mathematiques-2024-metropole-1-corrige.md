@@ -1,6 +1,6 @@
 # spe-mathematiques-2024-metropole-1-corrige
 
-> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -81,10 +81,6 @@ D’après la calculatrice, 𝑃(𝑋 ≥ 25) ≈ 0,428.
 La probabilité qu’au moins 25 clients soient satisfaits dans un échantillon de 30 clients
 contactés sur une même journée est d’environ 0,428.
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige/img-02-01.jpeg)
-
 ---
 
 ## Page 3
@@ -131,8 +127,6 @@ D’après l’inégalité de Bienaymé-Tchebychev, on a : 𝑃(|𝑇 − 𝐸 (
                                1                                     2
 D’où : 𝑃 (|𝑇 − 𝐸 (𝑇)| ≥ 3) ≤ 3. Ainsi, on a bien : 𝑃(5 ≤ 𝑇 ≤ 9) ≥ 3.
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige/page-03.png)
-
 ---
 
 ## Page 4
@@ -141,7 +135,7 @@ La probabilité que le téléviseur soit reçu entre 5 et 9 jours après la comm
            𝟐
 ou égale à 𝟑.
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige/page-04.png)
+![Page 4 — carte / document visuel](../../../assets/11_maths/2024/spe-mathematiques-2024-metropole-1-corrige/page-04.png)
 
 ---
 
@@ -322,6 +316,8 @@ Donc : 𝑓(1) ≤ 0 ≤ 𝑓 (2)⁡donc 𝑓 (1) ≤ 𝑓 (𝛼 ) ≤ 𝑓(2) d
 ---
 
 ## Page 8
+
+*(Suite de la page précédente — le document continue ici.)*
 
 𝒙                     0                                                𝜶                                       +∞
  Signe de 𝒇(𝒙)                |                        -                       0                           +

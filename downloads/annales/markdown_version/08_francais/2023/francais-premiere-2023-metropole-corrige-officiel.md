@@ -1,6 +1,6 @@
 # francais-premiere-2023-metropole-corrige-officiel
 
-> Source : `../../../pdf_version/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -29,8 +29,6 @@ BACCALAURÉAT GÉNÉRAL
 
 
 23- FRGEME1C                          Page : 1/14
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-01.png)
 
 ---
 
@@ -93,6 +91,8 @@ COMMENTAIRE
 
 ## Page 3
 
+*(Suite de la page précédente — le document continue ici.)*
+
 mais des retrouvailles intimes avec son moi profond : la litanie de comparatifs « plus libre, plus
     seul, plus à moi, plus près de moi » insiste sur la renaissance jubilatoire du moi.
     Le plaisir est lié à la variété des sentiments que le spectacle convoque : plaisir de l’introspection
@@ -150,6 +150,8 @@ mais des retrouvailles intimes avec son moi profond : la litanie de comparatifs 
 
 ## Page 4
 
+*(Suite de la page précédente — le document continue ici.)*
+
 aucune chance : sa fragilité, « existence éphémère » et « le faible tissu de fibres et de chair » dont
   il est fait le condamnent à une disparition brutale, contre laquelle il tente en vain de lutter. Le
   contraste entre la triste réalité (« fin », « celle qui m’attend ») et le cri de révolte que le « je » tente
@@ -178,8 +180,6 @@ aucune chance : sa fragilité, « existence éphémère » et « le faible tissu
 
 
          23- FRGEME1C                                                                      Page : 4/14
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-04.png)
 
 ---
 
@@ -297,8 +297,6 @@ Aucun de ces actes n’est suivi de remords, puisqu’ « il s’agit de l’ent
     dans le désert, un être romanesque dont Des Grieux est, plus que l’amant, le créateur.
 
          23- FRGEME1C                                                                    Page : 6/14
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-06.png)
 
 ---
 
@@ -418,8 +416,6 @@ DISSERTATION
 
     23- FRGEME1C                                                                                         Page : 8/14
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-08.png)
-
 ---
 
 ## Page 9
@@ -481,11 +477,11 @@ L’évocation de ce festin qui tourne à l’orgie vaut comme image du chaos d�
 
    23- FRGEME1C                                                                             Page : 9/14
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-09.png)
-
 ---
 
 ## Page 10
+
+*(Suite de la page précédente — le document continue ici.)*
 
 pour céder à des aspirations matérielles (sa volonté de s’enrichir, de mener une vie luxueuse), et
   sensuelles.
@@ -543,8 +539,6 @@ pour céder à des aspirations matérielles (sa volonté de s’enrichir, de men
    4 L’expression est de Philarète Chasles, dans l’« Introduction » à La Peau de chagrin de 1831.
 
    23- FRGEME1C                                                                                     Page : 10/14
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-10.png)
 
 ---
 
@@ -620,8 +614,6 @@ DISSERTATION
 
         23- FRGEME1C                                                                Page : 12/14
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-12.png)
-
 ---
 
 ## Page 13
@@ -679,11 +671,11 @@ DISSERTATION
   pays que j’ai quitté ». Quand elle écrit Sido, le jardin de l’enfance n’existe plus que dans ses
        23- FRGEME1C                                                                  Page : 13/14
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/08_francais/2023/francais-premiere-2023-metropole-corrige-officiel/page-13.png)
-
 ---
 
 ## Page 14
+
+*(Suite de la page précédente — le document continue ici.)*
 
 souvenirs et son pays d’origine a disparu en même temps que sa jeunesse : « Fini. Coupé. Plus
     rien. Rasé. On voit la terre. »

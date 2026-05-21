@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05466-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -38,10 +38,6 @@
 Page 1 / 8
                                                                             GTCENSC05466
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -76,12 +72,6 @@ Exercice 1 - L'émission de gaz à effet de serre en
 
 Page 2 / 8
                                                                    GTCENSC05466
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -130,10 +120,6 @@ Page 2 / 8
 Page 3 / 8
                                                                      GTCENSC05466
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -160,10 +146,6 @@ Page 3 / 8
 
 Page 4 / 8
                                                                    GTCENSC05466
-
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -199,14 +181,6 @@ Exercice 2 - Les conséquences de la géographie
 
 Page 5 / 8
                                                                  GTCENSC05466
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-05-03.png)
 
 ---
 
@@ -257,18 +231,6 @@ Document 1 : carte de l’île de Bornéo et localisation de quelques population
 Page 6 / 8
                                                                         GTCENSC05466
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-06-05.png)
-
 ---
 
 ## Page 7
@@ -312,14 +274,6 @@ Les cases grisées, constituant la diagonale, du tableau indiquent les pourcenta
 Page 7 / 8
                                                                       GTCENSC05466
 
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-07-03.png)
-
 ---
 
 ## Page 8
@@ -348,7 +302,3 @@ Page 7 / 8
 
 Page 8 / 8
                                                                 GTCENSC05466
-
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05466-sujet-officiel/img-08-01.png)

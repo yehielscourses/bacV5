@@ -1,6 +1,6 @@
 # spe-mathematiques-2025-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -105,20 +105,6 @@ probabilité de 𝐸.
 
                                             EducN_MMDQ0Mj5I0MTAa4MT2czMtjAyNj5A1MjEHwMzvE4MCjcg
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-02-04.png)
-
-![Image embarquée 5 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-02-05.png)
-
-![Image embarquée 6 (page 2)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-02-06.png)
-
 ---
 
 ## Page 3
@@ -216,14 +202,6 @@ On répondra aux questions suivantes en les justifiant à l’aide du graphique.
 
                                                   EducN_MMDQ0Mj5I0MTAa4MT2czMtjAyNj5A1MjEHwMzvE4MCjcg
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/img-04-03.png)
-
 ---
 
 ## Page 5
@@ -281,8 +259,6 @@ On munit l’espace d’un repère orthonormé (𝑂 ; 𝑖⃗, 𝑗⃗, 𝑘
 
 
                                                EducN_MMDQ0Mj5I0MTAa4MT2czMtjAyNj5A1MjEHwMzvE4MCjcg
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-1-sujet-officiel/page-05.png)
 
 ---
 

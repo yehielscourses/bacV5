@@ -1,6 +1,6 @@
 # spe-physique-chimie-2021-metropole-2-corrige-officiel
 
-> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -56,10 +56,6 @@ EXERCICE 1 : AQUARIUM RÉCIFAL (10 points)
 
 
                                                                                                                                                      Page : 1 / 9
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-01-01.png)
 
 ---
 
@@ -199,8 +195,6 @@ EXERCICE A : UN SAUT STRATOSPHÉRIQUE (5 points),
 
                                                                                                                                                     Page : 4 / 9
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/page-04.png)
-
 ---
 
 ## Page 5
@@ -241,8 +235,6 @@ EXERCICE A : UN SAUT STRATOSPHÉRIQUE (5 points),
 
 
                                                                                                                                                  Page : 5 / 9
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/page-05.png)
 
 ---
 
@@ -340,136 +332,6 @@ EXERCICE B : UN SYSTÈME DE DÉTECTION DE PASSAGER (5 points)
 
                                                                                                                                                            Page : 7 / 9
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-03.png)
-
-![Image embarquée 4 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-04.png)
-
-![Image embarquée 5 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-05.png)
-
-![Image embarquée 6 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-06.png)
-
-![Image embarquée 7 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-07.png)
-
-![Image embarquée 8 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-08.png)
-
-![Image embarquée 9 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-09.png)
-
-![Image embarquée 10 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-10.png)
-
-![Image embarquée 11 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-11.png)
-
-![Image embarquée 12 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-12.png)
-
-![Image embarquée 13 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-13.png)
-
-![Image embarquée 14 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-14.png)
-
-![Image embarquée 15 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-15.png)
-
-![Image embarquée 16 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-16.png)
-
-![Image embarquée 17 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-17.png)
-
-![Image embarquée 18 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-18.png)
-
-![Image embarquée 19 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-19.png)
-
-![Image embarquée 20 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-20.png)
-
-![Image embarquée 21 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-21.png)
-
-![Image embarquée 22 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-22.png)
-
-![Image embarquée 23 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-23.png)
-
-![Image embarquée 24 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-24.png)
-
-![Image embarquée 25 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-25.png)
-
-![Image embarquée 26 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-26.png)
-
-![Image embarquée 27 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-27.png)
-
-![Image embarquée 28 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-28.png)
-
-![Image embarquée 29 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-29.png)
-
-![Image embarquée 30 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-30.png)
-
-![Image embarquée 31 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-31.png)
-
-![Image embarquée 32 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-32.png)
-
-![Image embarquée 33 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-33.png)
-
-![Image embarquée 34 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-34.png)
-
-![Image embarquée 35 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-35.png)
-
-![Image embarquée 36 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-36.png)
-
-![Image embarquée 37 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-37.png)
-
-![Image embarquée 38 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-38.png)
-
-![Image embarquée 39 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-39.png)
-
-![Image embarquée 40 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-40.png)
-
-![Image embarquée 41 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-41.png)
-
-![Image embarquée 42 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-42.png)
-
-![Image embarquée 43 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-43.png)
-
-![Image embarquée 44 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-44.png)
-
-![Image embarquée 45 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-45.png)
-
-![Image embarquée 46 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-46.png)
-
-![Image embarquée 47 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-47.png)
-
-![Image embarquée 48 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-48.png)
-
-![Image embarquée 49 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-49.png)
-
-![Image embarquée 50 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-50.png)
-
-![Image embarquée 51 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-51.png)
-
-![Image embarquée 52 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-52.png)
-
-![Image embarquée 53 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-53.png)
-
-![Image embarquée 54 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-54.png)
-
-![Image embarquée 55 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-55.png)
-
-![Image embarquée 56 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-56.png)
-
-![Image embarquée 57 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-57.png)
-
-![Image embarquée 58 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-58.png)
-
-![Image embarquée 59 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-59.png)
-
-![Image embarquée 60 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-60.png)
-
-![Image embarquée 61 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-61.png)
-
-![Image embarquée 62 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-62.png)
-
-![Image embarquée 63 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-63.png)
-
-![Image embarquée 64 (page 7)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/img-07-64.png)
-
 ---
 
 ## Page 8
@@ -522,8 +384,6 @@ EXERCICE C : QUELLE TAILLE POUR LES MAILLES D’UN TAMIS ? (5 points)
 
 
                                                                                                                                                                        Page : 8 / 9
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-2-corrige-officiel/page-08.png)
 
 ---
 

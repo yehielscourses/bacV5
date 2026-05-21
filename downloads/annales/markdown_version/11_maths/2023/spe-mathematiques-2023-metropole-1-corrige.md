@@ -1,6 +1,6 @@
 # spe-mathematiques-2023-metropole-1-corrige
 
-> Source : `../../../pdf_version/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -60,13 +60,11 @@ Exercice 1 (5 points)
 
                                                             1
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/img-01-01.png)
-
 ---
 
 ## Page 2
+
+*(Suite de la page précédente — le document continue ici.)*
 
 par application de la fonction log, strictement croissante sur R+
                                                                     ∗ . Ainsi,
@@ -209,14 +207,6 @@ Une autre modélisation
 
 
                                                        3
-
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/img-03-01.jpeg)
-
-![Image embarquée 2 (page 3)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/img-03-02.jpeg)
-
-![Image embarquée 3 (page 3)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/img-03-03.jpeg)
 
 ---
 
@@ -374,5 +364,3 @@ Exercice 4
 
 
                                                       5
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/11_maths/2023/spe-mathematiques-2023-metropole-1-corrige/page-05.png)

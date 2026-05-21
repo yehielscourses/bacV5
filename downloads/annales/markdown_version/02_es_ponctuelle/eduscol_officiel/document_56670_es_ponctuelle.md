@@ -1,6 +1,6 @@
 # document_56670_es_ponctuelle
 
-> Source : `../../../pdf_version/02_es_ponctuelle/eduscol_officiel/document_56670_es_ponctuelle.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/02_es_ponctuelle/eduscol_officiel/document_56670_es_ponctuelle.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -40,10 +40,6 @@ Textes de référence
 
 Note de service relative aux modalités d'évaluation des candidats
 Version consolidée – mars 2024                                                         1
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/02_es_ponctuelle/eduscol_officiel/document_56670_es_ponctuelle/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/02_es_ponctuelle/eduscol_officiel/document_56670_es_ponctuelle/img-01-01.png)
 
 ---
 
@@ -103,6 +99,8 @@ Version consolidée – mars 2024                                               
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 coefficient 6 si l’évaluation porte sur le programme des deux années du cycle
 terminal, conformément aux dispositions de la note de service du 28 juillet 2021

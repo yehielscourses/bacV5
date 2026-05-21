@@ -1,6 +1,6 @@
 # spe-mathematiques-2025-metropole-2-corrige
 
-> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2025/spe-mathematiques-2025-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -58,13 +58,11 @@ D’après la calculatrice, 𝑃(𝑋 ≤ 19) ≈ 0,145.
 Donc, 𝑃(𝑋 ≥ 20) ≈ 1 − 0,145 𝑃(𝑋 ≥ 20) ≈ 0,855.
 La probabilité pour qu’au moins 20 personnes ne tombent à aucune des deux séances est d’environ 0,855.
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-corrige/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-corrige/img-01-01.png)
-
 ---
 
 ## Page 2
+
+*(Suite de la page précédente — le document continue ici.)*
 
 c.
 Comme 𝑋 suit une loi binomiale, 𝐸(𝑋) = 𝑛𝑝.
@@ -418,5 +416,3 @@ On calcule 𝑑(4,7) car d’après la question B3, le dispositif d’arrêt se 
                        5       205     205
 𝑑(4,7) = 𝑒 −0,6×4,7 (− 3 4,7 − 9 ) + 9 . 𝑑(4,7) ≈ 20,95.
 Ainsi, la distance parcourue avant l’activation du dispositif d’arrêt est d’environ 20,95m.
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/11_maths/2025/spe-mathematiques-2025-metropole-2-corrige/page-07.png)

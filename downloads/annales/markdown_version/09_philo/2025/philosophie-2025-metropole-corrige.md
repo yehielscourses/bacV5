@@ -1,6 +1,6 @@
 # philosophie-2025-metropole-corrige
 
-> Source : `../../../pdf_version/09_philo/2025/philosophie-2025-metropole-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/09_philo/2025/philosophie-2025-metropole-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -84,8 +84,6 @@ Définitions et premières distinctions
 
 
 Corrigé Bac 2025 – Philosophie – Métropole                               www.sujetdebac.fr
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/09_philo/2025/philosophie-2025-metropole-corrige/page-02.png)
 
 ---
 
@@ -376,6 +374,8 @@ Corrigé Bac 2025 – Philosophie – Métropole                              ww
 ---
 
 ## Page 9
+
+*(Suite de la page précédente — le document continue ici.)*
 
 idées dans le débat public. C’est une vision exigeante mais profondément
   démocratique, où chacun est acteur du bien commun, et non simple spectateur.

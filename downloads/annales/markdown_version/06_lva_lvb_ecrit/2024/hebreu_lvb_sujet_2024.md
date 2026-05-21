@@ -1,6 +1,6 @@
 # hebreu_lvb_sujet_2024
 
-> Source : `../../../pdf_version/06_lva_lvb_ecrit/2024/hebreu_lvb_sujet_2024.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/06_lva_lvb_ecrit/2024/hebreu_lvb_sujet_2024.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---

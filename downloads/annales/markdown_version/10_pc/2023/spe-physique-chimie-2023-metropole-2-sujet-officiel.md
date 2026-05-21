@@ -1,6 +1,6 @@
 # spe-physique-chimie-2023-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -100,16 +100,6 @@ Q3. Déterminer la quantité de matière initiale n0 d’acide ascorbique introd
 
 
 23-PYCJ2ME1                                                                                             Page 2/9
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-02-02.jpeg)
-
-![Image embarquée 3 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-02-04.png)
 
 ---
 
@@ -246,8 +236,6 @@ Q10. Expliquer sans calcul si le kiwi vert contient plus ou moins d’acide asco
 
      23-PYCJ2ME1                                                                                              Page 4/9
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/page-04.png)
-
 ---
 
 ## Page 5
@@ -318,22 +306,6 @@ du crapaud suivant les axes Ox et Oz.
 
 
 23-PYCJ2ME1                                                                                            Page 5/9
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-01.jpeg)
-
-![Image embarquée 2 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-03.png)
-
-![Image embarquée 4 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-04.png)
-
-![Image embarquée 5 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-05.png)
-
-![Image embarquée 6 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-06.png)
-
-![Image embarquée 7 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-05-07.png)
 
 ---
 
@@ -460,14 +432,6 @@ Données :
 
 23-PYCJ2ME1                                                                                                                        Page 7/9
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-07-03.png)
-
 ---
 
 ## Page 8
@@ -526,10 +490,6 @@ La démarche est évaluée et doit être correctement présentée.
 
 
 23-PYCJ2ME1                                                                                                  Page 8/9
-
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-2-sujet-officiel/img-08-01.jpeg)
 
 ---
 

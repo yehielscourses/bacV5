@@ -1,6 +1,6 @@
 # grilles_lva_lvb
 
-> Source : `../../../pdf_version/06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -47,10 +47,6 @@ A2    contexte (thème, lieux, personnes, événements,             3      dossi
 A1                                                               1                                                                 1            évidentes d’un document (dates, titres,             1
          les articuler en partie les unes aux autres.                          relevant des mots ou expressions.
                                                                                                                                                            paragraphes, etc.)
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb/img-01-01.png)
 
 ---
 

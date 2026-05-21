@@ -21,20 +21,20 @@ Les annales ne sont pas que du texte :
 - **`pdftotext -layout`** pour le corps searchable (comme les autres dossiers).
 - Séparateur `---` entre les pages PDF.
 
-### 2. Images embarquées
+### 2. Images utiles (pas les bandeaux)
 
-- Extraction avec **PyMuPDF** (`page.get_images()` → fichiers `img-NNN.png` ou `.jpeg`).
-- Insérées dans le `.md` **après le bloc texte de la page** concernée, avec légende `*[Image embarquée N — page P]*`.
+- **Ignorés** : bandeau « Évaluations communes » répété sur chaque page E3C (même fichier sur toutes les pages).
+- **Extrait** : photos, cartes, graphiques (surface > ~6 % de la page, pas un simple logo).
 
-### 3. Reproduction pleine page (graphiques / cartes)
+### 3. Reproduction pleine page — cas limités
 
-Quand une page est **surtout visuelle** :
+Un `page-PP.png` **uniquement** si :
 
-- critère : `len(texte) < 400` caractères **ou** au moins une image embarquée **ou** mots-clés (`carte`, `document`, `graphique`, `figure`, `schéma`, `croquis`) dans le texte de la page ;
-- génération d’un **`page-PP.png`** (rendu 120 DPI, largeur max 1400 px) ;
-- lien Markdown : `![Page P — reproduction fidèle](../assets/.../page-PP.png)`.
+- le texte parle d’une **carte / croquis / photographie / graphique** (pas le mot « Document 1 » dans un sujet HG) ;
+- ou la page est **très visuelle** (peu de texte, grande image) ;
+- **pas** si la page est surtout un **texte à lire** (> ~900 caractères) : ex. suite de l’appel du 18 juin → texte Markdown seul, pas de capture inutile.
 
-Cela couvre les cartes HG et les graphiques PC/maths/ES non extraits comme images séparées.
+Les pages coupées au milieu d’un document (ex. page 3 du sujet 05574) sont signalées : *(Suite de la page précédente)*.
 
 ### 4. Ce qui n’est pas reproductible en MD
 

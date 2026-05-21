@@ -1,6 +1,6 @@
 # spe-physique-chimie-2023-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -43,6 +43,8 @@ BACCALAURÉAT GÉNÉRAL
 
 
 23-PYCJ1ME1                                                                       Page 1/12
+
+![Page 1 — carte / document visuel](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-01.png)
 
 ---
 
@@ -113,14 +115,6 @@ Q1. Préciser le sens du terme « afocal ».
 
 23-PYCJ1ME1                                                                                               Page 2/12
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-02-01.jpeg)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-02-02.jpeg)
-
-![Image embarquée 3 (page 2)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-02-03.jpeg)
-
 ---
 
 ## Page 3
@@ -182,20 +176,6 @@ Q8. Calculer la valeur du grossissement GHuy de la lunette utilisée par Huygens
 
 23-PYCJ1ME1                                                                                         Page 3/12
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-03-01.jpeg)
-
-![Image embarquée 2 (page 3)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-03-02.jpeg)
-
-![Image embarquée 3 (page 3)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-03-03.png)
-
-![Image embarquée 4 (page 3)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-03-04.jpeg)
-
-![Image embarquée 5 (page 3)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-03-05.jpeg)
-
-![Image embarquée 6 (page 3)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-03-06.png)
-
 ---
 
 ## Page 4
@@ -242,10 +222,6 @@ La démarche est évaluée et doit être correctement présentée.
 
 
 23-PYCJ1ME1                                                                                           Page 4/12
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-04-01.jpeg)
 
 ---
 
@@ -312,28 +288,6 @@ Commenter.
 
 
 23-PYCJ1ME1                                                                                           Page 5/12
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-02.jpeg)
-
-![Image embarquée 3 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-03.jpeg)
-
-![Image embarquée 4 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-04.jpeg)
-
-![Image embarquée 5 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-05.jpeg)
-
-![Image embarquée 6 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-06.jpeg)
-
-![Image embarquée 7 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-07.jpeg)
-
-![Image embarquée 8 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-08.jpeg)
-
-![Image embarquée 9 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-09.jpeg)
-
-![Image embarquée 10 (page 5)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-05-10.png)
 
 ---
 
@@ -403,44 +357,6 @@ l’acide éthanoïque, soit à l’éthanoate de 3-méthylbutyle.
 
 
 23-PYCJ1ME1                                                                                                                Page 6/12
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-01.jpeg)
-
-![Image embarquée 2 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-02.jpeg)
-
-![Image embarquée 3 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-05.jpeg)
-
-![Image embarquée 6 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-08.png)
-
-![Image embarquée 9 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-09.png)
-
-![Image embarquée 10 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-10.png)
-
-![Image embarquée 11 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-11.png)
-
-![Image embarquée 12 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-12.png)
-
-![Image embarquée 13 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-13.png)
-
-![Image embarquée 14 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-14.png)
-
-![Image embarquée 15 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-15.png)
-
-![Image embarquée 16 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-16.png)
-
-![Image embarquée 17 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-17.png)
-
-![Image embarquée 18 (page 6)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-06-18.png)
 
 ---
 
@@ -516,58 +432,6 @@ Q4. Nommer les étapes 2 et 3 du protocole A.
 
 23-PYCJ1ME1                                                                                                   Page 7/12
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-01.jpeg)
-
-![Image embarquée 2 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-02.jpeg)
-
-![Image embarquée 3 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-03.png)
-
-![Image embarquée 4 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-04.png)
-
-![Image embarquée 5 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-05.png)
-
-![Image embarquée 6 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-06.png)
-
-![Image embarquée 7 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-07.png)
-
-![Image embarquée 8 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-08.png)
-
-![Image embarquée 9 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-09.png)
-
-![Image embarquée 10 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-10.png)
-
-![Image embarquée 11 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-11.png)
-
-![Image embarquée 12 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-12.jpeg)
-
-![Image embarquée 13 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-13.jpeg)
-
-![Image embarquée 14 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-14.png)
-
-![Image embarquée 15 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-15.png)
-
-![Image embarquée 16 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-16.png)
-
-![Image embarquée 17 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-17.png)
-
-![Image embarquée 18 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-18.png)
-
-![Image embarquée 19 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-19.jpeg)
-
-![Image embarquée 20 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-20.jpeg)
-
-![Image embarquée 21 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-21.jpeg)
-
-![Image embarquée 22 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-22.jpeg)
-
-![Image embarquée 23 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-23.jpeg)
-
-![Image embarquée 24 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-24.jpeg)
-
-![Image embarquée 25 (page 7)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-07-25.jpeg)
-
 ---
 
 ## Page 8
@@ -635,32 +499,6 @@ de la chimie verte.
 
 23-PYCJ1ME1                                                                                            Page 8/12
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-02.png)
-
-![Image embarquée 3 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-03.png)
-
-![Image embarquée 4 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-04.png)
-
-![Image embarquée 5 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-05.png)
-
-![Image embarquée 6 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-06.png)
-
-![Image embarquée 7 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-07.png)
-
-![Image embarquée 8 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-08.png)
-
-![Image embarquée 9 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-09.png)
-
-![Image embarquée 10 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-10.png)
-
-![Image embarquée 11 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-11.png)
-
-![Image embarquée 12 (page 8)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-08-12.png)
-
 ---
 
 ## Page 9
@@ -718,12 +556,6 @@ Données :
 
 
 23-PYCJ1ME1                                                                                                     Page 9/12
-
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-09-02.jpeg)
 
 ---
 
@@ -787,8 +619,6 @@ solution étalon. Les résultats sont donnés en figure 3.
 
 
 23-PYCJ1ME1                                                                                         Page 10/12
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-10.png)
 
 ---
 
@@ -854,12 +684,6 @@ La démarche est évaluée et doit être correctement présentée.
 
 23-PYCJ1ME1                                                                                               Page 11/12
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-11-02.png)
-
 ---
 
 ## Page 12
@@ -867,7 +691,7 @@ La démarche est évaluée et doit être correctement présentée.
 Page blanche laissée intentionnellement.
         Ne rien inscrire dessus.
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-12.png)
+![Page 12 — carte / document visuel](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-12.png)
 
 ---
 
@@ -901,36 +725,10 @@ Page blanche laissée intentionnellement.
 
 Page 12/12
 
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-13.png)
-
-![Image embarquée 1 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-01.jpeg)
-
-![Image embarquée 2 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-02.jpeg)
-
-![Image embarquée 3 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-03.png)
-
-![Image embarquée 4 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-04.png)
-
-![Image embarquée 5 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-05.jpeg)
-
-![Image embarquée 6 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-06.jpeg)
-
-![Image embarquée 7 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-07.png)
-
-![Image embarquée 8 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-08.jpeg)
-
-![Image embarquée 9 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-09.png)
-
-![Image embarquée 10 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-10.png)
-
-![Image embarquée 11 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-11.png)
-
-![Image embarquée 12 (page 13)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-13-12.png)
+![Page 13 — carte / document visuel](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-13.png)
 
 ---
 
 ## Page 14
 
-![Page 14 — reproduction (carte, graphique, document)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-14.png)
-
-![Image embarquée 1 (page 14)](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/img-14-01.png)
+![Page 14 — carte / document visuel](../../../assets/10_pc/2023/spe-physique-chimie-2023-metropole-1-sujet-officiel/page-14.png)

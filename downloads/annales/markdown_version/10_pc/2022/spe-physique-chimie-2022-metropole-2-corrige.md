@@ -1,6 +1,6 @@
 # spe-physique-chimie-2022-metropole-2-corrige
 
-> Source : `../../../pdf_version/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -21,8 +21,6 @@ Sujet de spécialité — Proposition de corrigé
 
 
          Ce corrigé est composé de 10 pages.
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-01.png)
 
 ---
 
@@ -88,8 +86,6 @@ Q8. On cherche l’expression du diamètre de Mars en fonction des données du p
 
 
                                                                                      Page 2 sur 10
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-02.png)
 
 ---
 
@@ -203,10 +199,6 @@ Q6. En début de titrage, on se place à pH = 9, 75 > pKa. La vanilline se trouv
 
                                                                                  Page 4 sur 10
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -309,8 +301,6 @@ Q6. On a, pour le diiode, la demi-équation électronique :
 
                                                                                            Page 6 sur 10
 
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-06.png)
-
 ---
 
 ## Page 7
@@ -407,16 +397,6 @@ Q6. Selon ce modèle, pour obtenir un courant U = 100 V, il faudrait N = 100/0, 
 
                                                                                   Page 8 sur 10
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/img-08-02.png)
-
-![Image embarquée 3 (page 8)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/img-08-03.png)
-
-![Image embarquée 4 (page 8)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/img-08-04.png)
-
 ---
 
 ## Page 9
@@ -508,4 +488,4 @@ Annexe : schéma de l’exercice 1
 
                                                                                   Page 10 sur 10
 
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-10.png)
+![Page 10 — carte / document visuel](../../../assets/10_pc/2022/spe-physique-chimie-2022-metropole-2-corrige/page-10.png)

@@ -1,6 +1,6 @@
 # spe-mathematiques-2022-metropole-1-corrige
 
-> Source : `../../../pdf_version/11_maths/2022/spe-mathematiques-2022-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/11_maths/2022/spe-mathematiques-2022-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -21,8 +21,6 @@ Sujet de spécialité — Proposition de corrigé
 
 
          Ce corrigé est composé de 10 pages.
-
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-1-corrige/page-01.png)
 
 ---
 
@@ -84,8 +82,6 @@ Partie B : Étude du second protocole
 
 
                                                                                                   Page 2 sur 10
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/11_maths/2022/spe-mathematiques-2022-metropole-1-corrige/page-02.png)
 
 ---
 

@@ -1,6 +1,6 @@
 # spe-physique-chimie-2021-metropole-1-corrige
 
-> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -21,7 +21,7 @@ Sujet de spécialité — Proposition de corrigé
 
          Ce corrigé est composé de 10 pages.
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige/page-01.png)
+![Page 1 — carte / document visuel](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige/page-01.png)
 
 ---
 
@@ -95,8 +95,6 @@ Exercice 1 —           Le jeu du cornhole
 
 
                                                                                       Page 2 sur 10
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige/page-02.png)
 
 ---
 
@@ -220,8 +218,6 @@ Baccalauréat général      Épreuve de Physique-Chimie (spécialité)         
 
                                                                                      Page 4 sur 10
 
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige/page-04.png)
-
 ---
 
 ## Page 5
@@ -281,8 +277,6 @@ Exercice A —           Un indicateur coloré naturel issu du chou rouge
 
 
                                                                                     Page 5 sur 10
-
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2021/spe-physique-chimie-2021-metropole-1-corrige/page-05.png)
 
 ---
 

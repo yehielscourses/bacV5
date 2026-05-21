@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-premiere-02409-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -40,10 +40,6 @@
 
 Page 1 / 9
                                                                             G1CENSC02409
-
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-01-01.png)
 
 ---
 
@@ -90,12 +86,6 @@ EXERCICE 1
 
 Page 2 / 9
                                                                 G1CENSC02409
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -144,12 +134,6 @@ Page 2 / 9
 Page 3 / 9
                                                                G1CENSC02409
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-03-02.png)
-
 ---
 
 ## Page 4
@@ -195,10 +179,6 @@ Calculer la circonférence de la Terre puis en déduire le rayon de la Terre au
 Page 4 / 9
                                                                     G1CENSC02409
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-04-01.png)
-
 ---
 
 ## Page 5
@@ -241,28 +221,6 @@ Document 1. L’oreille humaine
 
 Page 5 / 9
                                                                   G1CENSC02409
-
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-03.png)
-
-![Image embarquée 4 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-04.png)
-
-![Image embarquée 5 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-05.png)
-
-![Image embarquée 6 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-06.png)
-
-![Image embarquée 7 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-07.png)
-
-![Image embarquée 8 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-08.png)
-
-![Image embarquée 9 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-09.png)
-
-![Image embarquée 10 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-05-10.png)
 
 ---
 
@@ -312,12 +270,6 @@ L’atténuation des sons par un bouchon est égale à la diminution du niveau d
 Page 6 / 9
                                                                G1CENSC02409
 
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-06-02.png)
-
 ---
 
 ## Page 7
@@ -344,13 +296,7 @@ Document 3. Spectres du son émis par une guitare et des sons restitués après
 Page 7 / 9
                                                                      G1CENSC02409
 
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-07-03.png)
+![Page 7 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-07.png)
 
 ---
 
@@ -383,11 +329,7 @@ Figure 3. Spectre du mi4 restitué après passage par un bouchon moulé en silic
 Page 8 / 9
                                                                    G1CENSC02409
 
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-08-02.png)
+![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-08.png)
 
 ---
 
@@ -419,10 +361,4 @@ ANNEXE A RENDRE AVEC LA COPIE
 Page 9 / 9
                                                                 G1CENSC02409
 
-![Page 9 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-09-02.png)
-
-![Image embarquée 3 (page 9)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/img-09-03.png)
+![Page 9 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-premiere-02409-sujet-officiel/page-09.png)

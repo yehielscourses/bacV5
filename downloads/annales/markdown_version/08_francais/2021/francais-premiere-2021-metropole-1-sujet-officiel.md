@@ -1,6 +1,6 @@
 # francais-premiere-2021-metropole-1-sujet-officiel
 
-> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2021/francais-premiere-2021-metropole-1-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -106,11 +106,11 @@ Vous traiterez, au choix, l’un des deux sujets suivants :
 
      21-FRGEME1                                                                                     Page 2 / 4
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-sujet-officiel/page-02.png)
-
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 à leur retour, un appartement transformé, aménagé, remis à neuf, un appartement
      modèle, merveilleusement agrandi, plein de détails à sa mesure, des cloisons amo-
@@ -184,5 +184,3 @@ du parcours associé et sur votre culture personnelle.
 
 
 21-FRGEME1                                                                Page 4 / 4
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/08_francais/2021/francais-premiere-2021-metropole-1-sujet-officiel/page-04.png)

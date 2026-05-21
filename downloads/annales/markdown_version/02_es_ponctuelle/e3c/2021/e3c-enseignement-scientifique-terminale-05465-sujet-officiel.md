@@ -1,6 +1,6 @@
 # e3c-enseignement-scientifique-terminale-05465-sujet-officiel
 
-> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../../pdf_version/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -38,10 +38,6 @@
 Page 1 / 8
                                                                             GTCENSC05465
 
-![Page 1 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-01-01.png)
-
 ---
 
 ## Page 2
@@ -70,12 +66,6 @@ Exercice 1- L’histoire du dioxygène terrestre
 
 Page 2 / 8
                                                                GTCENSC05465
-
-![Page 2 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-02-02.png)
 
 ---
 
@@ -125,10 +115,6 @@ Page 2 / 8
 Page 3 / 8
                                                                        GTCENSC05465
 
-![Page 3 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-03-01.png)
-
 ---
 
 ## Page 4
@@ -164,12 +150,6 @@ Page 3 / 8
 Page 4 / 8
                                                                 GTCENSC05465
 
-![Page 4 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-04-02.png)
-
 ---
 
 ## Page 5
@@ -190,9 +170,7 @@ Page 4 / 8
 Page 5 / 8
                                                                GTCENSC05465
 
-![Page 5 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-05-01.png)
+![Page 5 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-05.png)
 
 ---
 
@@ -242,12 +220,6 @@ Exercice 2- Un service de streaming musical
 
 Page 6 / 8
                                                                        GTCENSC05465
-
-![Page 6 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-06-02.png)
 
 ---
 
@@ -300,10 +272,6 @@ Le réseau R compte 2,7 milliards d’utilisateurs. Dans la même journée 3% d�
 Page 7 / 8
                                                                    GTCENSC05465
 
-![Page 7 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-07-01.png)
-
 ---
 
 ## Page 8
@@ -323,6 +291,4 @@ Un nouvel utilisateur est présenté à l’IA. L’IA qualifie ce nouvel utilis
 Page 8 / 8
                                                                   GTCENSC05465
 
-![Page 8 — reproduction (carte, graphique, document)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/img-08-01.png)
+![Page 8 — carte / document visuel](../../../../assets/02_es_ponctuelle/e3c/2021/e3c-enseignement-scientifique-terminale-05465-sujet-officiel/page-08.png)

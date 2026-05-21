@@ -1,6 +1,6 @@
 # francais-premiere-2024-metropole-corrige-officiel
 
-> Source : `../../../pdf_version/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -33,23 +33,7 @@ BACCALAURÉAT GÉNÉRAL
 
 24-FRGEME1C                            Page 1 sur 13
 
-![Page 1 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-01.png)
-
-![Image embarquée 1 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-01.png)
-
-![Image embarquée 2 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-02.png)
-
-![Image embarquée 3 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-03.png)
-
-![Image embarquée 4 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-04.png)
-
-![Image embarquée 5 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-05.png)
-
-![Image embarquée 6 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-06.png)
-
-![Image embarquée 7 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-07.png)
-
-![Image embarquée 8 (page 1)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-01-08.png)
+![Page 1 — carte / document visuel](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-01.png)
 
 ---
 
@@ -76,24 +60,6 @@ insuffisances de la copie ?
 
 
 24-FRGEME1C                                                                                   Page 2 sur 13
-
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-03.png)
-
-![Image embarquée 4 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-04.png)
-
-![Image embarquée 5 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-05.png)
-
-![Image embarquée 6 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-06.png)
-
-![Image embarquée 7 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-07.png)
-
-![Image embarquée 8 (page 2)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-02-08.png)
 
 ---
 
@@ -169,27 +135,11 @@ Explicitation des compétences
 
 24-FRGEME1C                                                                                        Page 3 sur 13
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-01.png)
-
-![Image embarquée 2 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-02.png)
-
-![Image embarquée 3 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-03.png)
-
-![Image embarquée 4 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-04.png)
-
-![Image embarquée 5 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-05.png)
-
-![Image embarquée 6 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-06.png)
-
-![Image embarquée 7 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-07.png)
-
-![Image embarquée 8 (page 3)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-03-08.png)
-
 ---
 
 ## Page 4
+
+*(Suite de la page précédente — le document continue ici.)*
 
 o   Percevoir le mouvement/la composition du texte ;
     o   Identifier et analyser des éléments saillants du texte ;
@@ -224,24 +174,6 @@ o   Percevoir le mouvement/la composition du texte ;
 
 
 24-FRGEME1C                                                                             Page 4 sur 13
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-01.png)
-
-![Image embarquée 2 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-02.png)
-
-![Image embarquée 3 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-03.png)
-
-![Image embarquée 4 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-04.png)
-
-![Image embarquée 5 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-05.png)
-
-![Image embarquée 6 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-06.png)
-
-![Image embarquée 7 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-07.png)
-
-![Image embarquée 8 (page 4)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-04-08.png)
 
 ---
 
@@ -313,24 +245,6 @@ Pistes et perspectives pour le correcteur
 
 24-FRGEME1C                                                                                     Page 5 sur 13
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-05.png)
-
-![Image embarquée 1 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-01.png)
-
-![Image embarquée 2 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-02.png)
-
-![Image embarquée 3 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-03.png)
-
-![Image embarquée 4 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-04.png)
-
-![Image embarquée 5 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-05.png)
-
-![Image embarquée 6 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-06.png)
-
-![Image embarquée 7 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-07.png)
-
-![Image embarquée 8 (page 5)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-05-08.png)
-
 ---
 
 ## Page 6
@@ -364,24 +278,6 @@ Le tableau prend vie, et donne lieu à un dialogue amoureux dont les candidats p
 
 
 24-FRGEME1C                                                                                  Page 6 sur 13
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-01.png)
-
-![Image embarquée 2 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-02.png)
-
-![Image embarquée 3 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-03.png)
-
-![Image embarquée 4 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-04.png)
-
-![Image embarquée 5 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-05.png)
-
-![Image embarquée 6 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-06.png)
-
-![Image embarquée 7 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-07.png)
-
-![Image embarquée 8 (page 6)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-06-08.png)
 
 ---
 
@@ -457,24 +353,6 @@ plus ou moins bien maitrisées.
 
 24-FRGEME1C                                                                                         Page 7 sur 13
 
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-01.png)
-
-![Image embarquée 2 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-02.png)
-
-![Image embarquée 3 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-03.png)
-
-![Image embarquée 4 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-04.png)
-
-![Image embarquée 5 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-05.png)
-
-![Image embarquée 6 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-06.png)
-
-![Image embarquée 7 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-07.png)
-
-![Image embarquée 8 (page 7)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-07-08.png)
-
 ---
 
 ## Page 8
@@ -542,27 +420,11 @@ Explicitation des compétences
 
 24-FRGEME1C                                                                                 Page 8 sur 13
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-02.png)
-
-![Image embarquée 3 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-03.png)
-
-![Image embarquée 4 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-04.png)
-
-![Image embarquée 5 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-05.png)
-
-![Image embarquée 6 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-06.png)
-
-![Image embarquée 7 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-07.png)
-
-![Image embarquée 8 (page 8)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-08-08.png)
-
 ---
 
 ## Page 9
+
+*(Suite de la page précédente — le document continue ici.)*
 
 s’agissant du Cahier de Douai.
 
@@ -630,24 +492,6 @@ s’agissant du Cahier de Douai.
               littéraire (Shakespeare, Hugo, Villon, Molière) qu’il s’approprie pour faire œuvre nouvelle.
 
 24-FRGEME1C                                                                                   Page 9 sur 13
-
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-09.png)
-
-![Image embarquée 1 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-01.png)
-
-![Image embarquée 2 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-02.png)
-
-![Image embarquée 3 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-03.png)
-
-![Image embarquée 4 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-04.png)
-
-![Image embarquée 5 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-05.png)
-
-![Image embarquée 6 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-06.png)
-
-![Image embarquée 7 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-07.png)
-
-![Image embarquée 8 (page 9)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-09-08.png)
 
 ---
 
@@ -719,27 +563,11 @@ Pistes et perspectives pour le correcteur
 
 24-FRGEME1C                                                                                   Page 10 sur 13
 
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-10.png)
-
-![Image embarquée 1 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-01.png)
-
-![Image embarquée 2 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-02.png)
-
-![Image embarquée 3 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-03.png)
-
-![Image embarquée 4 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-04.png)
-
-![Image embarquée 5 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-05.png)
-
-![Image embarquée 6 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-06.png)
-
-![Image embarquée 7 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-07.png)
-
-![Image embarquée 8 (page 10)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-10-08.png)
-
 ---
 
 ## Page 11
+
+*(Suite de la page précédente — le document continue ici.)*
 
 valorisera une copie qui interroge la singularité du processus d’écriture des différents
                poèmes qui composent l’œuvre.
@@ -808,27 +636,11 @@ valorisera une copie qui interroge la singularité du processus d’écriture de
 
 24-FRGEME1C                                                                                Page 11 sur 13
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-01.png)
-
-![Image embarquée 2 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-02.png)
-
-![Image embarquée 3 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-03.png)
-
-![Image embarquée 4 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-04.png)
-
-![Image embarquée 5 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-05.png)
-
-![Image embarquée 6 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-06.png)
-
-![Image embarquée 7 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-07.png)
-
-![Image embarquée 8 (page 11)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-11-08.png)
-
 ---
 
 ## Page 12
+
+*(Suite de la page précédente — le document continue ici.)*
 
 o   Le candidat peut enfin s’interroger sur la portée politique de l’œuvre, écrite entre 1938 et
                  1944, et dans laquelle Ponge s’emploie à « militer contre l’obscurantisme » (« La
@@ -896,27 +708,11 @@ Pistes et perspectives pour le correcteur
 
 24-FRGEME1C                                                                                    Page 12 sur 13
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-12.png)
-
-![Image embarquée 1 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-01.png)
-
-![Image embarquée 2 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-02.png)
-
-![Image embarquée 3 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-03.png)
-
-![Image embarquée 4 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-04.png)
-
-![Image embarquée 5 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-05.png)
-
-![Image embarquée 6 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-06.png)
-
-![Image embarquée 7 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-07.png)
-
-![Image embarquée 8 (page 12)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-12-08.png)
-
 ---
 
 ## Page 13
+
+*(Suite de la page précédente — le document continue ici.)*
 
 galets » : « Où aller sans commencement / et peut-être sans fin ».
            o   Hélène Dorion refuse le terme de « recueil » pour désigner son œuvre, qu’elle présente
@@ -948,21 +744,3 @@ galets » : « Où aller sans commencement / et peut-être sans fin ».
 
 
 24-FRGEME1C                                                                               Page 13 sur 13
-
-![Page 13 — reproduction (carte, graphique, document)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/page-13.png)
-
-![Image embarquée 1 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-01.png)
-
-![Image embarquée 2 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-02.png)
-
-![Image embarquée 3 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-03.png)
-
-![Image embarquée 4 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-04.png)
-
-![Image embarquée 5 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-05.png)
-
-![Image embarquée 6 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-06.png)
-
-![Image embarquée 7 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-07.png)
-
-![Image embarquée 8 (page 13)](../../../assets/08_francais/2024/francais-premiere-2024-metropole-corrige-officiel/img-13-08.png)

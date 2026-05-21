@@ -1,6 +1,6 @@
 # spe-physique-chimie-2024-metropole-2-sujet-officiel
 
-> Source : `../../../pdf_version/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels).
+> Source : `../../../pdf_version/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel.pdf` — conversion Markdown (texte + visuels utiles).
 > Stratégie : [STRATEGIE_MARKDOWN.md](../../../STRATEGIE_MARKDOWN.md)
 
 ---
@@ -43,6 +43,8 @@ BACCALAURÉAT GÉNÉRAL
 
 
 24-PYCJ2ME1                                                                       Page 1/11
+
+![Page 1 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-01.png)
 
 ---
 
@@ -109,17 +111,11 @@ contenant la main du basketteur au moment où il lâche le ballon et le centre C
 
 24-PYCJ2ME1                                                                                           Page 2/11
 
-![Page 2 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-02.png)
-
-![Image embarquée 1 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-02-01.png)
-
-![Image embarquée 2 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-02-02.png)
-
-![Image embarquée 3 (page 2)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-02-03.jpeg)
-
 ---
 
 ## Page 3
+
+*(Suite de la page précédente — le document continue ici.)*
 
 l’instant où le ballon quitte la main, avec un vecteur vitesse initial vሬሬሬԦ0 qui forme un angle α avec l’axe horizontal.
 L’angle α est supposé différent de 90°.
@@ -188,12 +184,6 @@ valeurs de l’angle et de la vitesse ainsi trouvées à celles obtenues pour un
 
 24-PYCJ2ME1                                                                                                 Page 3/11
 
-![Page 3 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-03.png)
-
-![Image embarquée 1 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-03-01.jpeg)
-
-![Image embarquée 2 (page 3)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-03-02.jpeg)
-
 ---
 
 ## Page 4
@@ -244,10 +234,6 @@ site internet cité en début d’exercice.
 
 
 24-PYCJ2ME1                                                                                         Page 4/11
-
-![Page 4 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-04.png)
-
-![Image embarquée 1 (page 4)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-04-01.png)
 
 ---
 
@@ -314,8 +300,6 @@ d’au moins 3 dB à celui du bruit ambiant.
 
 24-PYCJ2ME1                                                                                                  Page 5/11
 
-![Page 5 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-05.png)
-
 ---
 
 ## Page 6
@@ -358,10 +342,6 @@ La démarche est évaluée et doit être correctement présentée.
 
 
 24-PYCJ2ME1                                                                                            Page 6/11
-
-![Page 6 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-06.png)
-
-![Image embarquée 1 (page 6)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-06-01.png)
 
 ---
 
@@ -426,14 +406,6 @@ Q1. Nommer la famille fonctionnelle à laquelle appartient l’acide cinnamique.
 
 
 24-PYCJ2ME1                                                                                          Page 7/11
-
-![Page 7 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-07.png)
-
-![Image embarquée 1 (page 7)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-07-01.jpeg)
-
-![Image embarquée 2 (page 7)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-07-02.jpeg)
-
-![Image embarquée 3 (page 7)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-07-03.jpeg)
 
 ---
 
@@ -506,12 +478,6 @@ synthèse en supposant que le produit obtenu est pur. Commenter.
 
 24-PYCJ2ME1                                                                                           Page 8/11
 
-![Page 8 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-08.png)
-
-![Image embarquée 1 (page 8)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-08-01.png)
-
-![Image embarquée 2 (page 8)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-08-02.png)
-
 ---
 
 ## Page 9
@@ -579,8 +545,6 @@ Q3. Écrire les demi-équations modélisant les réactions électrochimiques qui
 
 24-PYCJ2ME1                                                                                           Page 9/11
 
-![Page 9 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-09.png)
-
 ---
 
 ## Page 10
@@ -614,8 +578,6 @@ La démarche est évaluée et doit être correctement présentée.
 
 
 24-PYCJ2ME1                                                                                        Page 10/11
-
-![Page 10 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-10.png)
 
 ---
 
@@ -660,58 +622,8 @@ Téléphone
 
         24-PYCJ2ME1                                                                                   Page 11/11
 
-![Page 11 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-11.png)
-
-![Image embarquée 1 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-01.jpeg)
-
-![Image embarquée 2 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-02.png)
-
-![Image embarquée 3 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-03.png)
-
-![Image embarquée 4 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-04.png)
-
-![Image embarquée 5 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-05.png)
-
-![Image embarquée 6 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-06.png)
-
-![Image embarquée 7 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-07.png)
-
-![Image embarquée 8 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-08.png)
-
-![Image embarquée 9 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-09.png)
-
-![Image embarquée 10 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-10.png)
-
-![Image embarquée 11 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-11.png)
-
-![Image embarquée 12 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-12.png)
-
-![Image embarquée 13 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-13.png)
-
-![Image embarquée 14 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-14.png)
-
-![Image embarquée 15 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-15.png)
-
-![Image embarquée 16 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-16.png)
-
-![Image embarquée 17 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-17.png)
-
-![Image embarquée 18 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-18.png)
-
-![Image embarquée 19 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-19.png)
-
-![Image embarquée 20 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-20.png)
-
-![Image embarquée 21 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-21.png)
-
-![Image embarquée 22 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-22.png)
-
-![Image embarquée 23 (page 11)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-11-23.png)
-
 ---
 
 ## Page 12
 
-![Page 12 — reproduction (carte, graphique, document)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-12.png)
-
-![Image embarquée 1 (page 12)](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/img-12-01.png)
+![Page 12 — carte / document visuel](../../../assets/10_pc/2024/spe-physique-chimie-2024-metropole-2-sujet-officiel/page-12.png)
