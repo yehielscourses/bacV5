@@ -1,5 +1,5 @@
 # Maths — Algorithmique et Python
-> Programme : `07_mathematiques_specialite_terminale_BO2019` · Fiche : `downloads/fiches/11_maths_finale.md` · Coeff : 16 · Épreuve : **17/06**, 4 h
+> Programme : `downloads/programmes/markdown_version/07_mathematiques_specialite_terminale_BO2019.md`
 
 ## Introduction
 
@@ -225,6 +225,26 @@ print(S)
 Expliquer en 2 phrases le rôle de `if f(a)*f(m) <= 0` dans la dichotomie.
 
 **Corrigé :** on garde l’intervalle [a,m] où le signe en a est opposé ou nul à celui en m, donc où se trouve encore un changement de signe (zéro).
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/05_ns_epreuve_finale_maths.md` |
+| **Annales** | [`downloads/annales/markdown_version/11_maths/`](../../annales/markdown_version/11_maths/) |
+| **Fiche** | `downloads/fiches/11_maths_finale.md` |
+
+**Format (17/06, 4 h, coeff. 16) :** exercices rédigés ; **Python** possible ; calculatrice selon NS.
+
+**Méthode sur annale du repo :**
+1. Choisir un sujet métropole contenant le chapitre révisé (ex. suites, dérivées).
+2. Rédiger toutes les étapes ; vérifier avec le corrigé du repo.
+3. Noter les exercices « ratés » → revenir au § correspondant de ce cours.
+
+**Entraînement :** annales `11_maths/` + exercices type bac de ce fichier.
+
+**Grille :** rigueur, complétude (/20).
+
 
 ## Sources
 

@@ -1,5 +1,5 @@
 # LVB — Compréhension orale en hébreu (CO)
-> Programme : `09_langues_vivantes` · **03/06** · **1h30** · Coeff **6** · **B1**
+> Programme : `downloads/programmes/markdown_version/09_langues_vivantes_AB_premiere_terminale_BO2019.md`
 
 ## Introduction
 
@@ -195,6 +195,24 @@ Certaines épreuves demandent des **cases** à remplir (qui parle ? idée ? dét
 
 **6.** Audio hébreu **1 min** (podcast) : 3 écoutes + compte rendu **80 mots FR** en 25 min.  
 **Corrigé (auto) :** Type + 2 faits + ton ; français clair ; thème noté pour EE.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/03_ns_ponctuelle_langues_vivantes_juin2025.md` |
+| **Annales écrit** | [`downloads/annales/markdown_version/06_lva_lvb_ecrit/`](../../annales/markdown_version/06_lva_lvb_ecrit/) (hébreu 2024 si présent) |
+| **Annales oral** | [`downloads/annales/04_lvb_oral/LIENS_OFFICIELS.md`](../../annales/04_lvb_oral/LIENS_OFFICIELS.md) |
+| **Fiches** | `06_lva_lvb_ecrit.md` · `04_lvb_oral.md` |
+
+**Format :** écrit 03/06 (1h30) · oral 29/05 (hébreu, **RTL**, B1 visé).
+
+**Méthode :** même découpage CO/CE/EE ; vocabulaire **thématique** en hébreu ; utiliser un sujet hébreu du repo pour CE/EE.
+
+**Entraînement :** annales repo + banque académie · podcasts B1.
+
+**Grille :** intelligibilité + tâches réalisées (/20).
+
 
 ## Sources
 

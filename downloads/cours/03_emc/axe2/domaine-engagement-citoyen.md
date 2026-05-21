@@ -167,6 +167,27 @@ Tu dois être à l’aise avec :
 **6.** Oral (notes 3 min) : « Faut-il s’engager même si on est mineur ? » — exemple + avis.  
 **Corrigé :** Oui : association scolaire, collecte, sensibilisation climat, service civique plus tard. Limites : responsabilité parentale, temps pour études. Exemple personnel ou lycée. Avis : engagement forme la citoyenneté avant le vote.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/10_ns_ponctuelle_emc_decembre2025.md` |
+| **Fiche** | `downloads/fiches/03_emc_ponctuelle.md` |
+| **Annales** | [`downloads/annales/03_emc_ponctuelle/LIENS_OFFICIELS.md`](../../annales/03_emc_ponctuelle/LIENS_OFFICIELS.md) (pas de sujets PDF publics) |
+| **Liens** | `downloads/ressources/LIENS_ENTRAINEMENT.md` |
+
+**Format (coeff. 2, oral ~1 h) :** présentation + échange ; définitions et **exemples concrets** obligatoires.
+
+**Méthode :**
+1. Préparer **5 définitions** oralables (30 s chacune).
+2. Pour chaque notion : **exemple d’actualité** (presse, institution).
+3. Anticiper 3 questions du jury : « en quoi est-ce un enjeu ? » « limite ? »
+
+**Entraînement :** sujets types EMC académie · enregistrer un oral de 10 min.
+
+**Grille :** clarté, exactitude, prise de parole (/20).
+
+
 ## Sources
 
 - BO EMC, axe 2 — Engagement citoyen

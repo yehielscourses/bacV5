@@ -1,5 +1,5 @@
 # PC — Ondes et signaux
-> Programme : `06_physique-chimie_specialite_terminale_BO2019` · Fiche : `downloads/fiches/10_pc_finale.md` · Coeff : 16 · Épreuve : **16/06**, 4 h
+> Programme : `downloads/programmes/markdown_version/06_physique-chimie_specialite_terminale_BO2019.md`
 
 ## Introduction
 
@@ -169,6 +169,26 @@ Source f = 2,00 kHz, v = 34 m/s vers observateur, c = 340 m/s. f' ?
 Sur un graphique u_C(t) de charge, expliquer comment lire τ.
 
 **Corrigé :** τ = temps pour atteindre ≈ **63 %** de E (1−e⁻¹) ; ou tangente à l’origine coupe l’asymptote à t = τ.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/06_ns_epreuve_finale_pc.md` |
+| **Annales** | [`downloads/annales/markdown_version/10_pc/`](../../annales/markdown_version/10_pc/) |
+| **Fiche** | `downloads/fiches/10_pc_finale.md` |
+
+**Format (16/06, 4 h, coeff. 16) :** exercices **PC** · calculatrice selon NS · **sans TP pratique** (individuel).
+
+**Méthode sur annale du repo :**
+1. Sujet `10_pc/2024/` (ou 2023) : repérer chapitre (ondes, chimie, transformations).
+2. Par exercice : schéma → loi(s) → calcul **avec unités** → phrase-conclusion.
+3. Comparer au corrigé markdown du repo.
+
+**Entraînement :** 1 sujet/2 semaines · exercices « type bac » de ce cours d’abord.
+
+**Grille :** démarche, exactitude, clarté (/20).
+
 
 ## Sources
 

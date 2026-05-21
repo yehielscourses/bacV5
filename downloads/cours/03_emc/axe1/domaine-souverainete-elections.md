@@ -161,6 +161,27 @@ Regarder le jury, parler **distinctement**, accepter une question de relance san
 **6.** Oral simulé (notes pour 3 min) : « La souveraineté du peuple est-elle bien respectée en France ? »  
 **Corrigé (éléments) :** Oui : élections libres, pluralisme, État de droit. Nuances : abstention, inégalités d’influence (financement, médias), délégation quotidienne aux élus. Opinion personnelle : renforcer éducation civique / transparence sans rejeter le système.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/10_ns_ponctuelle_emc_decembre2025.md` |
+| **Fiche** | `downloads/fiches/03_emc_ponctuelle.md` |
+| **Annales** | [`downloads/annales/03_emc_ponctuelle/LIENS_OFFICIELS.md`](../../annales/03_emc_ponctuelle/LIENS_OFFICIELS.md) (pas de sujets PDF publics) |
+| **Liens** | `downloads/ressources/LIENS_ENTRAINEMENT.md` |
+
+**Format (coeff. 2, oral ~1 h) :** présentation + échange ; définitions et **exemples concrets** obligatoires.
+
+**Méthode :**
+1. Préparer **5 définitions** oralables (30 s chacune).
+2. Pour chaque notion : **exemple d’actualité** (presse, institution).
+3. Anticiper 3 questions du jury : « en quoi est-ce un enjeu ? » « limite ? »
+
+**Entraînement :** sujets types EMC académie · enregistrer un oral de 10 min.
+
+**Grille :** clarté, exactitude, prise de parole (/20).
+
+
 ## Sources
 
 - BO EMC cycle terminal, axe 1 — Souveraineté, élections

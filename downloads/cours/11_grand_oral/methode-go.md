@@ -1,5 +1,5 @@
 # Grand oral — méthode complète
-> Programme : `10_grand_oral` · Fiche : `downloads/fiches/12_grand_oral.md` · Coeff : **10** · Durée : **20 min** (≈ 5 min présentation + 10 min échange + 5 min approfondissement)
+> Programme : `downloads/programmes/markdown_version/10_grand_oral_guide_specialites_eduscol.md`
 
 ## Introduction
 
@@ -184,6 +184,23 @@ Enregistre 5 min sur ton sujet ; note 3 tics de langage à corriger.
 Prépare 4 phrases : formation visée + lien avec le GO.
 
 **Corrigé (indication) :** BTS / BUT / licence + compétence (rigueur, oral, projet).
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/04_ns_grand_oral_consolidee.md` |
+| **Annales** | [`downloads/annales/markdown_version/12_grand_oral/`](../../annales/markdown_version/12_grand_oral/) (NS ; pas de sujet type public) |
+| **Fiche** | `downloads/fiches/12_grand_oral.md` |
+
+**Format (22/06, 20 min, coeff. 10) :** exposé + échange sur **2 questions** (PC + maths, checklist).
+
+**Méthode :** croiser ce cours avec annales PC/Maths déjà faites ; préparer **plan** + **exemple chiffré** issu d’un exercice d’annale.
+
+**Entraînement :** simulation enregistrée · NS dans `12_grand_oral/`.
+
+**Grille :** /20 — voir NS Grand oral.
+
 
 ## Sources
 

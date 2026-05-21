@@ -220,6 +220,27 @@ Questions utiles pour l’écrit et l’oral :
 **6.** Simulation **oral** : explication linéaire de l. 1 à l. 7 de l’extrait type (voir §4) — chronomètre **8 min**.  
 **Corrigé :** Vérifie : (1) ordre respecté ; (2) au moins **2 figures** nommées (gradation, question rhétorique, antithèse) ; (3) lien **parcours** au moins **une fois** ; (4) conclusion d’une phrase sur la **servitude volontaire**. Si trop court, détaille l. 6–7 ; si trop long, compresse l. 1–2.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/08_ns_francais_anticipe_consolidee.md` |
+| **Fiche** | `downloads/fiches/08_francais.md` |
+| **Annales** | [`downloads/annales/markdown_version/08_francais/`](../../annales/markdown_version/08_francais/) (métropole 2021–2025) |
+| **Œuvres** | `downloads/ressources/programme_oeuvres_francais_2025-2026.md` |
+
+**Écrit (11/06, 4 h, coeff. 5) :** **commentaire** (texte hors œuvres) **ou** **dissertation** (1 sujet / 3, œuvre + parcours).
+
+**Méthode sur annale du repo :**
+1. Ouvrir un sujet `08_francais/2024/` (ou autre année).
+2. Choisir en 15 min : commentaire ou dissertation (selon vos œuvres).
+3. Rédiger au brouillon : plan visible ; citations courtes.
+
+**Entraînement :** 1 sujet métropole du repo tous les 15 jours + checklist œuvres.
+
+**Grille :** /20 — analyse, argumentation, style (NS français).
+
+
 ## Sources
 
 - `downloads/ressources/programme_oeuvres_francais_2025-2026.md`

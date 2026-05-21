@@ -214,6 +214,29 @@ Fichier : ligne 1 = en-tête, ligne 2 = Alice, ligne 3 = Bob.
 **8.** Trace : pour chaque ligne avec `ville == "Lyon"`, afficher `nom`. Résultat sur l’exemple §1 ?  
 **Corrigé :** affiche **Alice** puis **Clara** (deux lignes).
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.md` |
+| **Fiche** | `downloads/fiches/05_nsi_ponctuelle.md` |
+| **Annales** | [`downloads/annales/markdown_version/05_nsi_ponctuelle/`](../../annales/markdown_version/05_nsi_ponctuelle/) (NS format + cadre EDS) |
+| **Synthèse** | `downloads/syntheses/nsi_7_rubriques.md` |
+
+**Format (05/06, 2 h, coeff. 8) :** **42 QCM** (7 rubriques × 6) · **1 pt** / bonne réponse → note × **20/42** · **sans calculatrice**.
+
+**Limite :** pas de banque QCM publique — le repo donne la **NS** et le cadre, pas 42 Q types.
+
+**Méthode :**
+1. Après ce cours : faire **6 Q** type sur la rubrique (fiches ou QCM maison).
+2. À l’épreuve : éliminer 2 réponses ; vérifier Python / binaire / SQL selon rubrique.
+3. Chronométrer : 2 h pour 42 Q.
+
+**Entraînement :** lire `05_nsi_ponctuelle/` + demander extraits banque à l’académie.
+
+**Grille :** exactitude technique ; piège = hors programme 1re ou calculatrice interdite.
+
+
 ## Sources
 
 - BO NSI 1re — Traitement de données en tables

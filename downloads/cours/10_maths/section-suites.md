@@ -1,5 +1,5 @@
 # Maths — Suites numériques
-> Programme : `07_mathematiques_specialite_terminale_BO2019` · Fiche : `downloads/fiches/11_maths_finale.md` · Coeff : 16 · Épreuve : **17/06**, 4 h
+> Programme : `downloads/programmes/markdown_version/07_mathematiques_specialite_terminale_BO2019.md`
 
 ## Introduction
 
@@ -148,6 +148,26 @@ Montrer par récurrence : 1+3+5+…+(2n−1) = n².
 Capital C₀, intérêt 3 % par an composé. u_{n+1} = ?
 
 **Corrigé :** **u_{n+1} = 1,03 u_n** ; u_n = C₀×1,03^n.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/05_ns_epreuve_finale_maths.md` |
+| **Annales** | [`downloads/annales/markdown_version/11_maths/`](../../annales/markdown_version/11_maths/) |
+| **Fiche** | `downloads/fiches/11_maths_finale.md` |
+
+**Format (17/06, 4 h, coeff. 16) :** exercices rédigés ; **Python** possible ; calculatrice selon NS.
+
+**Méthode sur annale du repo :**
+1. Choisir un sujet métropole contenant le chapitre révisé (ex. suites, dérivées).
+2. Rédiger toutes les étapes ; vérifier avec le corrigé du repo.
+3. Noter les exercices « ratés » → revenir au § correspondant de ce cours.
+
+**Entraînement :** annales `11_maths/` + exercices type bac de ce fichier.
+
+**Grille :** rigueur, complétude (/20).
+
 
 ## Sources
 

@@ -128,6 +128,27 @@ Sans **liberté**, pas de responsabilité donc pas de justice punitive équitabl
 **7.** Compare égalité formelle et égalité réelle avec un exemple scolaire.  
 **Corrigé :** formelle = même règlement pour tous ; réelle = aménagements pour handicap, bourses pour inégalités sociales.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/07_ns_philosophie_consolidee.md` |
+| **Fiche** | `downloads/fiches/09_philo.md` |
+| **Annales** | [`downloads/annales/markdown_version/09_philo/`](../../annales/markdown_version/09_philo/) (métropole 2021–2025 + NS) |
+| **Auteurs** | `downloads/syntheses/philo_notions_auteurs.md` |
+
+**Format (15/06, 4 h, coeff. 8) :** **3 sujets** — 2 dissertations + 1 explication de texte (auteur au programme).
+
+**Méthode sur annale du repo :**
+1. Prendre un sujet métropole dont la **notion** correspond au cours.
+2. Dissertation : analyse des termes (15 min) → plan → rédaction avec **2 auteurs/partie**.
+3. Explication de texte (autre annale) : mouvement → idée directrice → difficultés.
+
+**Entraînement :** 1 plan/30 min sur sujets `09_philo/` · corrigés dans le repo si disponibles.
+
+**Grille :** /20 — compréhension, argumentation, réflexion personnelle.
+
+
 ## Sources
 
 - BO philosophie, notion « La justice »

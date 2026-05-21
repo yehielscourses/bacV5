@@ -206,6 +206,17 @@ Un élève calcule v = 100 km / 2 min et obtient 50 m/s. Où est l’erreur ?
 
 **Corrigé :** il a divisé km par min sans convertir : 100 km/2 min = 50 km/min ≈ 833 m/s, pas 50 m/s. Il faut **km → m** et **min → s**.
 
+## Méthode annales et entraînement
+
+Ces fondations servent **toutes** les épreuves : lecture (français, philo, HG docs), calculs (ES, PC, maths), unités (ES, PC).
+
+**Annales :** index [`downloads/annales/README.md`](../../annales/README.md) — une fois les prérequis maîtrisés ici, attaquer les sujets markdown de la matière.
+
+**Entraînement transversal :**
+- Refaire les exercices de ce fichier avant d’ouvrir `downloads/annales/markdown_version/…`
+- Voir `downloads/ressources/LIENS_ENTRAINEMENT.md`
+
+
 ## Sources
 
 - BIPM / SI ; BO physique-chimie

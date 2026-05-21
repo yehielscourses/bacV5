@@ -161,6 +161,31 @@ Pour une question sur **1870** ou l’**unité allemande** :
 **8.** Analyse une **carte** montrant l’Alsace-Lorraine annexée après 1871 : quel message pour les Français ?  
 **Corrigé :** Perte territoriale durable (« revanche » au XIXe) ; fracture à l’est ; symbole de défaite ; enjeu mémoriel jusqu’à 1918 ; limite : carte peut refléter le point de vue allemand ou français selon la date d’édition.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/01_ns_ponctuelle_histoire-geographie_juin2025.md` |
+| **Fiche** | `downloads/fiches/01_hg_ponctuelle.md` |
+| **Annales** | [`downloads/annales/markdown_version/01_hg_ponctuelle/`](../../annales/markdown_version/01_hg_ponctuelle/) · PDF : `annales/pdf_version/01_hg_ponctuelle/` |
+| **Liens** | `downloads/ressources/LIENS_ENTRAINEMENT.md` |
+
+**Format officiel (fin de cycle, coeff. 6, 2 h) :** Partie 1 = questions **(A)** du programme (10 pts) · Partie 2 = document(s) liés aux sujets **(B)** au choix (10 pts).
+
+**Limite annales :** les sujets E3C du repo sont proches du contenu HG mais le format **ponctuel 2024+** (A/B) peut différer — compléter par la banque académie juin.
+
+**Méthode sur une annale du repo :**
+1. Ouvrir un sujet dans `01_hg_ponctuelle/e3c/` (ex. 2024) + son corrigé si présent.
+2. Repérer : questions courtes (type A) vs analyse de document (type B).
+3. Partie A : réponse **4–8 lignes** — date + acteur + conséquence ; carto = légende obligatoire.
+4. Partie B : **présenter** le doc puis **2–3 arguments** liés au sujet B du chapitre BO que tu révises.
+5. Chronométrer : ~45 min A, ~1 h B, 15 min relecture.
+
+**Entraînement :** 1 sujet E3C/semaine dans le repo + banque J60 (`dec.gt-bcg@ac-grenoble.fr`) · croiser avec les **points de passage** BO du chapitre.
+
+**Grille :** 10 + 10 = /20 — clarté, précision factuelle, argumentation (NS HG juin 2025).
+
+
 ## Sources
 
 - BO HG première, thème 2 — La France et la construction de nouveaux États par la guerre et la diplomatie

@@ -215,6 +215,17 @@ Sujet : *La technique nous libère-t-elle ?* Propose une problématique et un pl
 
 **Corrigé (indication) :** problématique : *Dans quelle mesure la technique libère-t-elle l’homme sans le rendre dépendant ?* I. libération II. dépendance / aliénation III. conditions d’une liberté responsable.
 
+## Méthode annales et entraînement
+
+Ces fondations servent **toutes** les épreuves : lecture (français, philo, HG docs), calculs (ES, PC, maths), unités (ES, PC).
+
+**Annales :** index [`downloads/annales/README.md`](../../annales/README.md) — une fois les prérequis maîtrisés ici, attaquer les sujets markdown de la matière.
+
+**Entraînement transversal :**
+- Refaire les exercices de ce fichier avant d’ouvrir `downloads/annales/markdown_version/…`
+- Voir `downloads/ressources/LIENS_ENTRAINEMENT.md`
+
+
 ## Sources
 
 - BO français terminale ; repères lecture 5e–3e

@@ -244,6 +244,27 @@ Soutenu : « L’auteur dénonce la **passivité** collective qui **entretient**
 **6.** Sujet type : « *Candide* montre-t-il que le malheur est inévitable ? » — brouillon de **plan dialectique** + **2 citations** possibles (indication de scène ou chapitre).  
 **Corrigé :** I. Oui : enchaînement de catastrophes, pessimisme de Pangloss parodié. II. Non : résilience de Candide, travail final (« cultivons notre jardin »). III. Le malheur est social et humain, pas métaphysique — nuance voltairienne. Citations possibles : bataille détaillée (ch. III) ; conclusion du jardin (ch. XXX) — à préciser selon ton édition.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/08_ns_francais_anticipe_consolidee.md` |
+| **Fiche** | `downloads/fiches/08_francais.md` |
+| **Annales** | [`downloads/annales/markdown_version/08_francais/`](../../annales/markdown_version/08_francais/) (métropole 2021–2025) |
+| **Œuvres** | `downloads/ressources/programme_oeuvres_francais_2025-2026.md` |
+
+**Écrit (11/06, 4 h, coeff. 5) :** **commentaire** (texte hors œuvres) **ou** **dissertation** (1 sujet / 3, œuvre + parcours).
+
+**Méthode sur annale du repo :**
+1. Ouvrir un sujet `08_francais/2024/` (ou autre année).
+2. Choisir en 15 min : commentaire ou dissertation (selon vos œuvres).
+3. Rédiger au brouillon : plan visible ; citations courtes.
+
+**Entraînement :** 1 sujet métropole du repo tous les 15 jours + checklist œuvres.
+
+**Grille :** /20 — analyse, argumentation, style (NS français).
+
+
 ## Sources
 
 - BO français première : `downloads/programmes/markdown_version/04_francais_premiere_generale_BO2019_modif2020.md`

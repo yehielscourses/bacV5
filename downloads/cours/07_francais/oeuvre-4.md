@@ -1,5 +1,5 @@
 # Objet 4 — Roman et récit (Moyen Âge–XXIe siècle)
-> Programme : BO français première · Œuvres 2025-2026 · Coeff épreuves : **5**
+> Programme : `downloads/programmes/markdown_version/04_francais_premiere_generale_BO2019_modif2020.md`
 
 ## Introduction
 
@@ -206,6 +206,27 @@ Prépare **personnages**, **scènes-clés**, **6 citations** courtes.
 
 **6.** Linéaire oral **l. 1–11** (§4), 8 min ; lien **parcours** marge explicite.  
 **Corrigé :** Narrateur identifié ; au moins **2 antithèses** ; conclusion sur **marge** assumée vs rejet social.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/08_ns_francais_anticipe_consolidee.md` |
+| **Fiche** | `downloads/fiches/08_francais.md` |
+| **Annales** | [`downloads/annales/markdown_version/08_francais/`](../../annales/markdown_version/08_francais/) (métropole 2021–2025) |
+| **Œuvres** | `downloads/ressources/programme_oeuvres_francais_2025-2026.md` |
+
+**Écrit (11/06, 4 h, coeff. 5) :** **commentaire** (texte hors œuvres) **ou** **dissertation** (1 sujet / 3, œuvre + parcours).
+
+**Méthode sur annale du repo :**
+1. Ouvrir un sujet `08_francais/2024/` (ou autre année).
+2. Choisir en 15 min : commentaire ou dissertation (selon vos œuvres).
+3. Rédiger au brouillon : plan visible ; citations courtes.
+
+**Entraînement :** 1 sujet métropole du repo tous les 15 jours + checklist œuvres.
+
+**Grille :** /20 — analyse, argumentation, style (NS français).
+
 
 ## Sources
 

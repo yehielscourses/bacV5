@@ -1,5 +1,5 @@
 # Maths — Probabilités
-> Programme : `07_mathematiques_specialite_terminale_BO2019` · Fiche : `downloads/fiches/11_maths_finale.md` · Coeff : 16 · Épreuve : **17/06**, 4 h
+> Programme : `downloads/programmes/markdown_version/07_mathematiques_specialite_terminale_BO2019.md`
 
 ## Introduction
 
@@ -154,6 +154,26 @@ P(A)=0,3, P(B|A)=0,5. P(A∩B) ?
 100 lancers, 40 succès. Estimer p avec IC programme (indication).
 
 **Corrigé :** p̂=0,40 ; utiliser formule IC terminale avec n=100 (voir fiche formules).
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/05_ns_epreuve_finale_maths.md` |
+| **Annales** | [`downloads/annales/markdown_version/11_maths/`](../../annales/markdown_version/11_maths/) |
+| **Fiche** | `downloads/fiches/11_maths_finale.md` |
+
+**Format (17/06, 4 h, coeff. 16) :** exercices rédigés ; **Python** possible ; calculatrice selon NS.
+
+**Méthode sur annale du repo :**
+1. Choisir un sujet métropole contenant le chapitre révisé (ex. suites, dérivées).
+2. Rédiger toutes les étapes ; vérifier avec le corrigé du repo.
+3. Noter les exercices « ratés » → revenir au § correspondant de ce cours.
+
+**Entraînement :** annales `11_maths/` + exercices type bac de ce fichier.
+
+**Grille :** rigueur, complétude (/20).
+
 
 ## Sources
 

@@ -176,6 +176,28 @@ Un **schéma** légendé (flèches, unités) peut rapporter des points si le suj
 **6.** Explique en **10 lignes maximum** pourquoi un **modèle climatique** est utile **et** limité.  
 **Corrigé (éléments attendus) :** Utile : reproduire tendances passées, tester scénarios d’émissions, guider décisions. Limité : simplifications (nuages, régions), incertitudes sur précipitations locales, dépend des **données** d’entrée. Ce n’est pas une « boule de cristal » mais un outil **argumenté**. Conclusion : décisions = science + éthique + économie.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/11_ns_ponctuelle_es_janvier2026.md` |
+| **Fiche** | `downloads/fiches/02_es_ponctuelle.md` |
+| **Annales** | [`downloads/annales/markdown_version/02_es_ponctuelle/`](../../annales/markdown_version/02_es_ponctuelle/) (E3C + doc. Eduscol) |
+| **Liens** | `downloads/ressources/LIENS_ENTRAINEMENT.md` |
+
+**Format (coeff. 6, 2 h) :** questions sur **documents** (graphiques, textes) + mobilisation des **3 thèmes** ; démarche scientifique + **débat** dans la société.
+
+**Méthode sur une annale du repo :**
+1. Choisir un sujet `02_es_ponctuelle/e3c/` aligné sur le thème du cours (climat / énergie / vivant).
+2. Décrire le document (titre, variables, tendance, unités SI).
+3. Répondre en **2 temps** : fait scientifique → enjeu sociétal (comme à l’épreuve).
+4. Conclure par une **nuance** (incertitude, limites du modèle).
+
+**Entraînement :** annales markdown du repo + banque nationale juin (académie).
+
+**Grille :** maîtrise des connaissances + analyse du doc + argumentation (/20, NS ES).
+
+
 ## Sources
 
 - BO ES terminale (transversal) — démarche et culture scientifique

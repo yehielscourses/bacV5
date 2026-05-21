@@ -214,6 +214,29 @@ Trace : aucun x > 0 → sortie **0** — **incorrect** ; le max est **-1**.
 **8.** Si une liste double de taille, le pire cas de la recherche linéaire fait environ combien de fois plus de comparaisons ?  
 **Corrigé :** environ **2 fois plus** (comportement **linéaire** O(n)).
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/02_ns_ponctuelle_specialite_abandonnee_1re_juin2025.md` |
+| **Fiche** | `downloads/fiches/05_nsi_ponctuelle.md` |
+| **Annales** | [`downloads/annales/markdown_version/05_nsi_ponctuelle/`](../../annales/markdown_version/05_nsi_ponctuelle/) (NS format + cadre EDS) |
+| **Synthèse** | `downloads/syntheses/nsi_7_rubriques.md` |
+
+**Format (05/06, 2 h, coeff. 8) :** **42 QCM** (7 rubriques × 6) · **1 pt** / bonne réponse → note × **20/42** · **sans calculatrice**.
+
+**Limite :** pas de banque QCM publique — le repo donne la **NS** et le cadre, pas 42 Q types.
+
+**Méthode :**
+1. Après ce cours : faire **6 Q** type sur la rubrique (fiches ou QCM maison).
+2. À l’épreuve : éliminer 2 réponses ; vérifier Python / binaire / SQL selon rubrique.
+3. Chronométrer : 2 h pour 42 Q.
+
+**Entraînement :** lire `05_nsi_ponctuelle/` + demander extraits banque à l’académie.
+
+**Grille :** exactitude technique ; piège = hors programme 1re ou calculatrice interdite.
+
+
 ## Sources
 
 - BO NSI 1re — Algorithmique

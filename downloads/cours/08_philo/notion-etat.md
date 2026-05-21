@@ -71,6 +71,13 @@ Trop faible → chaos ; trop fort → oppression. **Tocqueville** : démocratie 
 
 Transferts vers **UE**, **ONG**, marchés. L’État national est-il **obsolète** ? Réponse nuancée : il reste centre **fiscal**, **sécuritaire**, **identitaire**.
 
+### 4. État et religion (laïcité)
+
+L’État moderne se **sécularise** : loi civile prime sur commandement religieux dans l’espace public (repère France). **Spinoza** et **Locke** (programme) : tolérance et séparation pour la paix civile.
+
+> **En résumé :** État laïque ≠ société sans religion.
+> **Erreur fréquente :** confondre laïcité et athéisme de l’État obligatoire.
+
 ## Exemple guidé — dissertation
 
 **Sujet :** « L’État fait-il obstacle à la liberté ? »
@@ -108,14 +115,7 @@ Transferts vers **UE**, **ONG**, marchés. L’État national est-il **obsolète
 **4.** Compare Hobbes et Rousseau sur l’état de nature.  
 **Corrigé :** Hobbes = guerre, misère ; Rousseau (discours) = homme bon, corrompu par société — lectures différentes du contrat.
 
-### 4. État et religion (laïcité)
-
-L’État moderne se **sécularise** : loi civile prime sur commandement religieux dans l’espace public (repère France). **Spinoza** et **Locke** (programme) : tolérance et séparation pour la paix civile.
-
-> **En résumé :** État laïque ≠ société sans religion.
-> **Erreur fréquente :** confondre laïcité et athéisme de l’État obligatoire.
-
-## Exercices (suite)
+### Entraînement
 
 **5.** Définis « contrat social » en reliant Hobbes et Rousseau.  
 **Corrigé :** accord fictif ou historique pour sortir de l’état de nature ; Hobbes = sécurité par souverain fort ; Rousseau = liberté par volonté générale.
@@ -125,6 +125,27 @@ L’État moderne se **sécularise** : loi civile prime sur commandement religie
 
 **7.** Repère Montesquieu : pourquoi la séparation des pouvoirs protège-t-elle la liberté ?  
 **Corrigé :** évite la concentration arbitraire ; chaque pouvoir contrôle les autres ; liberté = non-tyrannie.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/07_ns_philosophie_consolidee.md` |
+| **Fiche** | `downloads/fiches/09_philo.md` |
+| **Annales** | [`downloads/annales/markdown_version/09_philo/`](../../annales/markdown_version/09_philo/) (métropole 2021–2025 + NS) |
+| **Auteurs** | `downloads/syntheses/philo_notions_auteurs.md` |
+
+**Format (15/06, 4 h, coeff. 8) :** **3 sujets** — 2 dissertations + 1 explication de texte (auteur au programme).
+
+**Méthode sur annale du repo :**
+1. Prendre un sujet métropole dont la **notion** correspond au cours.
+2. Dissertation : analyse des termes (15 min) → plan → rédaction avec **2 auteurs/partie**.
+3. Explication de texte (autre annale) : mouvement → idée directrice → difficultés.
+
+**Entraînement :** 1 plan/30 min sur sujets `09_philo/` · corrigés dans le repo si disponibles.
+
+**Grille :** /20 — compréhension, argumentation, réflexion personnelle.
+
 
 ## Sources
 

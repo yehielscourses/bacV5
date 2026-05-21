@@ -207,6 +207,17 @@ Un réservoir contient 3/5 de sa capacité, soit 240 L. Capacité totale ?
 
 **Corrigé :** 15 = 1,5x → x = **10** ; 0,5×10+12 = 17 et 20−3 = 17 ✓.
 
+## Méthode annales et entraînement
+
+Ces fondations servent **toutes** les épreuves : lecture (français, philo, HG docs), calculs (ES, PC, maths), unités (ES, PC).
+
+**Annales :** index [`downloads/annales/README.md`](../../annales/README.md) — une fois les prérequis maîtrisés ici, attaquer les sujets markdown de la matière.
+
+**Entraînement transversal :**
+- Refaire les exercices de ce fichier avant d’ouvrir `downloads/annales/markdown_version/…`
+- Voir `downloads/ressources/LIENS_ENTRAINEMENT.md`
+
+
 ## Sources
 
 - BO mathématiques ; socle 5e–4e

@@ -4,6 +4,7 @@ Session **juin 2026** · candidat individuel · jury J60 Grenoble
 
 | Ressource | URL | Matières |
 |-----------|-----|----------|
+| **Annales locales (repo)** | [`../annales/README.md`](../annales/README.md) · markdown : `../annales/markdown_version/` | HG, ES, LV, NSI, français, philo, PC, maths, GO |
 | Candidats individuels | https://eduscol.education.gouv.fr/5694/candidats-individuels-au-baccalaureat-general-et-au-baccalaureat-technologique | Cadre, NS PDF ponctuelles |
 | Épreuves terminales voie G | https://eduscol.education.gouv.fr/5706/les-epreuves-terminales-du-baccalaureat-general | Sujets zéro, NS finales |
 | Banque nationale de sujets | Tirage académique — accès via centre / rectorat ; mentionnée sur /5694 | HG, ES, EMC, LV, NSI, etc. |

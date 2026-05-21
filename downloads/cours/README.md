@@ -26,6 +26,11 @@ La méthode épreuve reste dans [`../fiches/`](../fiches/README.md).
 | — | [12_eoc/](12_eoc/README.md) | EOC | 09/07 | — | **rédigé** |
 | — | [13_eps/](13_eps/README.md) | EPS | passée | — | — (hors programme cours) |
 
+## Vérification
+
+- Audit BO + annales : [`VERIFICATION_PROGRAMMES_ANNALES.md`](VERIFICATION_PROGRAMMES_ANNALES.md) (`scripts/verifier_cours_programmes_annales.py`)
+- Annales : [`../annales/README.md`](../annales/README.md)
+
 ## Sources
 
 - Programmes : [`../programmes/TABLEAU_PROGRAMMES.md`](../programmes/TABLEAU_PROGRAMMES.md)

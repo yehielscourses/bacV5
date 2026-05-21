@@ -236,6 +236,27 @@ Grammaire : « qui » l.8
 **6.** Simulation **12 min** : lecture + linéaire sur l’extrait de `oeuvre-1.md` (section exemple La Boétie) + grammaire sur **« qui »** ou **« ne »** selon le passage — enregistre-toi et vérifie durée.  
 **Corrigé (grille auto) :** Lecture : intro présente + débit stable (2/2). Linéaire : au moins **12 phrases** commentées dans l’ordre (6/8 si quelques sauts). Grammaire : nature + fonction exactes (2/2). Si < 8 min, ralentir et détailler les effets ; si > 12 min, raccourcir les reformulations.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/08_ns_francais_anticipe_consolidee.md` |
+| **Fiche** | `downloads/fiches/08_francais.md` |
+| **Annales** | [`downloads/annales/markdown_version/08_francais/`](../../annales/markdown_version/08_francais/) (métropole 2021–2025) |
+| **Œuvres** | `downloads/ressources/programme_oeuvres_francais_2025-2026.md` |
+
+**Écrit (11/06, 4 h, coeff. 5) :** **commentaire** (texte hors œuvres) **ou** **dissertation** (1 sujet / 3, œuvre + parcours).
+
+**Méthode sur annale du repo :**
+1. Ouvrir un sujet `08_francais/2024/` (ou autre année).
+2. Choisir en 15 min : commentaire ou dissertation (selon vos œuvres).
+3. Rédiger au brouillon : plan visible ; citations courtes.
+
+**Entraînement :** 1 sujet métropole du repo tous les 15 jours + checklist œuvres.
+
+**Grille :** /20 — analyse, argumentation, style (NS français).
+
+
 ## Sources
 
 - NS anticipées français : `downloads/notes_de_service/markdown_version/08_ns_francais_anticipe_consolidee.md`

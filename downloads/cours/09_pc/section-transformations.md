@@ -1,5 +1,5 @@
 # PC — Constitution et transformations de la matière
-> Programme : `06_physique-chimie_specialite_terminale_BO2019` · Fiche : `downloads/fiches/10_pc_finale.md` · Coeff : 16 · Épreuve : **16/06**, 4 h
+> Programme : `downloads/programmes/markdown_version/06_physique-chimie_specialite_terminale_BO2019.md`
 
 ## Introduction
 
@@ -175,6 +175,26 @@ t₁/₂ = 30 min. Fraction restante après 1 h ?
 À 25 °C, K = 10 pour A ⇌ B. Initialement [A]=0,50, [B]=0. Qr initial ? Sens d’évolution ?
 
 **Corrigé :** Qr = [B]/[A] = 0 → Qr < K → **évolution vers B**.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/06_ns_epreuve_finale_pc.md` |
+| **Annales** | [`downloads/annales/markdown_version/10_pc/`](../../annales/markdown_version/10_pc/) |
+| **Fiche** | `downloads/fiches/10_pc_finale.md` |
+
+**Format (16/06, 4 h, coeff. 16) :** exercices **PC** · calculatrice selon NS · **sans TP pratique** (individuel).
+
+**Méthode sur annale du repo :**
+1. Sujet `10_pc/2024/` (ou 2023) : repérer chapitre (ondes, chimie, transformations).
+2. Par exercice : schéma → loi(s) → calcul **avec unités** → phrase-conclusion.
+3. Comparer au corrigé markdown du repo.
+
+**Entraînement :** 1 sujet/2 semaines · exercices « type bac » de ce cours d’abord.
+
+**Grille :** démarche, exactitude, clarté (/20).
+
 
 ## Sources
 

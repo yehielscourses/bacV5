@@ -71,6 +71,13 @@ Condillac (programme) : sensations → langage → pensée. Débat : **penser** 
 
 **Persuader** vs **convaincre** (repère BO). Rhétorique, **mensonge** politique. Arendt : action et parole dans la cité.
 
+### 4. Langage et art
+
+La **poésie** (Heidegger) et l’**art** utilisent un langage non descriptif : métaphore, image. Le langage scientifique vise la **précision** ; l’art ouvre d’**autres** vérités (sensible, émotion).
+
+> **En résumé :** plusieurs fonctions du langage — décrire, exprimer, prescrire.
+> **Erreur fréquente :** réduire le langage à la communication d’informations.
+
 ## Exemple guidé — dissertation
 
 **Sujet :** « Le langage est-il un obstacle à la vérité ? »
@@ -108,20 +115,39 @@ Condillac (programme) : sensations → langage → pensée. Débat : **penser** 
 **4.** Texte Wittgenstein : « Le sens d’un mot est son usage » — thèse et limite.  
 **Corrigé :** thèse = anti-dictionnaire fixe ; limite = injustices historiques encodées dans l’usage (féminisme linguistique).
 
-### 4. Langage et art
-
-La **poésie** (Heidegger) et l’**art** utilisent un langage non descriptif : métaphore, image. Le langage scientifique vise la **précision** ; l’art ouvre d’**autres** vérités (sensible, émotion).
-
-> **En résumé :** plusieurs fonctions du langage — décrire, exprimer, prescrire.
-> **Erreur fréquente :** réduire le langage à la communication d’informations.
-
-## Exercices (suite)
+### Entraînement
 
 **5.** Pourquoi Wittgenstein dit-il que « le sens est l’usage » ? Conséquence pour la philosophie.  
 **Corrigé :** pas de sens fixe hors contexte ; philo = clarification des usages, pas théorie cachée du monde.
 
 **6.** Sujet : « Le langage trahit-il la pensée ? » — plan en 2 parties + synthèse.  
 **Corrigé :** I. Oui : approximations, mensonge, idéologie ; II. Non : pensée structurée par langage ; III. Synthèse : trahison possible mais aussi condition de la pensée communicable.
+
+### Type bac (annale)
+
+**7.** Ouvre un sujet dans `downloads/annales/markdown_version/09_philo/` contenant « langage » ou « parole » : note en 10 min la problématique et deux auteurs que tu mobiliserais.  
+**Corrigé (indication) :** Wittgenstein (usage), Rousseau ou Condillac (origine langage), Arendt (action politique) — adapter au libellé exact du sujet.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/07_ns_philosophie_consolidee.md` |
+| **Fiche** | `downloads/fiches/09_philo.md` |
+| **Annales** | [`downloads/annales/markdown_version/09_philo/`](../../annales/markdown_version/09_philo/) (métropole 2021–2025 + NS) |
+| **Auteurs** | `downloads/syntheses/philo_notions_auteurs.md` |
+
+**Format (15/06, 4 h, coeff. 8) :** **3 sujets** — 2 dissertations + 1 explication de texte (auteur au programme).
+
+**Méthode sur annale du repo :**
+1. Prendre un sujet métropole dont la **notion** correspond au cours.
+2. Dissertation : analyse des termes (15 min) → plan → rédaction avec **2 auteurs/partie**.
+3. Explication de texte (autre annale) : mouvement → idée directrice → difficultés.
+
+**Entraînement :** 1 plan/30 min sur sujets `09_philo/` · corrigés dans le repo si disponibles.
+
+**Grille :** /20 — compréhension, argumentation, réflexion personnelle.
+
 
 ## Sources
 

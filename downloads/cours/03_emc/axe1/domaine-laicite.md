@@ -165,6 +165,27 @@ La laïcité est parfois **instrumentalisée** politiquement : ton rôle au bac 
 **6.** Oral (notes 3 min) : « Peut-on porter un signe religieux visible à l’école publique ? » — argument **pour et contre** puis avis.  
 **Corrigé :** Pour la liberté : expression personnelle. Contre / nuance : charte sur signes **ostentatoires**, mission d’enseignement, risque de pression. Avis : encadrement au cas par cas, priorité au dialogue et à l’égalité ; pas une réponse unique sans contexte.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/10_ns_ponctuelle_emc_decembre2025.md` |
+| **Fiche** | `downloads/fiches/03_emc_ponctuelle.md` |
+| **Annales** | [`downloads/annales/03_emc_ponctuelle/LIENS_OFFICIELS.md`](../../annales/03_emc_ponctuelle/LIENS_OFFICIELS.md) (pas de sujets PDF publics) |
+| **Liens** | `downloads/ressources/LIENS_ENTRAINEMENT.md` |
+
+**Format (coeff. 2, oral ~1 h) :** présentation + échange ; définitions et **exemples concrets** obligatoires.
+
+**Méthode :**
+1. Préparer **5 définitions** oralables (30 s chacune).
+2. Pour chaque notion : **exemple d’actualité** (presse, institution).
+3. Anticiper 3 questions du jury : « en quoi est-ce un enjeu ? » « limite ? »
+
+**Entraînement :** sujets types EMC académie · enregistrer un oral de 10 min.
+
+**Grille :** clarté, exactitude, prise de parole (/20).
+
+
 ## Sources
 
 - BO EMC, axe 1 — Laïcité

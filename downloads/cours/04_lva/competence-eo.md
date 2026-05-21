@@ -1,5 +1,5 @@
 # LVA — Expression orale (EO) — repères B2
-> Programme : `09_langues_vivantes` · Oral ponctuel **08/06** · **20 min** (10+10) · Coeff **6** · **B2**
+> Programme : `downloads/programmes/markdown_version/09_langues_vivantes_AB_premiere_terminale_BO2019.md`
 
 ## Introduction
 
@@ -199,6 +199,27 @@ Enregistre **5 min** monologue sur un axe ; vise **12/20** indicatif puis +2 apr
 
 **6.** Simulation **5 min** + 3 relances inventées (axe Identités et échanges) ; chronomètre.  
 **Corrigé :** Temps ≤5 min ; axe nommé ; document décrit ; 2 relances développées (≥20 s chacune) ; self-correction au moins une fois = bonne habitude B2.
+
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/03_ns_ponctuelle_langues_vivantes_juin2025.md` |
+| **Fiches** | `06_lva_lvb_ecrit.md` · `07_lva_oral.md` |
+| **Annales écrit** | [`downloads/annales/markdown_version/06_lva_lvb_ecrit/`](../../annales/markdown_version/06_lva_lvb_ecrit/) |
+| **Annales oral** | [`downloads/annales/07_lva_oral/LIENS_OFFICIELS.md`](../../annales/07_lva_oral/LIENS_OFFICIELS.md) |
+| **Grilles** | Eduscol /4764 |
+
+**Format écrit (03/06, 1h30, coeff. 6) :** CO + CE + EE sur un **même thème** · oral (08/06) : axe culturel + entretien.
+
+**Limite :** E3C anglais du repo **sans audio CO** — entraîner CO à part (radio, annales académie).
+
+**Méthode sur annale écrite du repo :** lire un sujet `06_lva_lvb_ecrit/` → simuler CE + EE (CO à l’oral séparément).
+
+**Entraînement :** sujets markdown repo + audio CO externe + banque académie.
+
+**Grille :** critères par compétence (/20 global selon NS).
+
 
 ## Sources
 

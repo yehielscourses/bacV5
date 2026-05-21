@@ -175,6 +175,20 @@ Présentation 7 min + 8 min questions avec un proche.
 
 **Corrigé :** grille auto : clarté / temps / réponses / vocabulaire.
 
+## Méthode annales et entraînement
+
+| Référence | Fichier |
+|-----------|---------|
+| **NS** | `downloads/notes_de_service/markdown_version/09_ns_candidats_individuels_modalites_aout2025.md` |
+| **Fiche** | `downloads/fiches/13_eoc.md` |
+
+**EOC (09/07, si autorisé) :** rattrapage **2e groupe** — **pas** un nouveau programme ; reprendre les lacunes des épreuves du 1er groupe.
+
+**Méthode :** identifier les notes < 10 ; réviser **fiche + cours** de ces matières uniquement ; refaire **1 sujet type** par matière concernée.
+
+**Entraînement :** sujets de la session ou banque académie (selon convocation EOC).
+
+
 ## Sources
 
 - Textes officiels EOC session en cours
