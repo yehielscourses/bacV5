@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Révision 3 jours — HG & ES</title>
+<style>
+  @page { size: A4; margin: 18mm 15mm; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "DejaVu Sans", "Liberation Sans", Arial, sans-serif;
+    font-size: 10.5pt;
+    line-height: 1.45;
+    color: #111;
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 12mm;
+  }
+  h1 { font-size: 16pt; border-bottom: 2px solid #222; padding-bottom: 6px; page-break-after: avoid; }
+  h2 { font-size: 13pt; margin-top: 1.2em; page-break-after: avoid; border-left: 4px solid #333; padding-left: 8px; }
+  h3 { font-size: 11.5pt; margin-top: 1em; page-break-after: avoid; }
+  h4 { font-size: 10.5pt; }
+  table { border-collapse: collapse; width: 100%; margin: 0.6em 0; font-size: 9.5pt; }
+  th, td { border: 1px solid #444; padding: 4px 6px; text-align: left; vertical-align: top; }
+  th { background: #eee; }
+  blockquote { margin: 0.5em 0; padding: 8px 12px; background: #f5f5f5; border-left: 4px solid #666; }
+  code { background: #f0f0f0; padding: 1px 4px; font-size: 9.5pt; }
+  hr { border: none; border-top: 1px solid #999; margin: 1.5em 0; }
+  ul, ol { margin: 0.4em 0; padding-left: 1.4em; }
+  li { margin: 0.2em 0; }
+  .page-break { page-break-before: always; }
+  .no-print { background: #ffe; padding: 10px; margin-bottom: 1em; border: 1px solid #cc0; }
+  @media print {
+    .no-print { display: none !important; }
+    body { padding: 0; }
+    a { color: #000; text-decoration: none; }
+  }
+</style>
+</head>
+<body>
+<div class="no-print"><strong>Impression :</strong> Ctrl+P → Recto verso → Marges normales. Masquer en-têtes/pieds de page du navigateur si possible.</div>
+<h1>RÉVISION 3 JOURS — HG &amp; ES (annales + corrigés complets)</h1>
+<p><strong>Pour qui :</strong> candidat sans cours depuis la 5e · <strong>seul document</strong> à utiliser ces 3 jours.</p>
+<p><strong>Épreuves :</strong> 26 mai 2026 — HG 10h00 (2 h) · ES 14h30 (2 h) · coeff. 6 chacune.</p>
+<blockquote>
+<p>Ce fichier donne des <strong>explications entières</strong>, pas des mots-clés. Les corrigés reprennent des <strong>sujets officiels</strong> (E3C 2021) comme à l’examen.</p>
+</blockquote>
+<hr>
+<h2>COMMENT IMPRIMER</h2>
+<ol>
+<li>Ouvrir <strong><code>revision-3-jours-annales-hg-es.html</code></strong> dans Chrome ou Firefox.</li>
+<li>Menu <strong>Fichier → Imprimer</strong> (ou Ctrl+P).</li>
+<li>Cocher <strong>Recto verso</strong>, marges <strong>Normales</strong>, échelle <strong>100 %</strong>.</li>
+<li>Si trop long : imprimer par blocs (Jour 1 / Jour 2 / Jour 3) via l’aperçu.</li>
+</ol>
+<p>Le fichier <code>.md</code> est la même chose en texte brut.</p>
+<hr>
+<h2>PLANNING — 3 JOURS (environ 8 h / jour)</h2>
+<h3>JOUR 1 — Histoire-Géographie (objectif : tenir une copie /10 en partie 1 et 2)</h3>
+<table>
+<tr><th>Heure</th><th>Activité</th><th>Page</th></tr>
+<tr><td>8h–9h</td><td>Lire <strong>Méthode HG</strong> + recopier le plan type</td><td>§ Méthode</td></tr>
+<tr><td>9h–11h</td><td>Lire <strong>Cours HG express</strong> (histoire + géo) à voix haute</td><td>§ Cours</td></tr>
+<tr><td>11h–12h</td><td>Mémoriser <strong>40 dates</strong> + frise</td><td>§ Dates</td></tr>
+<tr><td>14h–16h</td><td><strong>Annale 1</strong> : lire le sujet, écrire sans corrigé, puis comparer corrigé intégral</td><td>§ Annale HG-1</td></tr>
+<tr><td>16h–17h</td><td>Recopier <strong>une</strong> copie modèle partie 1 (passages maritimes)</td><td>§ Annale HG-1</td></tr>
+<tr><td>17h–18h</td><td>Recopier présentation + analyse doc (URSS 1930)</td><td>§ Annale HG-1</td></tr>
+</table>
+<h3>JOUR 2 — Enseignement scientifique</h3>
+<table>
+<tr><th>Heure</th><th>Activité</th><th>Page</th></tr>
+<tr><td>8h–9h</td><td><strong>Méthode ES</strong> + maths (%, unités)</td><td>§ Méthode ES</td></tr>
+<tr><td>9h–11h</td><td>Cours <strong>climat, énergies, vivant</strong> (lire tout)</td><td>§ Cours ES</td></tr>
+<tr><td>11h–12h</td><td>Exercices maths corrigés (refaire sans regarder)</td><td>§ Maths</td></tr>
+<tr><td>14h–17h</td><td><strong>Annale ES-1</strong> (dioxygène) : chaque question + corrigé détaillé</td><td>§ Annale ES-1</td></tr>
+<tr><td>17h–18h</td><td><strong>Annale ES-2</strong> (streaming / IA) questions 1–6</td><td>§ Annale ES-2</td></tr>
+</table>
+<h3>JOUR 3 — Annales + simulation</h3>
+<table>
+<tr><th>Heure</th><th>Activité</th><th>Page</th></tr>
+<tr><td>8h–10h</td><td><strong>Annale HG-2</strong> (1989) : faire puis corriger</td><td>§ Annale HG-2</td></tr>
+<tr><td>10h–11h</td><td>Relecture glossaires + erreurs interdites</td><td>§ Annexes</td></tr>
+<tr><td>14h–16h</td><td><strong>Annale ES-3</strong> (climat type)</td><td>§ Annale ES-3</td></tr>
+<tr><td>16h–18h</td><td><strong>Simulation</strong> : 2 h HG (partie 1 seule) + relecture checklist</td><td>§ Checklist</td></tr>
+</table>
+<hr>
+<h1>PARTIE A — MÉTHODE HG (à maîtriser jour 1 matin)</h1>
+<h2>A.1 Ce que veut le correcteur</h2>
+<p>Le correcteur cherche une <strong>copie lisible</strong> avec :</p>
+<ul>
+<li>des <strong>phrases</strong> (sujet + verbe + complément), pas une liste de mots ;</li>
+<li>des <strong>dates</strong> et des <strong>noms</strong> précis ;</li>
+<li>une <strong>réponse à la question</strong> (pas un catalogue hors-sujet).</li>
+</ul>
+<p><strong>Barème mental :</strong> Partie 1 = connaissances + organisation + langue. Partie 2 = analyse des documents (50 %) + cours (50 %).</p>
+<h2>A.2 Partie 1 — Question (10 points) — méthode pas à pas</h2>
+<p><strong>Étape 1 — Souligner les mots de la question</strong></p>
+<p>Exemple : « Pour quelles <strong>raisons</strong> certains <strong>points de passage maritimes</strong> sont-ils des <strong>espaces stratégiques</strong> ? »</p>
+<p>→ Il faut expliquer des <strong>causes</strong> (raisons) sur des <strong>détroits / canaux</strong> (passages), pas parler de la Révolution française.</p>
+<p><strong>Étape 2 — Trouver 2 ou 3 idées (plan)</strong></p>
+<p>Jamais plus de 3 parties. Chaque partie = un grand thème.</p>
+<p><strong>Étape 3 — Rédiger</strong></p>
+<p>Introduction (annonce le plan) → Partie I → Partie II → (Partie III) → Conclusion (répond clairement).</p>
+<p><strong>Connecteurs à utiliser à chaque paragraphe :</strong> <em>car, donc, ainsi, cependant, en effet, par exemple, en conclusion.</em></p>
+<h2>A.3 Partie 2 — Documents (10 points)</h2>
+<p>Pour <strong>chaque</strong> document :</p>
+<ol>
+<li><strong>Présentation</strong> (4 lignes) : type (lettre, affiche, discours…), auteur, date, contexte, destinataire.</li>
+<li><strong>Analyse</strong> (8–12 lignes) : 2 ou 3 idées <strong>tirées du document</strong> ; courte citation entre guillemets.</li>
+<li><strong>Cours</strong> (5 lignes) : ce que tu sais en plus (dates, notions).</li>
+</ol>
+<p>Puis <strong>confrontation</strong> : doc 1 vs doc 2 (contradiction ou complément ?).</p>
+<p><strong>Conclusion</strong> (3 lignes) : réponse à la consigne (<em>caractériser</em>, <em>montrer un tournant</em>…).</p>
+<h2>A.4 Croquis (si c’est un croquis et pas des documents)</h2>
+<ul>
+<li><strong>Titre</strong> en haut.</li>
+<li><strong>Figuration</strong> : traits, flèches, hachures (pas besoin d’être artiste).</li>
+<li><strong>Légende</strong> numérotée (1, 2, 3…) avec texte à côté.</li>
+<li><strong>3 lignes</strong> sous le croquis qui répondent à la question.</li>
+</ul>
+<hr>
+<h1>PARTIE B — COURS HG EXPRESS (jour 1)</h1>
+<h2>B.1 Histoire — ce qu’il faut savoir raconter</h2>
+<h3>De 1789 à 1918 (première)</h3>
+<p>La <strong>Révolution française</strong> (1789) casse la monarchie absolue. Le <strong>tiers état</strong> (98 % des Français) paie l’impôt mais n’a pas les mêmes droits que le clergé et la noblesse. Le 14 juillet 1789, la prise de la Bastille symbolise la fin de l’arbitraire royal. La <strong>Déclaration des droits de l’homme</strong> affirme la liberté, la propriété, la <strong>souveraineté nationale</strong> (le pouvoir vient du peuple, pas du roi seul).</p>
+<p>La Révolution devient violente : <strong>République</strong> en 1792, exécution du roi 1793, <strong>Terreur</strong> (1793–1794). <strong>Napoléon</strong> prend le pouvoir en 1799, devient <strong>Empereur</strong> en 1804. Il diffuse le <strong>Code civil</strong> (lois égales pour tous devant la justice civile) mais impose un régime autoritaire. Chute en 1815.</p>
+<p>Au <strong>XIXe siècle</strong>, la France cherche un régime stable : monarchies, <strong>IIe République</strong> (1848, suffrage masculin), <strong>Second Empire</strong> (Napoléon III). L’<strong>industrialisation</strong> crée usines et ouvriers ; Paris se transforme (Haussmann). Les nationalités veulent des États : <strong>Italie</strong> unifiée (~1861), <strong>Allemagne</strong> (proclamation du Reich en 1871 à Versailles après la guerre franco-prussienne).</p>
+<p>La <strong>IIIe République</strong> (1875–1940) installe la démocratie parlementaire, l’école laïque, la loi de 1905 sur la laïcité. La France possède un <strong>empire colonial</strong> (Algérie, Indochine, Afrique…).</p>
+<p>La <strong>Première Guerre mondiale</strong> (1914–1918) est une <strong>guerre totale</strong> : civils, femmes en usines, économie de guerre, tranchées, <strong>génocide des Arméniens</strong> (1915). Fin : armistice 11 novembre 1918 ; traité de Versailles 1919 humilie l’Allemagne ; naissance de la <strong>SDN</strong>.</p>
+<h3>De 1929 à 1945 (terminale thème 1)</h3>
+<p><strong>Crise de 1929</strong> : krach boursier USA octobre 1929 → chômage mondial. <strong>New Deal</strong> (Roosevelt, 1933) : l’État américain investit pour relancer.</p>
+<p><strong>Totalitarismes</strong> : <strong>Hitler</strong> (Allemagne, 1933), racisme, antisémitisme ; <strong>Staline</strong> (URSS), collectivisation agricole, <strong>Terreur</strong> 1937–38 ; <strong>Mussolini</strong> (Italie, fascisme).</p>
+<p><strong>Seconde Guerre mondiale</strong> : 1er septembre 1939, invasion Pologne. <strong>1940</strong> : défaite France, <strong>Vichy</strong> (Pétain) collabore avec l’Allemagne. <strong>Résistance</strong>, De Gaulle (appel 18 juin 1940). <strong>Shoah</strong> : extermination des Juifs d’Europe. <strong>1944</strong> débarquement Normandie ; <strong>1945</strong> capitulations.</p>
+<h3>Guerre froide et après (terminale thèmes 2–4)</h3>
+<p><strong>1945–1991 Guerre froide</strong> : USA vs URSS, pas de guerre directe totale. <strong>1947</strong> Truman + Marshall ; <strong>1949</strong> OTAN. <strong>1962</strong> crise Cuba. <strong>Décolonisation</strong> : Algérie indépendante 1962.</p>
+<p><strong>Trente Glorieuses</strong> (~1945–1975) : croissance, consommation. <strong>1973</strong> choc pétrolier. <strong>Mai 68</strong>.</p>
+<p><strong>Depuis 1990</strong> : chute du mur <strong>1989</strong>, fin URSS <strong>1991</strong>, <strong>mondialisation</strong>, <strong>Union européenne</strong> (Maastricht 1992), <strong>11 septembre 2001</strong>.</p>
+<h2>B.2 Géographie — ce qu’il faut savoir expliquer</h2>
+<p><strong>Mers et océans</strong> : environ <strong>80 %</strong> du commerce mondial (volume) passe par la mer. <strong>Ports</strong> : Shanghai, Rotterdam, Le Havre. <strong>Canaux</strong> (Suez, Panama) et <strong>détroits</strong> (Malacca, Ormuz) = passages stratégiques. <strong>ZEE</strong> = 200 milles nautiques.</p>
+<p><strong>Territoires</strong> : <strong>métropolisation</strong> (Paris, Lyon) ; campagnes qui se vident ; <strong>QPV</strong> ; <strong>fracture numérique</strong>.</p>
+<p><strong>Union européenne</strong> : Rome <strong>1957</strong>, Maastricht <strong>1992</strong>, <strong>euro</strong>, Schengen ; <strong>Brexit</strong> <strong>2020</strong>.</p>
+<p><strong>France</strong> : 2e <strong>ZEE</strong> mondiale (outre-mer) ; <strong>aménagement</strong> ; <strong>transition énergétique</strong>.</p>
+<h2>B.3 Phrases « tout terrain » (partie 1 HG)</h2>
+<ul>
+<li>« Cette période marque une rupture entre l’ancien ordre et un nouvel équilibre. »</li>
+<li>« L’État intervient davantage dans l’économie et la protection sociale. »</li>
+<li>« Les tensions opposent démocraties et régimes totalitaires. »</li>
+</ul>
+<hr>
+<h1>PARTIE C — ANNALE HG N°1 (officielle E3C 2021 — GTCHIGE05510)</h1>
+<h2>Sujet (texte officiel résumé)</h2>
+<p><strong>Partie 1 (10 pts) :</strong> <em>Pour quelles raisons certains points de passage maritimes sont-ils des espaces stratégiques ?</em></p>
+<p><strong>Partie 2 (10 pts) :</strong> <em>En analysant les documents, caractérisez le régime soviétique dans les années 1930.</em></p>
+<ul>
+<li><strong>Doc 1</strong> : Lettre d’un soldat de l’Armée rouge, mars 1930 (critique du parti, kolkhozes, misère paysanne).</li>
+<li><strong>Doc 2</strong> : Affiche « Gloire au Grand Staline », 1938.</li>
+</ul>
+<hr>
+<h2>CORRIGÉ INTÉGRAL — Partie 1 (passages maritimes)</h2>
+<p><strong>Introduction</strong></p>
+<p>La question demande d’expliquer pourquoi certains <strong>points de passage maritimes</strong> (détroits, canaux, caps) deviennent des <strong>espaces stratégiques</strong>, c’est-à-dire des lieux où se jouent enjeux économiques, politiques et parfois militaires. Nous montrerons d’abord leur rôle dans le <strong>commerce mondial</strong>, ensuite les <strong>rivalités</strong> pour les contrôler, enfin les <strong>conséquences</strong> pour les États et les populations.</p>
+<p><strong>I. Des passages indispensables au commerce mondial</strong></p>
+<p>La <strong>mondialisation</strong> des échanges repose largement sur le transport maritime, car transporter des conteneurs ou du pétrole par bateau coûte moins cher que par avion sur de longues distances. Or les navires ne peuvent pas aller partout : ils suivent des <strong>routes</strong> imposées par la géographie. Les <strong>canaux</strong> (Suez, Panama) évitent de longs détours. Le <strong>canal de Suez</strong>, ouvert définitivement dans les années 1860 sous influence européenne, relie la Méditerranée à la mer Rouge : un navire entre Europe et Asie gagne des jours de navigation. Quand Suez est bloqué (par exemple en 2021 avec le navire <em>Ever Given</em>), les armateurs doivent contourner l’<strong>Afrique</strong> par le cap de Bonne-Espérance : le voyage coûte plus cher en carburant et en temps. Les <strong>détroits</strong> comme <strong>Malacca</strong> (entre Malaisie et Indonésie) ou <strong>Ormuz</strong> (entrée du golfe Persique, pétrole) concentrent des flux énormes : qui contrôle le détroit influence le commerce mondial.</p>
+<p><strong>II. Des enjeux de puissance et de sécurité</strong></p>
+<p>Un passage maritime est <strong>stratégique</strong> aussi parce que les <strong>États</strong> veulent garantir leur <strong>sécurité</strong> et leur <strong>indépendance énergétique</strong>. Les <strong>États-Unis</strong>, la <strong>Chine</strong>, l’<strong>Europe</strong> surveillent ces points pour empêcher des rivaux de bloquer le commerce. En mer de Chine méridionale, la Chine revendique des zones que d’autres États contestent : tension entre souveraineté et liberté de navigation. Les <strong>ZEE</strong> (zones économiques exclusives, 200 milles nautiques) permettent à chaque État côtier d’exploiter poissons et ressources sous-marines, mais les <strong>détroits</strong> restent souvent des voies de <strong>passage international</strong>. La <strong>France</strong>, grâce à ses territoires ultramarins, possède la <strong>deuxième ZEE mondiale</strong> : elle a donc un intérêt direct à la régulation et à la surveillance des océans.</p>
+<p><strong>III. Conséquences : dépendance, conflits, environnement</strong></p>
+<p>Les États qui dépendent des importations (pétrole, denrées) sont <strong>vulnérables</strong> si un passage est fermé par guerre, piraterie ou accident. Les <strong>pirates</strong> au large de la Somalie au début des années 2000 ont montré que même des navires modernes peuvent être pris en otage. Les <strong>marées noires</strong> rappellent que la route maritime a aussi un coût <strong>environnemental</strong>. Enfin, la <strong>montée des eaux</strong> liée au changement climatique menace certains ports et littoraux bas : l’enjeu n’est plus seulement militaire, il est aussi <strong>écologique</strong>.</p>
+<p><strong>Conclusion</strong></p>
+<p>En conclusion, les points de passage maritimes sont stratégiques parce qu’ils <strong>structurent le commerce mondial</strong> (gain de temps et d’argent), parce qu’ils concentrent les <strong>rivalités de puissance</strong> entre États, et parce qu’ils affectent la <strong>sécurité économique et environnementale</strong> des pays. Comprendre ces espaces, c’est comprendre la mondialisation concrète, pas seulement abstraite.</p>
+<hr>
+<h2>CORRIGÉ INTÉGRAL — Partie 2 (régime soviétique années 1930)</h2>
+<p><strong>Présentation du document 1</strong></p>
+<p>Le document 1 est une <strong>lettre</strong> datée de <strong>mars 1930</strong>, écrite par <strong>Korneev Ivan Mikhaïlovitch</strong>, présenté comme <strong>soldat de l’Armée rouge</strong> et <strong>paysan</strong>. Il s’adresse aux <strong>autorités fédérales</strong> soviétiques. C’est une source <strong>privée</strong> et <strong>critique</strong>, conservée aux archives russes (GARF), citée par l’historien Nicolas Werth : elle n’a pas été faite pour la propagande, ce qui augmente son intérêt.</p>
+<p><strong>Analyse du document 1</strong></p>
+<p>Le soldat pose des questions qui montrent une <strong>rupture</strong> entre le discours officiel et la réalité vécue. Il demande si la dictature est celle du <strong>prolétariat</strong> ou celle du <strong>parti</strong> (PCUS, parti unique). Il accuse le parti d’<strong>opprimer la paysannerie</strong> lors de la création des <strong>kolkhozes</strong> (fermes collectives) : selon lui, les paysans travaillent « toute l’année pour le parti » comme des <strong>serfs</strong>. Il dénonce l’envoi de <strong>25 000 ouvriers</strong> pour diriger les kolkhozes au lieu de faire confiance aux paysans. Il affirme que <strong>90 % des soldats</strong> pensent comme lui et que l’<strong>armée</strong> ne défendra pas le parti. Cette lettre <strong>caractérise</strong> un régime qui impose une politique agricole par la force, au prix d’une <strong>misère</strong> et d’un <strong>mécontentement</strong> massif, même si la censure interdit normalement ce discours en public.</p>
+<p><strong>Présentation du document 2</strong></p>
+<p>Le document 2 est une <strong>affiche</strong> de <strong>1938</strong>, titre « <strong>Gloire au Grand Staline</strong> », réalisée par Siricenqo pour l’anniversaire (59 ans) de <strong>Joseph Staline</strong>. C’est une source <strong>officielle</strong> de <strong>propagande</strong>, destinée au grand public.</p>
+<p><strong>Analyse du document 2</strong></p>
+<p>L’affiche glorifie <strong>Staline</strong> comme chef adoré du peuple. Les codes visuels (couleurs, portrait, slogans) visent à montrer un régime <strong>uni</strong>, <strong>fort</strong>, en marche vers le progrès. C’est l’image <strong>idéale</strong> que le pouvoir veut donner, au moment où la <strong>Grande Terreur</strong> (1937–1938) élimine les opposants réels ou supposés.</p>
+<p><strong>Confrontation et mobilisation du cours</strong></p>
+<p>Les deux documents s’opposent : la <strong>lettre</strong> montre les <strong>tensions sociales</strong> et la <strong>peur</strong> ; l’<strong>affiche</strong> montre la <strong>propagande</strong> et le <strong>culte de la personnalité</strong>. Pour <strong>caractériser</strong> le régime soviétique des années 1930, on combine les deux : c’est un <strong>régime totalitaire</strong> communiste — <strong>parti unique</strong>, <strong>Staline</strong> au pouvoir, <strong>collectivisation</strong> forcée des campagnes, <strong>industrialisation</strong> rapide, <strong>Terreur</strong> policière (Goulag, purges). Le régime contrôle la presse ; la lettre de Korneev prouve que la contestation existe mais est <strong>étouffée</strong>.</p>
+<p><strong>Conclusion</strong></p>
+<p>En analysant ces documents, le régime soviétique des années 1930 apparaît comme une <strong>dictature</strong> qui utilise la <strong>propagande</strong> pour afficher la gloire de Staline, tout en imposant par la <strong>force</strong> une politique agricole collective qui appauvrit et révolte une large partie des paysans et des soldats.</p>
+<hr>
+<h1>PARTIE D — ANNALE HG N°2 (officielle E3C 2021 — GTCHIGE05517)</h1>
+<h2>Sujet</h2>
+<p><strong>Partie 1 :</strong> <em>Comment la Guerre froide structure-t-elle le monde après 1945 ?</em></p>
+<p><strong>Partie 2 :</strong> <em>Montrez que l’année 1989 a constitué un tournant</em> — Doc 1 : Mitterrand, Strasbourg, 22 novembre 1989 (chute du mur). Doc 2 : photo « Déesse de la démocratie », Tiananmen, 28 mai 1989.</p>
+<h2>CORRIGÉ INTÉGRAL — Partie 1 (Guerre froide)</h2>
+<p><strong>Introduction</strong></p>
+<p>Après la Seconde Guerre mondiale, les États-Unis et l’URSS, alliés de guerre, deviennent rivaux. La question demande comment cette <strong>Guerre froide</strong> <strong>structure</strong> le monde. Nous verrons la bipolarisation, les alliances et crises, puis les décolonisations.</p>
+<p><strong>I. Un monde divisé en deux blocs (1947–1955)</strong></p>
+<p>Dès <strong>1947</strong>, la <strong>doctrine Truman</strong> promet l’aide aux pays menacés par le communisme. Le <strong>plan Marshall</strong> reconstruit l’Europe occidentale avec des dollars américains. L’URSS refuse et verrouille l’<strong>Europe de l’Est</strong>. En <strong>1949</strong>, l’<strong>OTAN</strong> lie militairement l’Ouest ; l’URSS créera le <strong>pacte de Varsovie</strong>. Deux <strong>superpuissances</strong> possèdent la bombe atomique : la paix repose sur la <strong>dissuasion</strong> (destruction mutuelle).</p>
+<p><strong>II. Crises et course aux armements</strong></p>
+<p><strong>Corée</strong> (1950–1953), <strong>crise de Cuba</strong> (1962) au bord de la guerre nucléaire. Les deux camps soutiennent des régimes alliés partout dans le monde (interventions indirectes, espionnage).</p>
+<p><strong>III. Tiers-monde et décolonisation</strong></p>
+<p><strong>Algérie</strong> indépendante <strong>1962</strong>, Afrique décolonisée. <strong>Bandung 1955</strong> : volonté de non-alignement, mais pression des blocs. Les conflits locaux (Vietnam, Afghanistan) deviennent des épisodes de la Guerre froide.</p>
+<p><strong>Conclusion</strong></p>
+<p>La Guerre froide structure le monde en <strong>deux blocs</strong>, par des <strong>alliances</strong>, des <strong>crises</strong> et l’<strong>instrumentalisation</strong> des nouveaux États — jusqu’au tournant de <strong>1989</strong> (partie 2).</p>
+<h2>CORRIGÉ INTÉGRAL — Partie 2 (tournant 1989)</h2>
+<p><strong>Présentation document 1</strong></p>
+<p>Le document 1 est un <strong>extrait d’allocution</strong> de <strong>François Mitterrand</strong>, <strong>président de la République française</strong>, devant le <strong>Parlement européen</strong> à <strong>Strasbourg</strong>, le <strong>22 novembre 1989</strong>, c’est-à-dire quelques jours après la <strong>chute du mur de Berlin</strong> (9 novembre 1989). Discours public, destiné aux représentants des États de la Communauté européenne et au chancelier <strong>Helmut Kohl</strong> (Allemagne).</p>
+<p><strong>Analyse document 1</strong></p>
+<p>Mitterrand qualifie le 9 novembre d’événement <strong>historique</strong> : une « brèche dans le mur » qui symbolisait la division de l’Europe depuis près de <strong>30 ans</strong>. Il associe explicitement la victoire à la <strong>démocratie</strong> et à la <strong>liberté</strong>. Il souligne le rôle du <strong>peuple</strong> qui « a bougé » et dont la voix « brise le silence d’un ordre imposé ». Il élargit le mouvement à l’Europe de l’Est : <strong>Pologne</strong>, <strong>Hongrie</strong>, réformes en <strong>URSS</strong>, et rend hommage à <strong>Gorbatchev</strong> qui a accepté de nouvelles façons de gouverner. Pour Mitterrand, <strong>1989</strong> n’est pas un détail : c’est une <strong>victoire</strong> des forces démocratiques en Europe.</p>
+<p><strong>Présentation document 2</strong></p>
+<p>Le document 2 est une <strong>photographie</strong> de Stuart Franklin (agence Magnum), <strong>28 mai 1989</strong>, place <strong>Tiananmen</strong> à Pékin : la statue « <strong>Déesse de la démocratie</strong> » devant des manifestants. Contexte : mouvement étudiant demandant des réformes démocratiques en <strong>Chine</strong>, quelques mois avant la répression de juin 1989.</p>
+<p><strong>Analyse document 2</strong></p>
+<p>L’image montre une revendication <strong>démocratique</strong> en Chine, en parallèle des mouvements en Europe de l’Est. Elle rappelle que <strong>1989</strong> est aussi une année de <strong>espoir</strong> et de <strong>tension</strong> dans le monde : la demande de liberté n’est pas limitée à l’Europe. La photo symbolise la <strong>lutte</strong> pour la démocratie ; elle annonce une répression violente en Chine, contrairement à l’Europe centrale où le mur tombe.</p>
+<p><strong>Confrontation + cours</strong></p>
+<p>Les deux documents montrent que <strong>1989</strong> est un <strong>tournant</strong> mondial pour la <strong>démocratie</strong> : en Europe, la fin symbolique de la Guerre froide (mur de Berlin, préparation de la <strong>réunification</strong> allemande 1990, fin du bloc de l’Est) ; en Chine, aspiration démocratique réprimée. Côté cours : chute du bloc soviétique, <strong>détente</strong> puis effondrement, <strong>CEE</strong> qui devient l’<strong>UE</strong> élargie. <strong>1989</strong> marque le triomphe apparent du modèle démocratique libéral en Europe, mais pas partout de la même manière.</p>
+<p><strong>Conclusion</strong></p>
+<p>L’année <strong>1989</strong> constitue un <strong>tournant</strong> car elle met fin à la division symbolique de l’Europe (mur de Berlin) et accélère la fin de la Guerre froide, tout en révélant, à Tiananmen, les limites d’un « printemps démocratique » universel.</p>
+<hr>
+<h1>PARTIE E — MÉTHODE ES (jour 2 matin)</h1>
+<h2>E.1 Structure d’une réponse (chaque question)</h2>
+<ol>
+<li><strong>Définition</strong> (2 lignes) : qu’est-ce que CO₂, demi-vie, bug informatique…</li>
+<li><strong>Fait tiré du document</strong> (2–3 lignes) : « Sur le graphique, entre 0 et 5 min, la courbe O₂ descend… »</li>
+<li><strong>Explication scientifique</strong> (4–6 lignes) : mécanisme (photosynthèse, effet de serre…)</li>
+<li><strong>Nuance / limite</strong> (2 lignes) : « ce modèle simplifie… », « corrélation ≠ cause »</li>
+<li><strong>Société</strong> (2 lignes) : enjeu santé, politique, éthique</li>
+</ol>
+<p><strong>Toujours écrire les unités :</strong> m, s, J, W, Hz, ppm, %, Go.</p>
+<h2>E.2 Maths indispensables (avec explications)</h2>
+<p><strong>Pourcentage :</strong> 3 % de 2,7 milliards = 0,03 × 2 700 000 000 = <strong>81 000 000</strong> (81 millions).</p>
+<p><strong>Taille fichiers :</strong> 81 millions × 30 caractères ≈ 2,43 milliards de caractères (ordre de grandeur ; si 1 caractère = 1 octet → ~2,4 Go).</p>
+<p><strong>Probabilité :</strong> lire l’énoncé : « probabilité que l’IA ait raison sachant qu’elle dit Rap » → formule type \(P(\text{correct}|\text{IA dit Rap})\) — utiliser le tableau de contingence.</p>
+<p><strong>Demi-vie :</strong> après 1 demi-vie, il reste 50 % ; après 2, il reste 25 %.</p>
+<hr>
+<h1>PARTIE F — ANNALE ES N°1 (officielle E3C 2021 — GTCENSC05465)</h1>
+<h2>Exercice 1 — Dioxygène terrestre (10 points)</h2>
+<h3>Question 1 — Métabolisme cyanobactéries (0–5 min puis 5–10 min)</h3>
+<p><strong>Énoncé :</strong> Donner le métabolisme entre 0–5 min et 5–10 min en justifiant avec le graphique.</p>
+<p><strong>Corrigé détaillé :</strong></p>
+<p>Entre <strong>0 et 5 minutes</strong>, l’éclairement est <strong>faible ou nul</strong> (phase « obscurité » sur le graphique) : la teneur en <strong>O₂</strong> diminue et celle en <strong>CO₂</strong> augmente. Cela correspond à la <strong>respiration</strong> : les cyanobactéries consomment du <strong>sucre</strong> et du <strong>O₂</strong> pour produire de l’énergie, et rejettent du <strong>CO₂</strong> (comme les cellules animales dans l’obscurité).</p>
+<p>Entre <strong>5 et 10 minutes</strong>, la <strong>lumière</strong> est allumée : la courbe de <strong>O₂</strong> <strong>augmente</strong> fortement et le <strong>CO₂</strong> <strong>diminue</strong>. C’est la <strong>photosynthèse</strong> : en présence de lumière, les cyanobactéries utilisent le <strong>CO₂</strong> et l’eau pour produire du sucre et rejettent du <strong>O₂</strong>. Le métabolisme dominant devient donc la <strong>photosynthèse</strong>.</p>
+<p><strong>Phrase à mettre dans la copie :</strong> « Le graphique montre une inversion des courbes à t = 5 min quand la lumière s’allume : cela prouve le passage de la respiration à la photosynthèse. »</p>
+<h3>Question 2 — Production O₂ depuis 3,5 milliards d’années</h3>
+<p><strong>Corrigé :</strong></p>
+<p>Les <strong>stromatolitites</strong> (3,5 Ga) sont construits par des micro-organismes dont les <strong>cyanobactéries</strong>, capables de <strong>photosynthèse</strong>. D’après le document 1, la photosynthèse <strong>libère du O₂</strong>. Donc, dès que ces organismes se multiplient à grande échelle, ils enrichissent l’atmosphère en <strong>dioxygène</strong> de façon durable. C’est un <strong>fait</strong> géologique et biologique : l’O₂ atmosphérique provient largement de l’activité photosynthétique du vivant, pas d’une seule eruption volcanique.</p>
+<h3>Question 3 — Hématite dans les BIF</h3>
+<p><strong>Corrigé :</strong></p>
+<p>Les <strong>fers rubanés</strong> (BIF) contiennent surtout de l’<strong>hématite</strong> (Fe₂O₃, deux fer trois oxygène — tableau du sujet). L’ajustement de l’équation de formation : <strong>4 Fe + 3 O₂ → 2 Fe₂O₃</strong> (équilibre des atomes : 4 Fe et 6 O des deux côtés). Cela montre que le fer métallique a été <strong>oxydé</strong> par le dioxygène atmosphérique : preuve d’une atmosphère devenue <strong>oxydante</strong>.</p>
+<h3>Question 4 — Chronologie (document 3)</h3>
+<p><strong>Corrigé (ordre logique à expliquer en phrases) :</strong></p>
+<ol>
+<li><strong>~3,5 Ga</strong> : apparition des cyanobactéries → début photosynthèse → <strong>premier enrichissement en O₂</strong>.</li>
+<li><strong>~2,4 Ga</strong> (« grande oxygénation ») : accumulation massive d’O₂ ; formation de <strong>BIF</strong> (le fer dissous dans les océans est oxydé et se dépose en bandes).</li>
+<li>Plus tard : <strong>paléosols rouges</strong> (sols fossiles colorés par l’hématite) → l’atmosphère oxydante altère les roches continentales en surface.</li>
+<li>Aujourd’hui : atmosphère avec <strong>~21 % d’O₂</strong>, indispensable à la respiration des animaux et à la couche d’<strong>ozone</strong>.</li>
+</ol>
+<h3>Question 5 — Ozone (O₃)</h3>
+<p><strong>Corrigé :</strong></p>
+<p>L’<strong>ozone</strong> se forme dans la <strong>stratosphère</strong> lorsque des rayons du Soleil décomposent le dioxygène (O₂) et que les atomes d’oxygène se recombinent en O₃. L’ozone <strong>filtre les UV</strong> nocifs pour les cellules. Sans cette couche, la vie complexe à la surface des continents serait fortement limitée. C’est un exemple où la science relie <strong>atmosphère</strong> et <strong>biodiversité</strong>.</p>
+<hr>
+<h2>Exercice 2 — Streaming musical (10 points) — corrigés détaillés</h2>
+<h3>Question 1 — Bug</h3>
+<p><strong>Corrigé :</strong> Un <strong>bug</strong> est une <strong>erreur</strong> dans le programme (faute de code, mauvaise condition). Conséquences : le logiciel <strong>plante</strong>, boucle infinie, ou exécute une <strong>mauvaise action</strong> (ici : impossible de se connecter correctement). Ce n’est pas un virus : c’est une erreur de conception ou de saisie.</p>
+<h3>Question 2 — Lignes suspectes</h3>
+<p><strong>Corrigé (type) :</strong> repérer une condition mal écrite (comparaison = au lieu de == en pseudo-code), une variable non initialisée, ou un appel de fonction avec un mauvais paramètre. <strong>Réécrire</strong> la ligne corrigée en expliquant : « la condition doit tester si resultatclic vaut… ».</p>
+<h3>Question 3 — Taille des fichiers</h3>
+<p><strong>Données :</strong> 2,7 × 10⁹ utilisateurs ; <strong>3 %</strong> se connectent ; fichier <strong>30 caractères</strong> en moyenne.</p>
+<p><strong>Calcul :</strong></p>
+<p>Nombre de connexions = 0,03 × 2 700 000 000 = <strong>81 000 000</strong> fichiers.</p>
+<p>Taille totale ≈ 81 000 000 × 30 caractères = <strong>2 430 000 000 caractères</strong> (environ <strong>2,43 × 10⁹</strong> unités).</p>
+<p>Si l’on assimile 1 caractère à 1 octet, cela fait environ <strong>2,43 Go</strong> (gigaoctets) de données texte pour une journée — ordre de grandeur acceptable en entreprise mais énorme pour un serveur mal dimensionné.</p>
+<p><strong>Explication à écrire :</strong> montrer le <strong>produit</strong> en trois lignes ; arrondir ; donner l’unité.</p>
+<h3>Question 4 — Jeu de données pour IA (rap)</h3>
+<p><strong>Corrigé :</strong> Choisir le <strong>1er jeu</strong> car les morceaux sont <strong>étiquetés par genre</strong> (rap conscient, reggae, rock…) : l’IA peut <strong>apprendre</strong> à distinguer le rap des autres styles. Le <strong>2e jeu</strong> mélange trop de sous-genres de rap sans séparer clairement « rap » vs « non rap » pour un apprentissage simple. <strong>Justification</strong> = variété des <strong>classes</strong> et labels explicites.</p>
+<h3>Question 5 — Tableau de contingence</h3>
+<p><strong>Données :</strong> 100 rap → IA reconnaît 98 ; 150 non-rap → IA se trompe 5 fois (donc 145 bien classés).</p>
+<table>
+<tr><th></th><th>IA : Rap</th><th>IA : Autres</th><th>Total</th></tr>
+<tr><td>Utilisateur : Rap</td><td>98</td><td>2</td><td>100</td></tr>
+<tr><td>Utilisateur : Autres</td><td>5</td><td>145</td><td>150</td></tr>
+<tr><td><strong>Total</strong></td><td>103</td><td>147</td><td>250</td></tr>
+</table>
+<h3>Question 6 — Probabilité que l’IA soit correcte sachant « IA dit Rap »</h3>
+<p><strong>Corrigé :</strong> On cherche \(P(\text{utilisateur rap} \mid \text{IA dit rap}) = 98 / 103 \approx 0,9515\) soit <strong>0,95</strong> arrondi au centième (95 %).</p>
+<p><strong>Explication :</strong> parmi les 103 profils que l’IA classe comme « rap », seuls 98 le sont vraiment.</p>
+<hr>
+<h1>PARTIE G — ANNALE ES N°3 (type climat — entraînement)</h1>
+<p><strong>Question :</strong> « À l’aide du document (courbe CO₂ 1960–2020), expliquez le lien entre émissions humaines et réchauffement. »</p>
+<p><strong>Corrigé intégral (modèle) :</strong></p>
+<p>Le document montre une <strong>augmentation continue</strong> de la concentration de <strong>CO₂</strong> en <strong>ppm</strong>, d’environ 320 ppm en 1960 à plus de 410 ppm aujourd’hui. C’est une <strong>mesure directe</strong> : c’est un <strong>fait</strong>, pas une opinion.</p>
+<p>Scientifiquement, le <strong>CO₂</strong> est un <strong>gaz à effet de serre</strong> : il retient une partie du rayonnement infrarouge émis par la Terre. Plus il y a de CO₂, plus l’énergie reste dans le système climatique, ce qui tend à augmenter la <strong>température moyenne</strong> globale. Les <strong>modèles climatiques</strong> qui incluent les émissions liées aux <strong>combustibles fossiles</strong> et à la <strong>déforestation</strong> reproduisent mieux la tendance observée que les modèles qui ignorent l’activité humaine.</p>
+<p><strong>Nuance :</strong> la courbe seule ne prouve pas la cause à elle seule ; mais elle s’accorde avec d’autres preuves (température, fonte des glaces). Un hiver froid local ne contredit pas cette tendance <strong>globale</strong>.</p>
+<p><strong>Société :</strong> réduire les émissions (transports, industrie, bâtiment) est une <strong>décision</strong> politique et économique (Accord de Paris, taxe carbone, énergies renouvelables). La science éclaire le débat ; elle ne remplace pas le choix démocratique.</p>
+<hr>
+<h1>PARTIE H — COURS ES EXPRESS (jour 2) — lire en entier</h1>
+<h2>Climat</h2>
+<p>Le <strong>climat</strong> = moyenne sur <strong>30 ans</strong> ; la <strong>météo</strong> = demain. Le <strong>CO₂</strong> augmente depuis l’industrie (420 ppm). <strong>Effet de serre</strong> : le CO₂ retient la chaleur. <strong>GIEC</strong> = consensus scientifique. <strong>Atténuation</strong> (réduire émissions) vs <strong>adaptation</strong> (digues, sécheresse). Phrase type : fait mesuré → modèle → décision politique.</p>
+<h2>Énergies</h2>
+<p><strong>W</strong> = puissance ; <strong>kWh</strong> = énergie sur la facture. <strong>Fossiles</strong> = CO₂. <strong>Nucléaire</strong> = peu de CO₂ à l’usage, déchets. <strong>Éolien/solaire</strong> = renouvelable mais <strong>intermittent</strong>. France : mix nucléaire + EnR.</p>
+<h2>Vivant</h2>
+<p><strong>Darwin</strong> : variation + sélection + temps long. <strong>Preuves</strong> : fossiles, ADN. <strong>OGM</strong> = débat société. <strong>Biodiversité</strong> menacée.</p>
+<h2>Première (annales type 05465)</h2>
+<p><strong>Photosynthèse</strong> (lumière → O₂) / <strong>respiration</strong> (O₂ → CO₂). <strong>Demi-vie</strong> radioactivité. <strong>Probabilités</strong> et tableaux (IA). <strong>Bugs</strong> = erreurs de code.</p>
+<hr>
+<h1>PARTIE I — ANNEXES (jour 3)</h1>
+<h2>40 dates HG (répéter 3 fois dans la journée)</h2>
+<p>1789, 1792, 1804, 1815, 1848, 1870, 1914, 1918, 1919, 1929, 1933, 1939, 1940, 1944, 1945, 1947, 1949, 1962, 1968, 1973, 1981, 1989, 1991, 1992, 2001, 2016 — + <strong>9 nov 1989</strong>, <strong>18 juin 1940</strong>, <strong>11 nov 1918</strong>, <strong>Traité Rome 1957</strong>, <strong>Maastricht 1992</strong>.</p>
+<h2>Erreurs qui coûtent des points</h2>
+<ul>
+<li>Liste sans phrases · copier le doc sans commentaire · oublier titre croquis · confondre météo/climat · pas d’unités en ES · dire « corrélation = cause » sans nuance.</li>
+</ul>
+<h2>Checklist 10 minutes avant l’épreuve</h2>
+<ul>
+<li>[ ] Montre, stylos, eau</li>
+<li>[ ] HG : plan en 3 parties avant d’écrire</li>
+<li>[ ] ES : unités sur chaque chiffre</li>
+<li>[ ] Partie 2 HG : présenter <strong>chaque</strong> doc</li>
+</ul>
+<hr>
+<h1>PARTIE J — DERNIÈRE ANNALE BLANCHE (jour 3 après-midi)</h1>
+<h2>HG — Sujet type « Vichy et Résistance » (partie 1 seule)</h2>
+<p><strong>Question :</strong> « En quoi la défaite de 1940 transforme-t-elle le régime politique français ? »</p>
+<p><strong>Corrigé intégral :</strong></p>
+<p>Introduction : La défaite militaire de <strong>juin 1940</strong> ne se limite pas à une bataille perdue : elle renverse les institutions et divise la nation. Nous verrons la fin de la IIIe République, le régime de <strong>Vichy</strong>, et l&#x27;émergence de la <strong>France libre</strong> et de la <strong>Résistance</strong>.</p>
+<p>I. <strong>La fin de la IIIe République.</strong> Le gouvernement de <strong>Paul Reynaud</strong> nomme le maréchal <strong>Pétain</strong> ; l&#x27;<strong>armistice</strong> signé le <strong>22 juin 1940</strong> stoppe les combats. Le Parlement, réuni à <strong>Vichy</strong> le <strong>10 juillet 1940</strong>, vote les pleins pouvoirs à Pétain : fin de la République parlementaire, début du <strong>régime de Vichy</strong> (État français). La moitié nord de la France est <strong>occupée</strong> par l&#x27;Allemagne ; le sud est « libre » mais sous autorité collaborationniste.</p>
+<p>II. <strong>Vichy : révolution nationale et collaboration.</strong> Pétain promet une <strong>révolution nationale</strong> : anti-parlementarisme, culte du chef, répression des opposants (désignation du « juif » par les lois de <strong>1940–1942</strong>, rôle de <strong>Laval</strong>). Le régime <strong>collabore</strong> avec l&#x27;occupant nazi : police française, rafles (Vel d&#x27;Hiv <strong>1942</strong>), envoi de travailleurs forcés (STO). Vichy cherche la paix avec Hitler mais perd la souveraineté.</p>
+<p>III. <strong>De Gaulle et la Résistance.</strong> Le <strong>18 juin 1940</strong>, <strong>Charles de Gaulle</strong>, général à Londres, lance l&#x27;appel à continuer le combat. La <strong>France libre</strong> s&#x27;organise à l&#x27;étranger ; à l&#x27;intérieur, réseaux de <strong>Résistance</strong> (Jean Moulin unifie les mouvements en <strong>1943</strong>). En <strong>1944</strong>, débarquement allié ; libération de Paris (<strong>août 1944</strong>) ; Vichy effondré.</p>
+<p>Conclusion : 1940 transforme la France en régime autoritaire collaborationniste à Vichy, tout en faisant naître une France combattante symbolisée par de Gaulle et la Résistance — base de la <strong>IVe République</strong> puis de la <strong>Ve</strong> en 1958.</p>
+<hr>
+<h2>ES — Sujet type « antibiotiques » (question courte type annale)</h2>
+<p><strong>Question :</strong> « Pourquoi les antibiotiques ne soignent-ils pas la grippe ? Pourquoi parle-t-on de résistance ? »</p>
+<p><strong>Corrigé intégral :</strong></p>
+<p>La <strong>grippe</strong> est causée par un <strong>virus</strong> ; les <strong>antibiotiques</strong> tuent ou bloquent la multiplication des <strong>bactéries</strong>, pas des virus. Donner des antibiotiques pour une grippe est <strong>inutile</strong> et favorise le développement de <strong>bactéries résistantes</strong> dans le corps ou l&#x27;environnement.</p>
+<p>La <strong>résistance</strong> s&#x27;explique par la <strong>sélection naturelle</strong> : dans une population bactérienne, quelques individus mutent et survivent au traitement ; ils se multiplient ; le médicament devient inefficace. C&#x27;est un <strong>fait</strong> scientifique documenté à l&#x27;échelle mondiale.</p>
+<p><strong>Société :</strong> l&#x27;OMS alerte sur l&#x27;<strong>antibiorésistance</strong> ; les médecins doivent prescrire avec prudence ; les patients ne doivent pas exiger des antibiotiques pour chaque rhume. C&#x27;est un enjeu de <strong>santé publique</strong>, pas seulement individuel.</p>
+<hr>
+<p><em>Fin du guide 3 jours — bon courage pour le 26 mai.</em></p>
+</body>
+</html>
