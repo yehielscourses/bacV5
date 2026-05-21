@@ -8,6 +8,7 @@ import re
 from pathlib import Path
 
 ROOT = Path("/workspace/downloads/annales")
+PDF_ROOT = ROOT / "pdf_version"
 
 # Patterns INTERDITS (erreurs connues)
 FORBIDDEN = re.compile(
@@ -43,8 +44,9 @@ def main() -> int:
     errors: list[str] = []
     warnings: list[str] = []
 
-    for pdf in sorted(ROOT.rglob("*.pdf")):
-        rel = pdf.relative_to(ROOT)
+    search_root = PDF_ROOT if PDF_ROOT.exists() else ROOT
+    for pdf in sorted(search_root.rglob("*.pdf")):
+        rel = pdf.relative_to(search_root)
         top = rel.parts[0]
         name = str(rel)
 
@@ -57,11 +59,11 @@ def main() -> int:
 
     # Dossiers vides attendus
     for d in ("03_emc_ponctuelle", "04_lvb_oral", "07_lva_oral"):
-        if not list((ROOT / d).rglob("*.pdf")):
+        if not list((search_root / d).rglob("*.pdf")):
             warnings.append(f"Pas de PDF dans {d}/ (normal si liens BO seulement)")
 
     # E3C LVA : rappel format
-    lva = list((ROOT / "06_lva_lvb_ecrit").rglob("*.pdf"))
+    lva = list((search_root / "06_lva_lvb_ecrit").rglob("*.pdf"))
     if lva and not any("terminale" in p.name for p in lva if "anglais" in p.name):
         warnings.append(
             "LVA: E3C anglais surtout 1re-t2 — la ponctuelle exige CO audio (absent des PDF E3C)"

@@ -4,8 +4,9 @@
 
 | Ressource | Emplacement |
 |-----------|-------------|
-| NS LV (oral + écrit) | `../06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025.pdf` |
-| Sujet écrit hébreu 2024 (niveau B1) | `../06_lva_lvb_ecrit/2024/hebreu_lvb_sujet_2024.pdf` |
-| Grilles | `../06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb.pdf` |
+| NS LV (oral + écrit) | `../pdf_version/06_lva_lvb_ecrit/eduscol_officiel/ns_ponctuelle_lv_juin2025.pdf` |
+| Sujet écrit hébreu 2024 (niveau B1) | `../pdf_version/06_lva_lvb_ecrit/2024/hebreu_lvb_sujet_2024.pdf` |
+| Grilles | `../pdf_version/06_lva_lvb_ecrit/eduscol_officiel/grilles_lva_lvb.pdf` |
+| Version Markdown | `../markdown_version/06_lva_lvb_ecrit/` |
 
 Pas d’annales orales hébreu en libre accès — contacter le jury Grenoble.

@@ -27,11 +27,20 @@ Chaque dossier = une ligne de **convocation**, pas une spécialité « proche ».
 - ~~HGGSP~~ — **pas** HG tronc commun
 - ~~Finales écrites NSI~~ — **pas** le QCM ponctuel
 
-## Commandes
+## Versions Markdown (comme programmes / NS)
+
+| Dossier | Rôle |
+|---------|------|
+| `pdf_version/` | PDF sources |
+| `markdown_version/` | Texte + liens vers visuels |
+| `assets/` | Images embarquées et reproductions de pages (cartes, graphiques) |
+
+Méthode images : [STRATEGIE_MARKDOWN.md](STRATEGIE_MARKDOWN.md)
 
 ```bash
-python3 scripts/telecharger_annales_bac.py   # telechargement
-python3 scripts/verifier_annales.py            # controle automatique
+python3 scripts/pdf_annales_to_markdown.py   # PDF ? .md + assets
+python3 scripts/telecharger_annales_bac.py   # telechargement PDF
+python3 scripts/verifier_annales.py          # controle matieres
 ```
 
 Contact banque académique : `dec.gt-bcg@ac-grenoble.fr`

@@ -16,7 +16,8 @@ from pathlib import Path
 
 BASE = "https://www.sujetdebac.fr"
 EDUSCOL = "https://eduscol.education.gouv.fr/sites/default/files/document"
-ROOT = Path("/workspace/downloads/annales")
+ANNALES = Path("/workspace/downloads/annales")
+ROOT = ANNALES / "pdf_version"
 YEARS_METROPOLE = [2021, 2022, 2023, 2024, 2025]
 UA = "Mozilla/5.0 (compatible; BacRevisionBot/2.0)"
 
@@ -140,7 +141,7 @@ def download_eduscol_officiels() -> None:
         "12_grand_oral": [("nds_grand_oral.pdf", "voie-ggrand-oraldoc-consolidepdf-102120.pdf")],
     }
     extra_urls = {
-        "02_es_ponctuelle/document_56670_es_ponctuelle.pdf": "https://eduscol.education.gouv.fr/document/56670/download",
+        "02_es_ponctuelle/eduscol_officiel/document_56670_es_ponctuelle.pdf": "https://eduscol.education.gouv.fr/document/56670/download",
         "06_lva_lvb_ecrit/2024/hebreu_lvb_sujet_2024.pdf": "https://eduscol.education.gouv.fr/document/63577/download",
     }
     for rel, url in extra_urls.items():
@@ -179,6 +180,7 @@ def download_e3c_ponctuelles() -> list[str]:
 
 
 def main() -> None:
+    ANNALES.mkdir(parents=True, exist_ok=True)
     ROOT.mkdir(parents=True, exist_ok=True)
     log: list[str] = []
 
@@ -192,7 +194,7 @@ def main() -> None:
     log.extend(download_e3c_ponctuelles())
     download_eduscol_officiels()
 
-    (ROOT / "RAPPORT_TELECHARGEMENT.txt").write_text("\n".join(log), encoding="utf-8")
+    (ANNALES / "RAPPORT_TELECHARGEMENT.txt").write_text("\n".join(log), encoding="utf-8")
     print("OK", len(log), "lignes")
 
 
