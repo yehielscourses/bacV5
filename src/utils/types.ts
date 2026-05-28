@@ -43,6 +43,8 @@ export interface ProgressState {
   quizScores: Record<string, number>;
   points: number;
   diagnosticsDone: number;
+  diagnosticsLvaDone?: number;
+  diagnosticsLvbDone?: number;
   examBestScore?: number;
   lvaCompletedAxes: number[];
   lvbCompletedAxes: number[];

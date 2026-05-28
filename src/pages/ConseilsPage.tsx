@@ -2,6 +2,7 @@ import { CalendarCheck, Headphones, NotebookPen, RotateCcw } from "lucide-react"
 import { Card } from "../components/ui/Card";
 import { PageHeader } from "../components/ui/PageHeader";
 import { useStudyTrack } from "../context/StudyTrackContext";
+import { useProgress } from "../hooks/useProgress";
 
 const cycles = [
   { title: "Comprendre", icon: NotebookPen, text: "Fiche axe + 5 mots-clés (clic = traduction)." },
@@ -61,6 +62,18 @@ export function ConseilsPage() {
           </ul>
         </Card>
       </div>
+
+      <p className="text-center text-xs text-slate-400">
+        <button
+          type="button"
+          className="underline hover:text-slate-600 dark:hover:text-slate-300"
+          onClick={() => {
+            if (window.confirm("Réinitialiser toute la progression ?")) resetProgress();
+          }}
+        >
+          Réinitialiser la progression
+        </button>
+      </p>
     </div>
   );
 }
