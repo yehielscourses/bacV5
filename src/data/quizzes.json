@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a1-q1",
+    "axisId": 1,
+    "question": "Quel mot resume le mieux l'axe « Identites et echanges » ?",
+    "options": ["Mobilite", "Censure", "Patrimoine", "Clonage"],
+    "answer": "Mobilite",
+    "explanation": "L'axe interroge les mobilites, les frontieres, les contacts et les effets de la mondialisation."
+  },
+  {
+    "id": "a1-q2",
+    "axisId": 1,
+    "question": "Quel exemple convient le mieux pour l'anglais ?",
+    "options": ["Windrush generation", "Yad Vashem", "Irrigation goutte-a-goutte", "Kibboutz uniquement familial"],
+    "answer": "Windrush generation",
+    "explanation": "La generation Windrush permet de traiter migrations, identite britannique et multiculturalisme."
+  },
+  {
+    "id": "a1-q3",
+    "axisId": 1,
+    "question": "Quelle notion ne fait pas partie des mots-cles officiels de cet axe ?",
+    "options": ["Droit d'asile", "Hospitalite", "Cyber-harcelement", "Frontieres invisibles"],
+    "answer": "Cyber-harcelement",
+    "explanation": "Le cyber-harcelement appartient plutot a l'axe Citoyennete et mondes virtuels."
+  },
+  {
+    "id": "a1-q4",
+    "axisId": 1,
+    "question": "En LVB hebreu, quelle problematique est pertinente ?",
+    "options": ["Comment l'alyah transforme-t-elle l'identite israelienne ?", "La science-fiction remplace-t-elle l'histoire ?", "Les vaccins menacent-ils toujours la citoyennete ?", "Pourquoi les monuments sont-ils des algorithmes ?"],
+    "answer": "Comment l'alyah transforme-t-elle l'identite israelienne ?",
+    "explanation": "L'alyah renvoie directement aux migrations et a la construction identitaire."
+  },
+  {
+    "id": "a1-q5",
+    "axisId": 1,
+    "question": "Quelle nuance faut-il montrer dans une copie ?",
+    "options": ["La mondialisation peut ouvrir et fragiliser a la fois", "La mondialisation supprime toute identite locale", "Les frontieres sont seulement geographiques", "Les echanges sont toujours sans conflit"],
+    "answer": "La mondialisation peut ouvrir et fragiliser a la fois",
+    "explanation": "Une bonne reponse nuance les benefices, tensions et transformations identitaires."
+  },
+  {
+    "id": "a2-q1",
+    "axisId": 2,
+    "question": "Quel enjeu est central dans « Espace prive et espace public » ?",
+    "options": ["La frontiere entre intime et collectif", "La conquete spatiale", "Les super-heros", "Les monuments aux morts"],
+    "answer": "La frontiere entre intime et collectif",
+    "explanation": "L'axe etudie la separation et les mutations entre sphere privee et sphere publique."
+  },
+  {
+    "id": "a2-q2",
+    "axisId": 2,
+    "question": "Quel theme officiel est associe a cet axe ?",
+    "options": ["Egalite homme-femme", "Course a l'armement", "Utopies", "Droit d'asile"],
+    "answer": "Egalite homme-femme",
+    "explanation": "La place des femmes et leur acces a la sphere publique font partie du programme."
+  },
+  {
+    "id": "a2-q3",
+    "axisId": 2,
+    "question": "Quel exemple anglais est adapte ?",
+    "options": ["Les suffragettes", "Le clonage", "La dystopie", "Le devoir de memoire"],
+    "answer": "Les suffragettes",
+    "explanation": "Les suffragettes illustrent l'entree des femmes dans l'espace politique public."
+  },
+  {
+    "id": "a2-q4",
+    "axisId": 2,
+    "question": "Pourquoi les reseaux sociaux peuvent-ils entrer dans cet axe ?",
+    "options": ["Ils exposent la vie privee dans l'espace public", "Ils prouvent que l'art est inutile", "Ils remplacent la memoire historique", "Ils suppriment la famille"],
+    "answer": "Ils exposent la vie privee dans l'espace public",
+    "explanation": "Ils brouillent la limite entre image intime, identite publique et regard social."
+  },
+  {
+    "id": "a2-q5",
+    "axisId": 2,
+    "question": "Quel sujet est pertinent en hebreu ?",
+    "options": ["La place des femmes dans l'espace public israelien", "La generation Windrush", "Le 9/11 Memorial", "Les super-heros Marvel"],
+    "answer": "La place des femmes dans l'espace public israelien",
+    "explanation": "Il permet de croiser normes sociales, religion, politique et modernite."
+  },
+  {
+    "id": "a3-q1",
+    "axisId": 3,
+    "question": "Quelle question appartient a « Art et pouvoir » ?",
+    "options": ["L'art peut-il etre un contre-pouvoir ?", "Comment recycler les dechets ?", "Qu'est-ce qu'une frontiere linguistique ?", "Comment reviser le vocabulaire ?"],
+    "answer": "L'art peut-il etre un contre-pouvoir ?",
+    "explanation": "Le programme interroge l'art au service du pouvoir ou contre lui."
+  },
+  {
+    "id": "a3-q2",
+    "axisId": 3,
+    "question": "Quel mot-cle officiel convient ?",
+    "options": ["Street art", "Surpopulation", "Droit de la famille", "Amnesie"],
+    "answer": "Street art",
+    "explanation": "Le street art est cite parmi les formes possibles d'art engage ou contestataire."
+  },
+  {
+    "id": "a3-q3",
+    "axisId": 3,
+    "question": "Quel exemple anglais est efficace ?",
+    "options": ["Banksy", "Dessalement", "Alyah", "Teletravail"],
+    "answer": "Banksy",
+    "explanation": "Banksy permet d'etudier critique politique, espace public et art contemporain."
+  },
+  {
+    "id": "a3-q4",
+    "axisId": 3,
+    "question": "Quel risque faut-il analyser quand l'art depend du pouvoir ?",
+    "options": ["La propagande ou la censure", "La biodiversite", "La mobilite sociale", "Le droit d'asile"],
+    "answer": "La propagande ou la censure",
+    "explanation": "Le pouvoir peut financer, orienter, celebrer ou censurer les artistes."
+  },
+  {
+    "id": "a3-q5",
+    "axisId": 3,
+    "question": "En hebreu, quelle piste est pertinente ?",
+    "options": ["Le cinema israelien comme espace de debat", "Les paiements virtuels", "Le clonage humain", "Les quartiers historiques americains"],
+    "answer": "Le cinema israelien comme espace de debat",
+    "explanation": "Le cinema peut porter une critique sociale ou politique dans l'aire hebraique."
+  },
+  {
+    "id": "a4-q1",
+    "axisId": 4,
+    "question": "Quel enjeu domine « Citoyennete et mondes virtuels » ?",
+    "options": ["Le rapport citoyen-pouvoir a l'ere numerique", "La litterature medievale uniquement", "L'habitat rural", "La peinture religieuse"],
+    "answer": "Le rapport citoyen-pouvoir a l'ere numerique",
+    "explanation": "L'axe questionne l'information, la participation, les donnees et la liberte en ligne."
+  },
+  {
+    "id": "a4-q2",
+    "axisId": 4,
+    "question": "Quel mot-cle officiel appartient a cet axe ?",
+    "options": ["Fausses informations", "Figures tutelaires", "Quartier historique", "Mixite sociale seulement"],
+    "answer": "Fausses informations",
+    "explanation": "Les fake news sont au coeur des enjeux d'education aux medias."
+  },
+  {
+    "id": "a4-q3",
+    "axisId": 4,
+    "question": "Quel exemple anglais est adapte ?",
+    "options": ["Cambridge Analytica", "Massada", "Suffragettes", "Windrush uniquement"],
+    "answer": "Cambridge Analytica",
+    "explanation": "L'affaire illustre donnees personnelles, manipulation et democratie."
+  },
+  {
+    "id": "a4-q4",
+    "axisId": 4,
+    "question": "Quelle nuance est attendue ?",
+    "options": ["Le numerique libere la parole mais cree aussi des risques", "Le numerique est toujours neutre", "Les citoyens n'utilisent jamais internet", "La vie privee n'existe plus juridiquement"],
+    "answer": "Le numerique libere la parole mais cree aussi des risques",
+    "explanation": "Il faut articuler acces au savoir, expression, surveillance, harcelement et manipulation."
+  },
+  {
+    "id": "a4-q5",
+    "axisId": 4,
+    "question": "Quel sujet hebreu convient ?",
+    "options": ["Cybersecurite et participation citoyenne en Israel", "Mythologie arthurienne", "Portraits royaux", "Monuments aux morts britanniques"],
+    "answer": "Cybersecurite et participation citoyenne en Israel",
+    "explanation": "Il relie innovation numerique, pouvoir, securite et citoyennete."
+  },
+  {
+    "id": "a5-q1",
+    "axisId": 5,
+    "question": "Que met en relation l'axe « Fictions et realites » ?",
+    "options": ["Recits, imaginaire et monde reel", "Frontieres douanieres seulement", "Vie privee et teletravail", "Vaccins et ONG"],
+    "answer": "Recits, imaginaire et monde reel",
+    "explanation": "L'axe etudie comment fiction et realite se nourrissent mutuellement."
+  },
+  {
+    "id": "a5-q2",
+    "axisId": 5,
+    "question": "Quel mot-cle officiel convient ?",
+    "options": ["Dystopies", "Wikis", "Parite", "Covoiturage"],
+    "answer": "Dystopies",
+    "explanation": "Les dystopies sont citees dans les mots-cles officiels."
+  },
+  {
+    "id": "a5-q3",
+    "axisId": 5,
+    "question": "Quel exemple anglais est pertinent ?",
+    "options": ["The Handmaid's Tale", "Le dessalement", "Le droit de la famille", "L'amnistie"],
+    "answer": "The Handmaid's Tale",
+    "explanation": "Cette fiction dystopique interroge pouvoir, genre et societe."
+  },
+  {
+    "id": "a5-q4",
+    "axisId": 5,
+    "question": "En hebreu, quelle piste est naturelle ?",
+    "options": ["Les recits bibliques et modernes", "Les paiements virtuels", "Le recyclage", "La protection des donnees uniquement"],
+    "answer": "Les recits bibliques et modernes",
+    "explanation": "Ils nourrissent les imaginaires, valeurs et representations collectives."
+  },
+  {
+    "id": "a5-q5",
+    "axisId": 5,
+    "question": "Pourquoi les super-heros peuvent-ils etre utiles ?",
+    "options": ["Ils incarnent des valeurs et des peurs sociales", "Ils prouvent que la realite est fausse", "Ils remplacent tous les mythes", "Ils concernent seulement les enfants"],
+    "answer": "Ils incarnent des valeurs et des peurs sociales",
+    "explanation": "Ils permettent d'analyser des modeles collectifs et leurs evolutions."
+  },
+  {
+    "id": "a6-q1",
+    "axisId": 6,
+    "question": "Quelle question resume l'axe 6 ?",
+    "options": ["Le progres scientifique implique-t-il une responsabilite ?", "La fiction remplace-t-elle l'histoire ?", "Qui controle le street art ?", "Comment definir l'espace religieux ?"],
+    "answer": "Le progres scientifique implique-t-il une responsabilite ?",
+    "explanation": "L'axe traite l'ethique du progres et les effets des innovations."
+  },
+  {
+    "id": "a6-q2",
+    "axisId": 6,
+    "question": "Quel mot-cle officiel appartient a cet axe ?",
+    "options": ["Energies renouvelables", "Satires", "Droit d'asile", "Figures tutelaires"],
+    "answer": "Energies renouvelables",
+    "explanation": "Les energies renouvelables relient innovation, environnement et responsabilite."
+  },
+  {
+    "id": "a6-q3",
+    "axisId": 6,
+    "question": "Quel exemple hebreu est pertinent ?",
+    "options": ["Le dessalement de l'eau", "Les suffragettes", "Le 9/11 Memorial", "La generation Windrush"],
+    "answer": "Le dessalement de l'eau",
+    "explanation": "Israel est souvent etudie pour ses innovations liees a l'eau et a l'agriculture."
+  },
+  {
+    "id": "a6-q4",
+    "axisId": 6,
+    "question": "Quel est le meilleur angle argumentatif ?",
+    "options": ["Comparer benefices et risques du progres", "Dire que toute innovation est mauvaise", "Ignorer les citoyens", "Parler seulement de science-fiction"],
+    "answer": "Comparer benefices et risques du progres",
+    "explanation": "La nuance est essentielle : progres, ethique, derives et cooperation."
+  },
+  {
+    "id": "a6-q5",
+    "axisId": 6,
+    "question": "Quel sujet anglais convient ?",
+    "options": ["AI regulation and accountability", "Arthurian legends", "Women in Parliament only", "National anthems only"],
+    "answer": "AI regulation and accountability",
+    "explanation": "L'intelligence artificielle pose des questions de responsabilite et d'encadrement."
+  },
+  {
+    "id": "a7-q1",
+    "axisId": 7,
+    "question": "Quelle distinction est importante dans l'axe 7 ?",
+    "options": ["Diversite ne signifie pas toujours inclusion", "Memoire et histoire sont identiques", "Art et pouvoir sont sans lien", "Le numerique est toujours prive"],
+    "answer": "Diversite ne signifie pas toujours inclusion",
+    "explanation": "Une societe peut etre diverse sans donner les memes droits et places a tous."
+  },
+  {
+    "id": "a7-q2",
+    "axisId": 7,
+    "question": "Quel mot-cle officiel convient ?",
+    "options": ["Minorites", "Robots", "Affiches", "Tourisme"],
+    "answer": "Minorites",
+    "explanation": "Les minorites sont au coeur des questions de diversite et d'inclusion."
+  },
+  {
+    "id": "a7-q3",
+    "axisId": 7,
+    "question": "Quel exemple anglais est adapte ?",
+    "options": ["Civil rights movement", "Dessalement", "Banksy uniquement", "Droit d'asile exclusivement"],
+    "answer": "Civil rights movement",
+    "explanation": "Le mouvement des droits civiques traite egalite, discrimination et inclusion."
+  },
+  {
+    "id": "a7-q4",
+    "axisId": 7,
+    "question": "Quel sujet hebreu est pertinent ?",
+    "options": ["Integration de minorites linguistiques et culturelles", "Utopies britanniques", "Films de propagande americains", "Teletravail seulement"],
+    "answer": "Integration de minorites linguistiques et culturelles",
+    "explanation": "Il correspond aux enjeux de cohesion dans une societe plurielle."
+  },
+  {
+    "id": "a7-q5",
+    "axisId": 7,
+    "question": "Quelle discipline peut nourrir cet axe selon le programme ?",
+    "options": ["Droit et sociologie", "Uniquement mathematiques", "Seulement geologie", "Aucune discipline"],
+    "answer": "Droit et sociologie",
+    "explanation": "Le programme cite les arts, sciences, droit, geopolitique et sociologie."
+  },
+  {
+    "id": "a8-q1",
+    "axisId": 8,
+    "question": "Quel couple de notions structure « Territoire et memoire » ?",
+    "options": ["Histoire et memoires", "Robots et vaccins", "Teletravail et forums", "Utopies et super-heros uniquement"],
+    "answer": "Histoire et memoires",
+    "explanation": "L'axe questionne la construction et la transmission de l'heritage collectif."
+  },
+  {
+    "id": "a8-q2",
+    "axisId": 8,
+    "question": "Quel mot-cle officiel convient ?",
+    "options": ["Memoriaux", "Cyber-harcelement", "Parite", "Clonage"],
+    "answer": "Memoriaux",
+    "explanation": "Les lieux de memoire et memoriaux sont au coeur de cet axe."
+  },
+  {
+    "id": "a8-q3",
+    "axisId": 8,
+    "question": "Quel exemple hebreu est pertinent ?",
+    "options": ["Yad Vashem", "Cambridge Analytica", "Marvel", "Windrush"],
+    "answer": "Yad Vashem",
+    "explanation": "Yad Vashem est un lieu majeur de memoire et de transmission."
+  },
+  {
+    "id": "a8-q4",
+    "axisId": 8,
+    "question": "Quelle question est adaptee a l'anglais ?",
+    "options": ["Who decides which historical narratives deserve public space?", "Can cloning improve every society?", "Do social networks always tell the truth?", "Is telework a religious space?"],
+    "answer": "Who decides which historical narratives deserve public space?",
+    "explanation": "Elle relie monuments, memoire officielle, contestations et espace public."
+  },
+  {
+    "id": "a8-q5",
+    "axisId": 8,
+    "question": "Quelle nuance faut-il maitriser ?",
+    "options": ["La memoire est subjective et l'histoire vise une demarche critique", "La memoire efface toujours l'histoire", "Un territoire n'a jamais de symboles", "Les commemorations sont apolitiques"],
+    "answer": "La memoire est subjective et l'histoire vise une demarche critique",
+    "explanation": "Cette distinction aide a analyser les tensions entre recits individuels, collectifs et officiels."
+  }
+]

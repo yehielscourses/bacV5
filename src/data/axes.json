@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "slug": "identites-et-echanges",
+    "title": "Identites et echanges",
+    "difficulty": "Facile",
+    "description": "Quel role joue la mondialisation dans le dynamisme de la vie sociale, culturelle et economique dans chaque aire geographique ? Favorise-t-elle la diversite ou la menace-t-elle ? Entraine-t-elle une affirmation de la particularite ? Modifie-t-elle la particularite locale ou individuelle au profit d'une « citoyennete mondiale » ? La mobilite (intellectuelle, physique...) caracterise le monde actuel et implique la multiplication des contacts, des echanges, des partenariats tout en posant les questions de l'acculturation, de l'integration, de l'adaptation, de l'inclusion, etc. Cette mobilite suppose le franchissement de frontieres geographiques et politiques. Les questions liees a l'ouverture et a la fermeture des frontieres sont a la source de nombreuses tensions qui sont traitees differemment selon l'histoire et la culture des zones geographiques concernees. Le terme de frontiere est apprehende dans ses differentes acceptions (frontiere historique, culturelle, linguistique, etc.). Les eleves reflechissent en particulier aux frontieres qui existent au sein d'une societe entre des groupes differents (entre generations, groupes sociaux, quartiers, clans...). La perception de la mondialisation comme le sentiment de frontiere, la realite des echanges et de la mobilite dependent de la culture et de l'aire geographique etudiees et il conviendra de les aborder dans ce cadre specifique.",
+    "keywords": ["frontieres", "conflits", "contacts", "ghettos", "migrations", "exils", "hospitalite", "droit d'asile", "choc des cultures", "incomprehension culturelle et-ou linguistique", "frontieres invisibles", "solidarite", "transgression", "protectionnisme", "mobilite", "declassement social", "ascension sociale", "voyages", "depaysement", "tourisme", "accueil", "mediation", "dialogue", "mixite", "partage"],
+    "problematiques": {
+      "anglais": ["To what extent does globalisation reshape British and American identities?", "Can immigration be both a challenge and a source of cultural renewal in English-speaking societies?", "Do borders protect national identity or prevent human solidarity?"],
+      "hebreu": ["Comment les migrations successives ont-elles construit l'identite israelienne moderne ?", "L'hebreu peut-il devenir un espace commun pour des populations d'origines tres diverses ?", "Les frontieres physiques et symboliques favorisent-elles ou limitent-elles le dialogue dans la societe israelienne ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Observer comment mobilites, frontieres et mondialisation transforment les identites individuelles et collectives." },
+      { "front": "Exemple anglais", "back": "Windrush generation, multicultural London, Brexit, American dream, border debates." },
+      { "front": "Exemple hebreu", "back": "Alyah, integration des vagues migratoires, melting-pot israelien, place de l'hebreu moderne." },
+      { "front": "Piege a eviter", "back": "Reduire l'axe a l'immigration : il inclut aussi tourisme, echanges culturels, mobilite sociale et frontieres invisibles." }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "espace-prive-espace-public",
+    "title": "Espace prive et espace public",
+    "difficulty": "Intermediaire",
+    "description": "Comment la frontiere entre espace public et espace prive est-elle tracee en fonction des cultures, des croyances, des traditions et comment evolue-t-elle dans le temps dans chaque aire geographique etudiee ? L'espace prive (l'habitation) prend des formes et des dimensions variables et s'ouvre sur l'exterieur (la rue, les regards, les invites...) selon des modalites multiples. Etudier les differentes configurations d'espaces prives et publics, leur frequentation et leurs transformations permet de mieux comprendre comment est structuree une societe. Par exemple, les femmes ont longtemps ete, ou sont encore, cantonnees a la sphere privee ; leur acces a la sphere publique (politique, professionnelle, mediatique, sociale) est un mouvement general qui reste d'actualite. La redistribution des roles au sein de la famille est une consequence de cette emancipation. Comment s'operent les mutations au sein de ces deux espaces prive et public (famille, espaces de sociabilite, travail...) ? Les langues elles-memes, dans leur usage, sont conditionnees par cette distinction (argots, registres...) et les cultures etudiees laissent apparaitre des variations qu'il convient de relever.",
+    "keywords": ["egalite homme-femme", "parite", "machisme", "feminisme", "droit de la famille", "education", "liberte de mouvement", "emancipation", "mixite", "emancipation", "teletravail", "lieux de convivialite", "type d'habitat", "espaces publics", "espaces religieux"],
+    "problematiques": {
+      "anglais": ["How have women claimed a stronger voice in British and American public life?", "Do social media blur the line between private life and public identity?", "Can the home become a political space in English-speaking societies?"],
+      "hebreu": ["Comment les espaces religieux, familiaux et civiques organisent-ils la vie sociale en Israel ?", "La place des femmes dans l'espace public israelien revele-t-elle les tensions entre tradition et modernite ?", "Le service militaire et la vie collective transforment-ils la frontiere entre intime et public ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Analyser ce qui releve de l'intime, du domestique, du religieux, du professionnel et du politique." },
+      { "front": "Exemple anglais", "back": "Suffragettes, #MeToo, suburbs, remote work, privacy debates." },
+      { "front": "Exemple hebreu", "back": "Kibboutz, place du shabbat, espaces mixtes ou separes, femmes en politique et dans l'armee." },
+      { "front": "Angle efficace", "back": "Montrer que les espaces changent avec les normes sociales, les technologies et les rapports de pouvoir." }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "art-et-pouvoir",
+    "title": "Art et pouvoir",
+    "difficulty": "Facile",
+    "description": "Comment le rapport entre art et pouvoir definit-il les caracteristiques de chaque aire geographique etudiee a differentes epoques ? Le pouvoir s'est toujours appuye sur l'art et les artistes pour etre celebre, legitime ou renforce. Lorsque l'artiste depend du pouvoir politique ou economique, son oeuvre peut-elle prendre la forme d'une contestation de celui-ci ? Le rapport entre art et pouvoir donne lieu a diverses interrogations : l'art est-il au service du pouvoir ? Le pouvoir sert-il l'art ? L'art peut-il etre un contre-pouvoir ? L'art est-il une forme d'expression politique ? Peut-on concilier liberte de creation et contraintes diverses ? Il conviendra d'etudier comment ce rapport a l'art a evolue dans l'histoire pour chaque culture etudiee.",
+    "keywords": ["architecture (residences, edifices institutionnels...)", "peinture (portraits, art religieux...)", "musique (operas, hymnes, chants...)", "litterature (apologies, satires, dedicaces...)", "cinema (films de propagande, films patriotiques...)", "art officiel", "contre-culture", "underground", "art engage", "resistance", "avant-garde", "affiches", "caricatures", "street art", "censure"],
+    "problematiques": {
+      "anglais": ["Can street art and protest songs challenge political power?", "How have British and American artists represented national myths?", "Is popular culture a tool of resistance or soft power?"],
+      "hebreu": ["Comment la chanson hebraique participe-t-elle a la construction d'une memoire nationale ?", "L'art israelien peut-il critiquer le pouvoir tout en exprimant un attachement au pays ?", "Le cinema hebreu contemporain est-il un espace de debat civique ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Etudier l'art comme outil de legitimation, de propagande, de critique ou de resistance." },
+      { "front": "Exemple anglais", "back": "Banksy, political cartoons, Hamilton, civil rights songs, war posters." },
+      { "front": "Exemple hebreu", "back": "Chansons nationales, cinema israelien, street art a Tel-Aviv ou Jerusalem, satire politique." },
+      { "front": "Bonne formulation", "back": "Art can legitimize power, but it can also question it and give visibility to marginal voices." }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "citoyennete-et-mondes-virtuels",
+    "title": "Citoyennete et mondes virtuels",
+    "difficulty": "Intermediaire",
+    "description": "Comment, au sein de chaque aire geographique etudiee, les rapports du citoyen au pouvoir sont-ils organises et comment ces relations sont-elles modifiees par le developpement du numerique ? Dans un monde numerise et ultra-connecte qui a profondement change la nature des rapports humains, comment evoluent les relations entre le citoyen et le pouvoir ? Restent-elles identiques quelle que soit l'aire culturelle portee par la langue etudiee ? Les nouveaux espaces virtuels semblent representer un progres dans le partage de l'information, l'acces au savoir et la libre expression de chacun. Le recours massif aux medias numeriques conduit cependant a s'interroger sur ses consequences, tantot sur le plan individuel (difficulte a hierarchiser l'information et a demeler le vrai du faux, reduction de l'engagement reel au profit de l'engagement virtuel, permanence des traces numeriques avec atteinte eventuelle a la vie privee, repli sur soi, nouveaux reperes sociaux), tantot sur le plan collectif : les intelligences collectives developpent des espaces collaboratifs (encyclopedies collaboratives, wikis, moocs, webinaires, reseaux sociaux...) qui refondent, au moins en apparence, la nature des relations sociales.",
+    "keywords": ["fausses informations", "reseaux sociaux", "education aux medias", "paiements virtuels", "donnees personnelles", "intelligence artificielle", "wikis", "democratie participative", "censure et controle d'internet", "cyber-harcelement", "liberte d'expression", "usurpation d'identite", "manipulation", "blogs", "forums", "teletravail", "lanceur d'alerte"],
+    "problematiques": {
+      "anglais": ["Do social networks strengthen democracy or weaken public debate?", "Can whistleblowers be considered modern citizens of the digital age?", "How should English-speaking democracies protect privacy without limiting free speech?"],
+      "hebreu": ["Les reseaux sociaux renforcent-ils la participation citoyenne en Israel ?", "Comment la societe israelienne gere-t-elle l'innovation numerique, la securite et la vie privee ?", "Le cyberespace cree-t-il de nouvelles formes de solidarite ou de fragmentation ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Relier citoyennete, pouvoir, information, liberte d'expression et risques numeriques." },
+      { "front": "Exemple anglais", "back": "Fake news, Cambridge Analytica, online activism, digital privacy, whistleblowers." },
+      { "front": "Exemple hebreu", "back": "Start-up nation, mobilisation en ligne, cybersécurite, debats sur les donnees personnelles." },
+      { "front": "Nuance utile", "back": "Le numerique donne une voix aux citoyens, mais amplifie aussi manipulation, surveillance et polarisation." }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "fictions-et-realites",
+    "title": "Fictions et realites",
+    "difficulty": "Facile",
+    "description": "Quels sont les modeles historiques, sociaux ou artistiques dont chaque population a herite et quels sont ceux qu'elle recherche ? Pourquoi se reconnait-on dans une telle representation et comment reconstruit-on son propre modele ethique, esthetique, politique ? Les recits, qu'ils soient reels ou fictifs, ecrits ou oraux, sont a la base du patrimoine culturel des individus et nourrissent l'imaginaire collectif. Comment sont vehicules les croyances, mythes, legendes qui constituent le fondement des civilisations et transcendent parfois les cultures ? Les figures du passe demeurent-elles des sources d'inspiration et de creation ? Comment les icones modernes deviennent-elles l'incarnation de nouvelles valeurs ? Les mondes imaginaires offrent a chacun l'occasion de s'evader de la realite tout en invitant a une reflexion sur le monde reel : comment la realite nourrit-elle la fiction et comment, a son tour, la fiction eclaire-t-elle ou fait-elle evoluer la realite dans une aire culturelle donnee ?",
+    "keywords": ["utopies", "dystopies", "litterature", "mythologie", "legendes", "croyances", "science-fiction", "heros", "sentiment national", "super-heros", "figures tutelaires", "monuments"],
+    "problematiques": {
+      "anglais": ["How do dystopias help English-speaking societies question their present?", "Why do superheroes embody changing American values?", "Can fiction influence political and social reality?"],
+      "hebreu": ["Comment les recits bibliques et modernes nourrissent-ils l'imaginaire hebreu ?", "Les heros nationaux israeliens sont-ils des figures historiques ou des constructions narratives ?", "La fiction hebraique peut-elle aider a penser les tensions du present ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Comprendre comment mythes, recits et imaginaires donnent du sens au reel." },
+      { "front": "Exemple anglais", "back": "1984, The Handmaid's Tale, Marvel, Arthurian legends, national myths." },
+      { "front": "Exemple hebreu", "back": "Textes bibliques, romans israeliens, figures pionnieres, mythes fondateurs." },
+      { "front": "Transition type", "back": "Fiction is not an escape only; it can reveal fears, hopes and contradictions in society." }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "innovations-scientifiques-et-responsabilite",
+    "title": "Innovations scientifiques et responsabilite",
+    "difficulty": "Avance",
+    "description": "Quelles reponses chaque aire geographique etudiee apporte-t-elle aux bouleversements technologiques et scientifiques actuels ? Le progres scientifique est a l'origine d'avancees tres positives pour l'humanite, mais donne egalement lieu a de nombreuses interrogations sur certains effets induits concernant, en particulier, le rechauffement climatique, la reduction de la biodiversite, ou encore l'epuisement des ressources naturelles dans de nombreuses zones de la planete. La prise de conscience des dangers eventuels lies a ces innovations scientifiques nourrit une reflexion sur l'ethique du progres dans une aire culturelle donnee. Le savant est-il responsable des usages de ses decouvertes ? Doit-il s'impliquer dans la sphere publique pour peser sur les decisions politiques ? Quelle marge de manoeuvre possede le citoyen pour faire entendre sa voix ? Comment les societes peuvent-elles prevenir les derives liees aux innovations technologiques ? Les citoyens tentent d'apporter des reponses au quotidien, en adoptant de nouveaux modes de consommation. Les scientifiques, de leur cote, peuvent proposer des solutions qui donnent lieu a diverses formes de cooperation. L'axe invite a observer ces aspects de la question dans l'aire culturelle concernee et d'explorer les similitudes ou les singularites avec d'autres cultures.",
+    "keywords": ["recherche genetique", "vaccins", "robots", "clonage", "OGM", "nanotechnologies", "energies renouvelables", "transport", "eco-citoyen", "ONG", "conquete spatiale", "recyclage", "covoiturage", "surpopulation", "alienation au travail", "biodiversite", "circuit court", "bio", "croissance verte", "pollution", "derives sectaires", "course a l'armement", "mobilisation"],
+    "problematiques": {
+      "anglais": ["Are scientists responsible for the political use of their discoveries?", "Can green innovation reconcile economic growth and climate responsibility?", "How do English-speaking countries debate AI, health and ethics?"],
+      "hebreu": ["La « start-up nation » peut-elle concilier innovation rapide et responsabilite sociale ?", "Comment Israel repond-il aux defis de l'eau, de l'agriculture et de l'environnement ?", "Les innovations militaires et medicales posent-elles les memes questions ethiques ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Interroger les benefices du progres et les responsabilites scientifiques, politiques et citoyennes." },
+      { "front": "Exemple anglais", "back": "AI regulation, vaccines, Silicon Valley, renewable energy, climate activism." },
+      { "front": "Exemple hebreu", "back": "Dessalement, irrigation goutte-a-goutte, high-tech israelienne, medecine, cyberdefense." },
+      { "front": "Vocabulaire cle", "back": "Ethics, sustainability, accountability, breakthrough, side effects, long-term consequences." }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "diversite-et-inclusion",
+    "title": "Diversite et inclusion",
+    "difficulty": "Intermediaire",
+    "description": "Quelles sont, dans chaque aire geographique etudiee, les reponses apportees aux questions posees par l'evolution des societes de plus en plus diverses et ouvertes ? Les langues vivantes jouent un role fondamental pour l'insertion et la cohesion sociales dans des societes de plus en plus cosmopolites. L'etude de la diversite culturelle au sein d'une aire linguistique donnee ou de la variete linguistique au sein d'une aire culturelle favorise une reflexion sur le rapport a l'Autre et permet la mise en place de projets interculturels et plurilingues. D'autres formes de diversite peuvent etre explorees : comment evoluent les relations intergenerationnelles ? L'inclusion de personnes handicapees est-elle effective ? Quels elements culturels conditionnent les relations entre les categories sociales ? Les questions de la diversite et de l'inclusion gagnent a etre abordees ensemble, a travers les arts, les sciences, le droit, la geopolitique, la sociologie, etc.",
+    "keywords": ["handicap", "integration", "liberte de mouvement", "discriminations", "generations", "minorites", "langues officielles et langues non reconnues", "idiolectes", "egalite", "emancipation"],
+    "problematiques": {
+      "anglais": ["Is multiculturalism still a convincing model in the UK and the USA?", "How can language become either a barrier or a tool for inclusion?", "Do laws guarantee real equality for minorities?"],
+      "hebreu": ["Comment la societe israelienne integre-t-elle ses minorites linguistiques, religieuses et culturelles ?", "La diversite des origines renforce-t-elle ou fragilise-t-elle la cohesion nationale ?", "L'hebreu commun suffit-il a creer une inclusion sociale reelle ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Etudier les reponses sociales, politiques et culturelles a la diversite." },
+      { "front": "Exemple anglais", "back": "Civil rights movement, disability rights, multicultural schools, accents and class." },
+      { "front": "Exemple hebreu", "back": "Juifs d'origines diverses, Arabes israeliens, Ethiopiens, russophones, inclusion du handicap." },
+      { "front": "Question de nuance", "back": "Une societe peut etre diverse sans etre pleinement inclusive : il faut distinguer presence et participation." }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "territoire-et-memoire",
+    "title": "Territoire et memoire",
+    "difficulty": "Avance",
+    "description": "Comment s'est construit et se transmet l'heritage collectif dans une aire geographique donnee ? Les espaces regionaux, nationaux et transnationaux offrent des reperes marquants (dates, periodes, lieux, evenements, espaces saisis dans leur evolution temporelle, figures emblematiques, personnages historiques, etc.) et permettent de s'interroger sur la maniere dont se construit et se transmet un heritage collectif. Les commemorations traduisent un besoin d'elaborer et d'exprimer des memoires individuelles et collectives. La multiplication des lieux de memoire pose la question de la relation complexe entre histoire et memoires. La memoire d'un individu ou d'un peuple trouve son reflet dans le patrimoine ; heritage dont l'evolution dans le temps temoigne de la relation que chaque peuple entretient avec son passe et, par extension, la maniere dont il se projette dans l'avenir. A travers la notion d'heritage, les histoires individuelles se confondent avec le destin collectif ; ces points de rencontre et de tension entre les histoires personnelles et la histoire sont a l'origine de nombreux recits (du temoignage au roman historique).",
+    "keywords": ["espaces frontaliers", "monuments aux morts", "memoriaux", "traces de l'histoire", "histoire officielle", "devoir de memoire", "amnistie", "amnesie", "quartier historique", "patrimoine bati"],
+    "problematiques": {
+      "anglais": ["How do memorials shape national identity in the UK and the USA?", "Can a country build a shared future without confronting painful memories?", "Who decides which historical narratives deserve public space?"],
+      "hebreu": ["Comment les lieux de memoire structurent-ils l'identite israelienne contemporaine ?", "Le territoire israelien est-il a la fois espace vecu, espace historique et espace symbolique ?", "Comment transmettre la memoire de la Shoah et des guerres aux jeunes generations ?"]
+    },
+    "flashcards": [
+      { "front": "Idee centrale", "back": "Mettre en relation lieux, patrimoine, commemorations, histoire officielle et memoires individuelles." },
+      { "front": "Exemple anglais", "back": "War memorials, colonial memory, Native American territories, 9/11 Memorial." },
+      { "front": "Exemple hebreu", "back": "Yad Vashem, Jerusalem, Massada, jours de commemoration, recits de survivants." },
+      { "front": "Attention", "back": "Distinguer histoire (travail critique) et memoire (rapport subjectif et collectif au passe)." }
+    ]
+  }
+]
