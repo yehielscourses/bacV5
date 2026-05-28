@@ -1,93 +1,116 @@
-import { Clock, GraduationCap, Shuffle } from "lucide-react";
+import { Clock, Shuffle } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { QuizRunner } from "../components/QuizRunner";
+import { Card } from "../components/ui/Card";
+import { PageHeader } from "../components/ui/PageHeader";
+import { useStudyTrack } from "../context/StudyTrackContext";
 import { axes, getQuestionsForAxis, pickExamQuestions, quizQuestions } from "../utils/axisHelpers";
-import { QuizQuestion } from "../utils/types";
+import type { QuizQuestion } from "../utils/types";
 
 interface QuizExamPageProps {
   onSaveQuiz: (quizId: string, score: number, bonus?: number) => void;
   onSaveExam: (score: number) => void;
 }
 
+type QuizTab = "axis" | "global" | "exam";
+
 export function QuizExamPage({ onSaveQuiz, onSaveExam }: QuizExamPageProps) {
+  const { track, trackLabel } = useStudyTrack();
+  const [tab, setTab] = useState<QuizTab>("axis");
   const [axisId, setAxisId] = useState(1);
   const [globalSeed, setGlobalSeed] = useState(0);
+
   const axisQuestions = getQuestionsForAxis(axisId);
   const globalQuestions = useMemo(
     () => [...quizQuestions].sort(() => Math.random() - 0.5).slice(0, 12),
     [globalSeed],
   );
 
-  return (
-    <div className="grid gap-8 xl:grid-cols-[0.9fr_1.1fr]">
-      <section className="space-y-6">
-        <div className="rounded-[2rem] bg-gradient-to-br from-sky-600 to-teal-500 p-6 text-white shadow-2xl shadow-sky-500/20">
-          <div className="mb-3 flex items-center gap-3">
-            <GraduationCap className="h-7 w-7" />
-            <p className="text-sm font-bold uppercase tracking-[0.22em]">Quiz & Examen</p>
-          </div>
-          <h2 className="text-3xl font-black">S'entrainer en conditions progressives</h2>
-          <p className="mt-3 text-white/85">
-            Commence par un axe, passe au global, puis tente l'examen blanc chronometre.
-          </p>
-        </div>
+  const tabs: { id: QuizTab; label: string }[] = [
+    { id: "axis", label: "Par axe" },
+    { id: "global", label: "Global" },
+    { id: "exam", label: "Examen" },
+  ];
 
-        <div className="glass-card rounded-3xl p-6">
-          <h3 className="text-2xl font-black">Quiz par axe</h3>
+  return (
+    <div>
+      <PageHeader eyebrow={trackLabel} title="Quiz et examen blanc">
+        <p className="text-sm">Chronomètre uniquement en mode examen. Valide chaque réponse avant de passer à la suivante.</p>
+      </PageHeader>
+
+      <div
+        className="mb-6 flex gap-1 rounded-xl border border-slate-200 bg-slate-100 p-1 dark:border-slate-700 dark:bg-slate-800"
+        role="tablist"
+      >
+        {tabs.map(({ id, label }) => (
+          <button
+            key={id}
+            type="button"
+            role="tab"
+            aria-selected={tab === id}
+            onClick={() => setTab(id)}
+            className={`focus-ring flex-1 rounded-lg py-2 text-sm font-semibold transition ${
+              tab === id
+                ? "bg-white text-slate-900 shadow-sm dark:bg-slate-950 dark:text-white"
+                : "text-slate-500"
+            }`}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
+
+      {tab === "axis" && (
+        <Card>
+          <label className="block text-sm font-medium" htmlFor="axis-select">
+            Choisir un axe
+          </label>
           <select
+            id="axis-select"
             value={axisId}
             onChange={(event) => setAxisId(Number(event.target.value))}
-            className="focus-ring mt-4 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 font-semibold dark:border-slate-700 dark:bg-slate-950"
+            className="focus-ring mt-2 w-full rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm dark:border-slate-700 dark:bg-slate-900"
           >
             {axes.map((axis) => (
               <option key={axis.id} value={axis.id}>
-                Axe {axis.id} - {axis.title}
+                Axe {axis.id} — {axis.title}
               </option>
             ))}
           </select>
           <div className="mt-5">
             <QuizRunner
-              key={axisId}
-              compact
+              key={`${axisId}-${track}`}
               questions={axisQuestions}
               title={`Axe ${axisId}`}
-              onFinish={(score) => onSaveQuiz(`axis-${axisId}`, score)}
+              onFinish={(score) => onSaveQuiz(`axis-${axisId}-${track}`, score)}
             />
           </div>
-        </div>
-      </section>
+        </Card>
+      )}
 
-      <section className="space-y-6">
-        <div className="glass-card rounded-3xl p-6">
-          <div className="flex items-center justify-between gap-4">
-            <div>
-              <p className="text-sm font-bold uppercase tracking-[0.22em] text-teal-600 dark:text-teal-300">
-                Quiz global
-              </p>
-              <h3 className="text-2xl font-black">Questions melangees</h3>
-            </div>
+      {tab === "global" && (
+        <Card>
+          <div className="mb-4 flex items-center justify-between">
+            <p className="text-sm font-medium">12 questions mélangées</p>
             <button
               type="button"
-              onClick={() => setGlobalSeed((current) => current + 1)}
-              className="focus-ring rounded-2xl bg-white p-3 text-slate-600 dark:bg-slate-900 dark:text-slate-300"
-              aria-label="Melanger les questions"
+              onClick={() => setGlobalSeed((n) => n + 1)}
+              className="btn-secondary !py-2"
+              aria-label="Mélanger les questions"
             >
-              <Shuffle className="h-5 w-5" />
+              <Shuffle className="h-4 w-4" />
             </button>
           </div>
-          <div className="mt-5">
-            <QuizRunner
-              key={globalSeed}
-              compact
-              questions={globalQuestions}
-              title="Quiz global"
-              onFinish={(score) => onSaveQuiz("global", score, 20)}
-            />
-          </div>
-        </div>
+          <QuizRunner
+            key={`${globalSeed}-${track}`}
+            questions={globalQuestions}
+            title="Quiz global"
+            onFinish={(score) => onSaveQuiz(`global-${track}`, score, 20)}
+          />
+        </Card>
+      )}
 
-        <ExamMode onSaveExam={onSaveExam} />
-      </section>
+      {tab === "exam" && <ExamMode onSaveExam={onSaveExam} />}
     </div>
   );
 }
@@ -97,80 +120,76 @@ function ExamMode({ onSaveExam }: { onSaveExam: (score: number) => void }) {
   const [started, setStarted] = useState(false);
   const [timeLeft, setTimeLeft] = useState(10 * 60);
   const [key, setKey] = useState(0);
+  const [forceFinish, setForceFinish] = useState(false);
 
   useEffect(() => {
     if (!started || timeLeft <= 0) return;
-    const timer = window.setInterval(() => setTimeLeft((current) => current - 1), 1000);
+    const timer = window.setInterval(() => setTimeLeft((t) => t - 1), 1000);
     return () => window.clearInterval(timer);
   }, [started, timeLeft]);
 
-  const minutes = Math.floor(timeLeft / 60)
+  useEffect(() => {
+    if (started && timeLeft <= 0) setForceFinish(true);
+  }, [started, timeLeft]);
+
+  const minutes = Math.floor(Math.max(0, timeLeft) / 60)
     .toString()
     .padStart(2, "0");
-  const seconds = (timeLeft % 60).toString().padStart(2, "0");
+  const seconds = (Math.max(0, timeLeft) % 60).toString().padStart(2, "0");
 
   const restart = () => {
     setQuestions(pickExamQuestions(10));
     setTimeLeft(10 * 60);
     setStarted(true);
-    setKey((current) => current + 1);
+    setForceFinish(false);
+    setKey((k) => k + 1);
   };
 
   return (
-    <div className="glass-card rounded-3xl p-6">
-      <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+    <Card>
+      <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
-          <p className="text-sm font-bold uppercase tracking-[0.22em] text-teal-600 dark:text-teal-300">
-            Mode examen blanc
-          </p>
-          <h3 className="text-2xl font-black">10 questions avec timer</h3>
+          <h3 className="font-bold">Examen blanc</h3>
+          <p className="text-xs text-slate-500">10 questions · 10 minutes</p>
         </div>
-        <div className="inline-flex items-center gap-2 rounded-2xl bg-slate-950 px-4 py-3 font-black text-white dark:bg-white dark:text-slate-950">
-          <Clock className="h-5 w-5" />
-          {minutes}:{seconds}
-        </div>
+        {started && (
+          <div
+            className={`inline-flex items-center gap-2 rounded-xl px-3 py-2 font-mono text-lg font-bold ${
+              timeLeft <= 60 ? "bg-rose-100 text-rose-800 dark:bg-rose-500/20" : "bg-slate-100 dark:bg-slate-800"
+            }`}
+          >
+            <Clock className="h-4 w-4" />
+            {minutes}:{seconds}
+          </div>
+        )}
       </div>
 
       {!started ? (
-        <button
-          type="button"
-          onClick={() => setStarted(true)}
-          className="focus-ring mt-5 w-full rounded-2xl bg-gradient-to-r from-sky-600 to-teal-500 px-5 py-3 font-bold text-white"
-        >
-          Demarrer l'examen blanc
+        <button type="button" onClick={() => setStarted(true)} className="btn-primary mt-5 w-full">
+          Démarrer
         </button>
-      ) : timeLeft <= 0 ? (
-        <div className="mt-5 rounded-2xl bg-rose-50 p-5 text-rose-800 dark:bg-rose-500/15 dark:text-rose-100">
-          Temps ecoule. Relance un examen pour t'entrainer avec un nouveau tirage.
-          <button
-            type="button"
-            onClick={restart}
-            className="focus-ring mt-4 block rounded-xl bg-rose-600 px-4 py-2 font-bold text-white"
-          >
-            Relancer
-          </button>
-        </div>
       ) : (
         <div className="mt-5">
+          {timeLeft <= 0 && (
+            <p className="mb-3 text-sm font-medium text-rose-700 dark:text-rose-300">Temps écoulé — score enregistré.</p>
+          )}
           <QuizRunner
             key={key}
-            compact
             questions={questions}
             title="Examen blanc"
+            forceFinish={forceFinish}
+            onForceFinishHandled={() => setStarted(false)}
             onFinish={(score) => {
               setStarted(false);
+              setForceFinish(false);
               onSaveExam(score);
             }}
           />
-          <button
-            type="button"
-            onClick={restart}
-            className="focus-ring mt-4 rounded-2xl bg-white px-4 py-2 font-bold text-slate-600 dark:bg-slate-900 dark:text-slate-300"
-          >
+          <button type="button" onClick={restart} className="btn-secondary mt-3 text-sm">
             Nouveau tirage
           </button>
         </div>
       )}
-    </div>
+    </Card>
   );
 }

@@ -1,13 +1,21 @@
 import { useCallback } from "react";
-import { ProgressState } from "../utils/types";
+import type { ProgressState, StudyTrack } from "../utils/types";
 import { useLocalStorage } from "./useLocalStorage";
 
 const initialProgress: ProgressState = {
   completedAxes: [],
+  lvaCompletedAxes: [],
+  lvbCompletedAxes: [],
   quizScores: {},
   points: 0,
   diagnosticsDone: 0,
 };
+
+function migrateProgress(raw: ProgressState): ProgressState {
+  const lva = raw.lvaCompletedAxes?.length ? raw.lvaCompletedAxes : raw.completedAxes;
+  const lvb = raw.lvbCompletedAxes?.length ? raw.lvbCompletedAxes : [];
+  return { ...raw, lvaCompletedAxes: lva, lvbCompletedAxes: lvb, completedAxes: raw.completedAxes ?? [] };
+}
 
 export function useProgress() {
   const [progress, setProgress] = useLocalStorage<ProgressState>(
@@ -15,17 +23,24 @@ export function useProgress() {
     initialProgress,
   );
 
-  const completeAxis = useCallback(
-    (axisId: number) => {
-      setProgress((current) => {
-        if (current.completedAxes.includes(axisId)) {
-          return current;
-        }
+  const safeProgress = migrateProgress(progress);
 
+  const completeAxis = useCallback(
+    (axisId: number, track: StudyTrack) => {
+      setProgress((current) => {
+        const base = migrateProgress(current);
+        const key = track === "lva" ? "lvaCompletedAxes" : "lvbCompletedAxes";
+        const list = base[key];
+        if (list.includes(axisId)) {
+          return {
+            ...base,
+            [key]: list.filter((id) => id !== axisId),
+          };
+        }
         return {
-          ...current,
-          completedAxes: [...current.completedAxes, axisId],
-          points: current.points + 25,
+          ...base,
+          [key]: [...list, axisId],
+          points: base.points + 25,
         };
       });
     },
@@ -35,16 +50,17 @@ export function useProgress() {
   const saveQuizScore = useCallback(
     (quizId: string, score: number, bonus = 0) => {
       setProgress((current) => {
-        const previous = current.quizScores[quizId] ?? -1;
+        const base = migrateProgress(current);
+        const previous = base.quizScores[quizId] ?? -1;
         const improved = score > previous;
 
         return {
-          ...current,
+          ...base,
           quizScores: {
-            ...current.quizScores,
+            ...base.quizScores,
             [quizId]: Math.max(previous, score),
           },
-          points: improved ? current.points + score * 10 + bonus : current.points,
+          points: improved ? base.points + score * 10 + bonus : base.points,
         };
       });
     },
@@ -53,27 +69,34 @@ export function useProgress() {
 
   const saveExamScore = useCallback(
     (score: number) => {
-      setProgress((current) => ({
-        ...current,
-        examBestScore: Math.max(current.examBestScore ?? 0, score),
-        points: score > (current.examBestScore ?? 0) ? current.points + score * 15 : current.points,
-      }));
+      setProgress((current) => {
+        const base = migrateProgress(current);
+        return {
+          ...base,
+          examBestScore: Math.max(base.examBestScore ?? 0, score),
+          points:
+            score > (base.examBestScore ?? 0) ? base.points + score * 15 : base.points,
+        };
+      });
     },
     [setProgress],
   );
 
   const markDiagnosticDone = useCallback(() => {
-    setProgress((current) => ({
-      ...current,
-      diagnosticsDone: current.diagnosticsDone + 1,
-      points: current.points + 20,
-    }));
+    setProgress((current) => {
+      const base = migrateProgress(current);
+      return {
+        ...base,
+        diagnosticsDone: base.diagnosticsDone + 1,
+        points: base.points + 20,
+      };
+    });
   }, [setProgress]);
 
   const resetProgress = useCallback(() => setProgress(initialProgress), [setProgress]);
 
   return {
-    progress,
+    progress: safeProgress,
     completeAxis,
     saveQuizScore,
     saveExamScore,

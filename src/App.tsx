@@ -8,15 +8,25 @@ import { ConseilsPage } from "./pages/ConseilsPage";
 import { HomePage } from "./pages/HomePage";
 import { MethodesPage } from "./pages/MethodesPage";
 import { QuizExamPage } from "./pages/QuizExamPage";
+import { useStudyTrack } from "./context/StudyTrackContext";
+import { completedAxesForTrack } from "./utils/axisHelpers";
+
+function AxisDetailRoute() {
+  const { progress, completeAxis, saveQuizScore } = useProgress();
+  const { track } = useStudyTrack();
+  const completed = completedAxesForTrack(progress, track);
+
+  return (
+    <AxisDetailPage
+      completed={completed}
+      onCompleteAxis={(id) => completeAxis(id, track)}
+      onSaveQuiz={saveQuizScore}
+    />
+  );
+}
 
 export default function App() {
-  const {
-    progress,
-    completeAxis,
-    saveQuizScore,
-    saveExamScore,
-    markDiagnosticDone,
-  } = useProgress();
+  const { progress, saveQuizScore, saveExamScore, markDiagnosticDone } = useProgress();
   const { theme, toggleTheme } = useTheme();
 
   return (
@@ -24,16 +34,7 @@ export default function App() {
       <Route element={<Layout progress={progress} theme={theme} onToggleTheme={toggleTheme} />}>
         <Route path="/" element={<HomePage onDiagnosticDone={markDiagnosticDone} />} />
         <Route path="/axes" element={<AxesPage progress={progress} />} />
-        <Route
-          path="/axes/:slug"
-          element={
-            <AxisDetailPage
-              completed={progress.completedAxes}
-              onCompleteAxis={completeAxis}
-              onSaveQuiz={saveQuizScore}
-            />
-          }
-        />
+        <Route path="/axes/:slug" element={<AxisDetailRoute />} />
         <Route
           path="/quiz"
           element={<QuizExamPage onSaveQuiz={saveQuizScore} onSaveExam={saveExamScore} />}

@@ -8,13 +8,13 @@ export function ProgressBar({ value, label }: ProgressBarProps) {
 
   return (
     <div>
-      <div className="mb-2 flex items-center justify-between text-sm font-medium text-slate-600 dark:text-slate-300">
+      <div className="mb-1 flex items-center justify-between text-xs font-medium text-slate-500 dark:text-slate-400">
         <span>{label ?? "Progression"}</span>
         <span>{Math.round(safeValue)}%</span>
       </div>
-      <div className="h-3 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
+      <div className="h-1.5 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
         <div
-          className="h-full rounded-full bg-gradient-to-r from-sky-500 to-emerald-400 transition-all duration-700"
+          className="h-full rounded-full bg-[var(--track-accent)] transition-all duration-500"
           style={{ width: `${safeValue}%` }}
         />
       </div>
