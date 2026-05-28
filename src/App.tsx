@@ -32,7 +32,7 @@ export default function App() {
   return (
     <Routes>
       <Route element={<Layout progress={progress} theme={theme} onToggleTheme={toggleTheme} />}>
-        <Route path="/" element={<HomePage onDiagnosticDone={markDiagnosticDone} />} />
+        <Route path="/" element={<HomePage onDiagnosticDone={(t) => markDiagnosticDone(t)} />} />
         <Route path="/axes" element={<AxesPage progress={progress} />} />
         <Route path="/axes/:slug" element={<AxisDetailRoute />} />
         <Route

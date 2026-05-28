@@ -82,16 +82,23 @@ export function useProgress() {
     [setProgress],
   );
 
-  const markDiagnosticDone = useCallback(() => {
-    setProgress((current) => {
-      const base = migrateProgress(current);
-      return {
-        ...base,
-        diagnosticsDone: base.diagnosticsDone + 1,
-        points: base.points + 20,
-      };
-    });
-  }, [setProgress]);
+  const markDiagnosticDone = useCallback(
+    (track: StudyTrack) => {
+      setProgress((current) => {
+        const base = migrateProgress(current);
+        const key = track === "lva" ? "diagnosticsLvaDone" : "diagnosticsLvbDone";
+        const already = (base[key] ?? 0) > 0;
+        if (already) return base;
+        return {
+          ...base,
+          diagnosticsDone: base.diagnosticsDone + 1,
+          [key]: 1,
+          points: base.points + 20,
+        };
+      });
+    },
+    [setProgress],
+  );
 
   const resetProgress = useCallback(() => setProgress(initialProgress), [setProgress]);
 

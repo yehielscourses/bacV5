@@ -1,0 +1,106 @@
+{
+  "lva": {
+    "notions": {
+      "1": [
+        "Je peux citer un exemple UK/USA (migrations, frontières, identité).",
+        "Je peux expliquer comment la mobilité transforme une société anglophone.",
+        "Je peux poser une problématique sur échanges et frontières.",
+        "Je peux relier mondialisation et diversité culturelle."
+      ],
+      "2": [
+        "Je peux illustrer la place des femmes dans la sphère publique anglophone.",
+        "Je peux distinguer espace privé et espace public avec un exemple.",
+        "Je peux parler du télétravail ou des réseaux et de l'intimité.",
+        "Je peux nuancer tradition et émancipation dans un discours."
+      ],
+      "3": [
+        "Je peux citer un exemple d'art engagé ou de censure (UK/USA).",
+        "Je peux expliquer le lien art / pouvoir / propagande.",
+        "Je peux analyser street art ou chanson comme contre-pouvoir.",
+        "Je peux distinguer art officiel et contre-culture."
+      ],
+      "4": [
+        "Je peux parler de fake news ou de liberté d'expression avec un exemple.",
+        "Je peux expliquer citoyenneté numérique et données personnelles.",
+        "Je peux citer un lanceur d'alerte ou un débat démocratique récent.",
+        "Je peux nuancer bénéfices et risques des réseaux sociaux."
+      ],
+      "5": [
+        "Je peux relier dystopie ou super-héros à une société anglophone.",
+        "Je peux expliquer mythe national ou figure tutélaire.",
+        "Je peux montrer comment la fiction éclaire le réel.",
+        "Je peux citer une œuvre (roman, film) et son enjeu social."
+      ],
+      "6": [
+        "Je peux argumenter sur IA, climat ou éthique scientifique (UK/USA).",
+        "Je peux expliquer responsabilité du chercheur et du citoyen.",
+        "Je peux citer une innovation et ses effets positifs / négatifs.",
+        "Je peux nuancer progrès technique et développement durable."
+      ],
+      "7": [
+        "Je peux parler de multiculturalisme ou de minorités (UK/USA).",
+        "Je peux expliquer inclusion et discriminations avec un exemple.",
+        "Je peux distinguer diversité présente et participation réelle.",
+        "Je peux relier langue, accent et intégration sociale."
+      ],
+      "8": [
+        "Je peux citer un lieu de mémoire ou un monument (UK/USA).",
+        "Je peux distinguer histoire et mémoire.",
+        "Je peux expliquer comment le territoire porte une mémoire collective.",
+        "Je peux parler de commémoration ou de patrimoine bâti."
+      ]
+    }
+  },
+  "lvb": {
+    "notions": {
+      "1": [
+        "Je peux citer un exemple israélien (Alyah, intégration, frontières).",
+        "Je peux expliquer le rôle de l'hébreu moderne dans la société.",
+        "Je peux poser une problématique sur migrations et identité en Israël.",
+        "Je peux relier mobilité et diversité des origines."
+      ],
+      "2": [
+        "Je peux parler des espaces religieux, familiaux ou civiques en Israël.",
+        "Je peux illustrer la place des femmes (tradition / modernité).",
+        "Je peux évoquer service militaire et vie collective.",
+        "Je peux distinguer intime et public dans un exemple concret."
+      ],
+      "3": [
+        "Je peux citer chanson, cinéma ou art israélien engagé.",
+        "Je peux expliquer art et mémoire nationale.",
+        "Je peux analyser critique du pouvoir et attachement au pays.",
+        "Je peux distinguer expression artistique et censure."
+      ],
+      "4": [
+        "Je peux parler de réseaux sociaux et citoyenneté en Israël.",
+        "Je peux expliquer innovation numérique, sécurité et vie privée.",
+        "Je peux citer Start-up nation ou cybersécurité.",
+        "Je peux nuancer solidarité et fragmentation en ligne."
+      ],
+      "5": [
+        "Je peux relier récit biblique ou roman israélien au présent.",
+        "Je peux expliquer héros nationaux ou mythes fondateurs.",
+        "Je peux montrer comment la fiction éclaire une tension actuelle.",
+        "Je peux citer une œuvre hébraïque et son enjeu."
+      ],
+      "6": [
+        "Je peux parler d'eau, agriculture ou high-tech israélienne.",
+        "Je peux expliquer innovation rapide et responsabilité sociale.",
+        "Je peux citer médecine, environnement ou éthique militaire.",
+        "Je peux nuancer progrès et risques technologiques."
+      ],
+      "7": [
+        "Je peux parler de minorités (arabes israéliens, Ethiopiens, etc.).",
+        "Je peux expliquer inclusion linguistique et religieuse.",
+        "Je peux distinguer diversité et cohésion nationale.",
+        "Je peux relier hébreu commun et participation sociale."
+      ],
+      "8": [
+        "Je peux citer Yad Vashem, Jérusalem ou un lieu de mémoire.",
+        "Je peux distinguer histoire et mémoire (Shoah, guerres).",
+        "Je peux expliquer territoire vécu et symbole national.",
+        "Je peux parler de transmission aux jeunes générations."
+      ]
+    }
+  }
+}
