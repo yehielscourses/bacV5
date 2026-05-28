@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
+    "preview:pages": "npm run build && vite preview --base /bacV5/",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "repository": {
