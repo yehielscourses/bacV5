@@ -1,45 +1,174 @@
-# bacV5 — préparation bac général 2026
+# bac-lva-lvb-axes
 
-Dépôt de référence pour un **candidat individuel** (jury J60, académie Grenoble), session **juin 2026** : programmes officiels, notes de service, grilles, fiches méthode et synthèses.
+Mini application web interactive pour reviser les 8 axes du programme de langues vivantes du cycle terminal, avec un focus LVA Anglais et LVB Hebreu.
 
-## Arborescence
+Theme commun : **« Gestes fondateurs et mondes en mouvement »**.
 
+## Fonctionnalites
+
+- Diagnostic rapide de 7 questions avec recommandation personnalisee.
+- Grille des 8 axes avec filtres par langue et difficulte.
+- Fiche detaillee par axe :
+  - resume,
+  - description complete issue du programme officiel,
+  - liste exhaustive des mots-cles,
+  - problematiques adaptees a l'anglais et a l'hebreu,
+  - flashcards,
+  - quiz de 5 questions.
+- Quiz global et quiz par axe.
+- Mode examen blanc : 10 questions avec timer.
+- Pages methodes et conseils :
+  - strategies ecrit/oral,
+  - structures types,
+  - connecteurs et vocabulaire avance,
+  - conseils LVA Anglais et LVB Hebreu.
+- Systeme de points et barre de progression sauvegardes dans `localStorage`.
+- Mode clair/sombre sauvegarde dans `localStorage`.
+- Interface responsive avec animations fluides.
+- Deploiement compatible GitHub Pages.
+
+## Stack technique
+
+- Vite
+- React 18
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- React Router DOM v6
+- Framer Motion
+- localStorage
+- gh-pages
+
+## Structure
+
+```text
+src/
+├── components/
+│   ├── AxisCard.tsx
+│   ├── Layout.tsx
+│   ├── ProgressBar.tsx
+│   └── QuizRunner.tsx
+├── data/
+│   ├── axes.json
+│   └── quizzes.json
+├── hooks/
+│   ├── useLocalStorage.ts
+│   ├── useProgress.ts
+│   └── useTheme.ts
+├── pages/
+│   ├── AxisDetailPage.tsx
+│   ├── AxesPage.tsx
+│   ├── ConseilsPage.tsx
+│   ├── HomePage.tsx
+│   ├── MethodesPage.tsx
+│   └── QuizExamPage.tsx
+├── utils/
+│   ├── axisHelpers.ts
+│   └── types.ts
+├── App.tsx
+├── main.tsx
+└── styles.css
 ```
-downloads/
-├── programmes/          # BO programmes (pdf_version + markdown_version)
-├── notes_de_service/    # NS Eduscol + BO ponctuelles (pdf + md)
-├── grilles/             # Grilles et barèmes (pdf + synthèses md)
-├── fiches/              # Une fiche par épreuve + checklist candidat
-├── cours/               # Cours contenu (reprise après 5e), par chapitre BO
-├── syntheses/           # NSI 7 rubriques, philo notions/auteurs
-├── ressources/          # Œuvres français, liens entraînement
-├── convocation/         # Convocation anonymisée
-└── entrainement/        # Placeholder sujets types / annales
-scripts/
-├── pdf_to_markdown.sh   # PDF → markdown (pdftotext)
-└── update_pdf_refs.py   # Chemins relatifs vers pdf_version/
-```
 
-## Points d’entrée
-
-| Document | Rôle |
-|----------|------|
-| [downloads/fiches/README.md](downloads/fiches/README.md) | Calendrier des épreuves et fiches par matière |
-| [downloads/cours/README.md](downloads/cours/README.md) | Cours markdown par matière (reprise après 5e — **89 leçons rédigées**) |
-| [downloads/programmes/TABLEAU_PROGRAMMES.md](downloads/programmes/TABLEAU_PROGRAMMES.md) | Typologie ponctuelles / terminales → programmes BO |
-| [downloads/LACUNES_POUR_FICHES_REVISION.md](downloads/LACUNES_POUR_FICHES_REVISION.md) | État des lacunes (repo + candidat) |
-| [downloads/notes_de_service/VERIFICATION_NOTES_DE_SERVICE.md](downloads/notes_de_service/VERIFICATION_NOTES_DE_SERVICE.md) | Modalités, coefficients, NS locales |
-| [downloads/convocation/Convocation_Epreuves_Anonymisee.md](downloads/convocation/Convocation_Epreuves_Anonymisee.md) | Créneaux et consignes jour J |
-
-## Maintenance
-
-Après ajout de PDF dans `*/pdf_version/` :
+## Installation locale
 
 ```bash
-bash scripts/pdf_to_markdown.sh
-python3 scripts/update_pdf_refs.py
+npm install
+npm run dev
 ```
 
-Prérequis : `pdftotext` (paquet `poppler-utils`).
+L'application est ensuite disponible sur l'URL affichee par Vite, en general `http://localhost:5173`.
 
-Les NS BO `09`–`12` sont des **bulletins officiels PDF** complets (liens « Télécharger le BO » sur education.gouv.fr) ; rechercher le NOR cible (`MENE2523743N`, etc.) dans le PDF ou le markdown associé.
+## Build de production
+
+```bash
+npm run build
+```
+
+Le dossier genere est `dist/`.
+
+Pour previsualiser le build :
+
+```bash
+npm run preview
+```
+
+## Deploiement sur GitHub Pages
+
+Le projet utilise :
+
+- `base: "./"` dans `vite.config.ts`, afin que les assets fonctionnent sur GitHub Pages ;
+- `HashRouter`, afin d'eviter les erreurs 404 au rechargement d'une route ;
+- le paquet `gh-pages`.
+
+### 1. Verifier le champ `homepage`
+
+Dans `package.json`, adapter si besoin :
+
+```json
+"homepage": "https://<utilisateur>.github.io/<nom-du-repo>/"
+```
+
+Pour ce depot, la valeur configuree est :
+
+```json
+"homepage": "https://yehielscourses.github.io/bacV5/"
+```
+
+### 2. Deployer
+
+```bash
+npm run deploy
+```
+
+Cette commande :
+
+1. lance `npm run build` ;
+2. publie le contenu de `dist/` sur la branche `gh-pages`.
+
+### 3. Activer GitHub Pages
+
+Dans GitHub :
+
+1. ouvrir **Settings** du depot ;
+2. aller dans **Pages** ;
+3. choisir la branche `gh-pages` ;
+4. choisir le dossier `/ (root)` ;
+5. enregistrer.
+
+L'application sera accessible a l'adresse indiquee par GitHub Pages.
+
+## Contenus pedagogiques inclus
+
+Les 8 axes :
+
+1. Identites et echanges
+2. Espace prive et espace public
+3. Art et pouvoir
+4. Citoyennete et mondes virtuels
+5. Fictions et realites
+6. Innovations scientifiques et responsabilite
+7. Diversite et inclusion
+8. Territoire et memoire
+
+Chaque axe contient :
+
+- la description complete du programme officiel ;
+- les mots-cles officiels ;
+- des problematiques adaptees a LVA Anglais et LVB Hebreu ;
+- un niveau de difficulte estime ;
+- des flashcards ;
+- un quiz de 5 questions.
+
+## Scripts disponibles
+
+```bash
+npm run dev      # serveur de developpement
+npm run build    # compilation TypeScript + build Vite
+npm run preview  # previsualisation du build
+npm run deploy   # build + publication GitHub Pages
+```
+
+## Notes
+
+Ce depot conserve aussi les ressources bac historiques dans `downloads/`, `scripts/` et `a-imprimer/`. L'application web se trouve a la racine et dans `src/`.
