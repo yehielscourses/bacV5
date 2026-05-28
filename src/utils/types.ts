@@ -1,5 +1,11 @@
-export type LanguageFilter = "Tous" | "Anglais" | "Hebreu";
-export type Difficulty = "Facile" | "Intermediaire" | "Avance";
+export type StudyTrack = "lva" | "lvb";
+export type Difficulty = "Facile" | "Intermédiaire" | "Avancé";
+
+export interface KeywordEntry {
+  fr: string;
+  en: string;
+  he: string;
+}
 
 export interface Problematiques {
   anglais: string[];
@@ -9,13 +15,14 @@ export interface Problematiques {
 export interface Flashcard {
   front: string;
   back: string;
+  track?: StudyTrack;
 }
 
 export interface Axis {
   id: number;
   slug: string;
   title: string;
-  difficulty: Difficulty;
+  difficulty: Difficulty | "Intermediaire" | "Avance";
   description: string;
   keywords: string[];
   problematiques: Problematiques;
@@ -37,4 +44,6 @@ export interface ProgressState {
   points: number;
   diagnosticsDone: number;
   examBestScore?: number;
+  lvaCompletedAxes: number[];
+  lvbCompletedAxes: number[];
 }

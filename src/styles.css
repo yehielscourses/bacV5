@@ -5,13 +5,40 @@
 :root {
   color-scheme: light;
   font-family:
-    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
     sans-serif;
-  background: #f7fbff;
+  background: #f4f6f8;
+  --track-accent: #2563eb;
+  --track-strong: #1d4ed8;
+  --track-soft: #eff6ff;
+}
+
+:root[data-track="lvb"] {
+  --track-accent: #0d9488;
+  --track-strong: #0f766e;
+  --track-soft: #f0fdfa;
 }
 
 .dark {
   color-scheme: dark;
+  background: #0f1419;
+}
+
+.dark[data-track="lva"] {
+  --track-accent: #60a5fa;
+  --track-strong: #93c5fd;
+  --track-soft: rgba(37, 99, 235, 0.12);
+}
+
+.dark[data-track="lvb"] {
+  --track-accent: #2dd4bf;
+  --track-strong: #5eead4;
+  --track-soft: rgba(13, 148, 136, 0.14);
 }
 
 body {
@@ -26,26 +53,72 @@ select {
   font: inherit;
 }
 
-.glass-card {
-  background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(240, 253, 250, 0.76));
-  border: 1px solid rgba(14, 165, 233, 0.16);
-  box-shadow: 0 20px 60px rgba(15, 23, 42, 0.08);
-  backdrop-filter: blur(18px);
-}
-
-.dark .glass-card {
-  background:
-    linear-gradient(135deg, rgba(15, 23, 42, 0.92), rgba(17, 94, 89, 0.55));
-  border-color: rgba(125, 211, 252, 0.16);
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.22);
-}
-
 .focus-ring {
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 
 .focus-ring:focus-visible {
-  outline-color: #14b8a6;
+  outline-color: var(--track-accent);
+}
+
+.keyword-chip {
+  transform-style: preserve-3d;
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.75rem;
+  background: var(--track-accent);
+  padding: 0.625rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: white;
+  transition: opacity 0.15s ease;
+}
+
+.btn-primary:hover {
+  opacity: 0.92;
+}
+
+.btn-primary:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgb(226 232 240);
+  background: white;
+  padding: 0.625rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: rgb(51 65 85);
+  transition: background 0.15s ease;
+}
+
+.btn-secondary:hover {
+  background: rgb(248 250 252);
+}
+
+.dark .btn-secondary {
+  border-color: rgb(71 85 105);
+  background: rgb(15 23 42);
+  color: rgb(226 232 240);
+}
+
+.dark .btn-secondary:hover {
+  background: rgb(30 41 59);
+}
+
+.learn-emphasis {
+  font-weight: 600;
+  color: var(--track-strong);
 }

@@ -1,9 +1,19 @@
 import { motion } from "framer-motion";
-import { ArrowLeft, BookMarked, CheckCircle2, Languages, ListChecks } from "lucide-react";
+import { ArrowLeft, CheckCircle2 } from "lucide-react";
 import { useMemo, useState } from "react";
 import { Link, Navigate, useParams } from "react-router-dom";
+import { KeywordChip } from "../components/KeywordChip";
 import { QuizRunner } from "../components/QuizRunner";
-import { getAxisBySlug, getQuestionsForAxis, levelColor } from "../utils/axisHelpers";
+import { Card } from "../components/ui/Card";
+import { useStudyTrack } from "../context/StudyTrackContext";
+import {
+  displayDifficulty,
+  flashcardsForTrack,
+  getAxisBySlug,
+  getQuestionsForAxis,
+  levelColor,
+  problematiquesForTrack,
+} from "../utils/axisHelpers";
 
 interface AxisDetailPageProps {
   completed: number[];
@@ -15,128 +25,124 @@ type Tab = "resume" | "detail" | "flashcards" | "quiz";
 
 export function AxisDetailPage({ completed, onCompleteAxis, onSaveQuiz }: AxisDetailPageProps) {
   const { slug } = useParams();
+  const { track, trackLabel } = useStudyTrack();
   const axis = getAxisBySlug(slug);
   const [tab, setTab] = useState<Tab>("resume");
   const [activeCard, setActiveCard] = useState(0);
   const [revealed, setRevealed] = useState(false);
 
   const questions = useMemo(() => (axis ? getQuestionsForAxis(axis.id) : []), [axis]);
+  const flashcards = useMemo(() => (axis ? flashcardsForTrack(axis, track) : []), [axis, track]);
+  const problematiques = useMemo(() => (axis ? problematiquesForTrack(axis, track) : []), [axis, track]);
 
   if (!axis) {
     return <Navigate to="/axes" replace />;
   }
 
   const isCompleted = completed.includes(axis.id);
+  const safeCardIndex = Math.min(activeCard, Math.max(0, flashcards.length - 1));
+
+  const tabs: { id: Tab; label: string }[] = [
+    { id: "resume", label: "Résumé" },
+    { id: "detail", label: "Programme" },
+    { id: "flashcards", label: "Flashcards" },
+    { id: "quiz", label: "Quiz" },
+  ];
 
   return (
     <div>
-      <Link
-        to="/axes"
-        className="focus-ring mb-6 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-bold text-slate-600 shadow-sm dark:bg-slate-900 dark:text-slate-300"
-      >
+      <Link to="/axes" className="btn-secondary mb-5 text-sm">
         <ArrowLeft className="h-4 w-4" />
-        Retour aux axes
+        Axes
       </Link>
 
-      <section className="glass-card rounded-[2rem] p-6 sm:p-8">
-        <div className="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
+      <Card className="mb-6">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
           <div>
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-teal-600 dark:text-teal-300">
-              Axe {axis.id}
+            <p className="text-xs font-semibold text-[var(--track-strong)]">
+              Axe {axis.id} · {trackLabel}
             </p>
-            <h2 className="mt-2 text-4xl font-black">{axis.title}</h2>
-            <span className={`mt-4 inline-flex rounded-full px-3 py-1 text-xs font-bold ${levelColor(axis.difficulty)}`}>
-              {axis.difficulty}
+            <h2 className="mt-1 text-2xl font-bold sm:text-3xl">{axis.title}</h2>
+            <span
+              className={`mt-2 inline-flex rounded-full px-2.5 py-0.5 text-xs font-semibold ${levelColor(axis.difficulty)}`}
+            >
+              {displayDifficulty(axis.difficulty)}
             </span>
           </div>
           <button
             type="button"
             onClick={() => onCompleteAxis(axis.id)}
-            className="focus-ring inline-flex items-center justify-center gap-2 rounded-2xl bg-slate-950 px-5 py-3 font-bold text-white dark:bg-white dark:text-slate-950"
+            className={isCompleted ? "btn-secondary" : "btn-primary"}
           >
-            <CheckCircle2 className="h-5 w-5" />
-            {isCompleted ? "Axe valide" : "Marquer comme revise"}
+            <CheckCircle2 className="h-4 w-4" />
+            {isCompleted ? "Marquer non révisé" : "Marquer révisé"}
           </button>
         </div>
 
-        <div className="mt-8 flex flex-wrap gap-2">
-          {[
-            ["resume", "Resume"],
-            ["detail", "Detail officiel"],
-            ["flashcards", "Flashcards"],
-            ["quiz", "Quiz 5 questions"],
-          ].map(([id, label]) => (
+        <div className="mt-5 flex flex-wrap gap-1.5" role="tablist">
+          {tabs.map(({ id, label }) => (
             <button
               key={id}
               type="button"
-              onClick={() => setTab(id as Tab)}
-              className={`focus-ring rounded-full px-4 py-2 text-sm font-bold transition ${
+              role="tab"
+              aria-selected={tab === id}
+              onClick={() => setTab(id)}
+              className={`focus-ring rounded-lg px-3 py-1.5 text-sm font-medium transition ${
                 tab === id
-                  ? "bg-gradient-to-r from-sky-600 to-teal-500 text-white"
-                  : "bg-white text-slate-600 hover:bg-sky-100 dark:bg-slate-900 dark:text-slate-300"
+                  ? "bg-[var(--track-accent)] text-white"
+                  : "text-slate-600 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800"
               }`}
             >
               {label}
             </button>
           ))}
         </div>
-      </section>
+      </Card>
 
-      <motion.section
-        key={tab}
-        initial={{ opacity: 0, y: 14 }}
-        animate={{ opacity: 1, y: 0 }}
-        className="mt-6"
-      >
+      <motion.div key={tab} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}>
         {tab === "resume" && (
           <div className="grid gap-6 lg:grid-cols-3">
-            <div className="glass-card rounded-3xl p-6 lg:col-span-2">
-              <div className="mb-4 flex items-center gap-3">
-                <BookMarked className="h-6 w-6 text-sky-500" />
-                <h3 className="text-2xl font-black">Resume operationnel</h3>
-              </div>
-              <p className="text-lg leading-8 text-slate-600 dark:text-slate-300">
-                {axis.description.split(". ").slice(0, 4).join(". ")}.
-              </p>
-              <div className="mt-6 grid gap-4 md:grid-cols-2">
-                <LanguageBox title="Problematique Anglais" items={axis.problematiques.anglais} />
-                <LanguageBox title="Problematique Hebreu" items={axis.problematiques.hebreu} />
-              </div>
-            </div>
-            <div className="glass-card rounded-3xl p-6">
-              <div className="mb-4 flex items-center gap-3">
-                <ListChecks className="h-6 w-6 text-teal-500" />
-                <h3 className="text-2xl font-black">Mots-cles</h3>
-              </div>
-              <div className="flex flex-wrap gap-2">
-                {axis.keywords.map((keyword) => (
-                  <span
-                    key={keyword}
-                    className="rounded-full bg-white px-3 py-1 text-sm font-semibold text-slate-600 dark:bg-slate-900 dark:text-slate-300"
+            <Card className="lg:col-span-2">
+              <h3 className="font-bold">Problématiques · {trackLabel}</h3>
+              <ul className="mt-4 space-y-3">
+                {problematiques.map((item) => (
+                  <li
+                    key={item}
+                    className="learn-emphasis rounded-xl border border-[var(--track-accent)]/20 bg-[var(--track-soft)] px-4 py-3 text-sm leading-relaxed"
+                    dir={track === "lvb" ? "rtl" : "ltr"}
                   >
-                    {keyword}
-                  </span>
+                    {item}
+                  </li>
+                ))}
+              </ul>
+            </Card>
+            <Card>
+              <h3 className="font-bold">Mots-clés</h3>
+              <p className="mt-1 text-xs text-slate-500">Français → clic = traduction</p>
+              <div className="mt-3 flex flex-wrap gap-1.5">
+                {axis.keywords.map((keyword) => (
+                  <KeywordChip key={keyword} label={keyword} />
                 ))}
               </div>
-            </div>
+            </Card>
           </div>
         )}
 
         {tab === "detail" && (
-          <div className="glass-card rounded-3xl p-6 sm:p-8">
-            <h3 className="text-2xl font-black">Description complete du programme officiel</h3>
-            <p className="mt-5 whitespace-pre-line text-lg leading-9 text-slate-600 dark:text-slate-300">
+          <Card>
+            <h3 className="font-bold">Description officielle</h3>
+            <p className="mt-4 whitespace-pre-line text-sm leading-relaxed text-slate-600 dark:text-slate-300">
               {axis.description}
             </p>
-          </div>
+          </Card>
         )}
 
-        {tab === "flashcards" && (
-          <div className="grid gap-6 lg:grid-cols-[0.8fr_1.2fr]">
-            <div className="glass-card rounded-3xl p-6">
-              <h3 className="text-2xl font-black">Paquet de flashcards</h3>
-              <div className="mt-5 grid gap-3">
-                {axis.flashcards.map((card, index) => (
+        {tab === "flashcards" && flashcards.length > 0 && (
+          <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.4fr)]">
+            <Card>
+              <h3 className="font-bold">Liste</h3>
+              <div className="mt-3 grid gap-2">
+                {flashcards.map((card, index) => (
                   <button
                     key={card.front}
                     type="button"
@@ -144,59 +150,52 @@ export function AxisDetailPage({ completed, onCompleteAxis, onSaveQuiz }: AxisDe
                       setActiveCard(index);
                       setRevealed(false);
                     }}
-                    className={`focus-ring rounded-2xl p-4 text-left font-bold transition ${
-                      activeCard === index
-                        ? "bg-gradient-to-r from-sky-600 to-teal-500 text-white"
-                        : "bg-white text-slate-700 dark:bg-slate-900 dark:text-slate-200"
+                    className={`focus-ring rounded-xl px-3 py-2 text-left text-sm font-medium transition ${
+                      safeCardIndex === index
+                        ? "bg-[var(--track-accent)] text-white"
+                        : "bg-slate-50 text-slate-700 dark:bg-slate-800 dark:text-slate-200"
                     }`}
                   >
                     {card.front}
                   </button>
                 ))}
               </div>
-            </div>
+            </Card>
             <button
               type="button"
-              onClick={() => setRevealed((current) => !current)}
-              className="focus-ring glass-card min-h-72 rounded-3xl p-8 text-left"
+              onClick={() => setRevealed((v) => !v)}
+              className="focus-ring text-left"
             >
-              <p className="text-sm font-bold uppercase tracking-[0.22em] text-teal-600 dark:text-teal-300">
-                {revealed ? "Reponse" : "Question"}
-              </p>
-              <p className="mt-5 text-3xl font-black leading-tight">
-                {revealed ? axis.flashcards[activeCard].back : axis.flashcards[activeCard].front}
-              </p>
-              <p className="mt-8 text-sm font-semibold text-slate-500 dark:text-slate-400">
-                Clique sur la carte pour {revealed ? "masquer" : "reveler"}.
-              </p>
+              <Card highlight className="min-h-56">
+                <p className="text-xs font-semibold uppercase tracking-widest text-[var(--track-strong)]">
+                  {revealed ? "Réponse" : "Question"}
+                </p>
+                <p
+                  className="learn-emphasis mt-4 text-xl font-bold leading-snug"
+                  dir={revealed && track === "lvb" ? "rtl" : "ltr"}
+                >
+                  {revealed ? flashcards[safeCardIndex].back : flashcards[safeCardIndex].front}
+                </p>
+                <p className="mt-6 text-xs text-slate-500">Cliquer pour {revealed ? "masquer" : "révéler"}</p>
+              </Card>
             </button>
           </div>
+        )}
+
+        {tab === "flashcards" && flashcards.length === 0 && (
+          <Card>
+            <p className="text-sm text-slate-500">Aucune flashcard pour ce parcours.</p>
+          </Card>
         )}
 
         {tab === "quiz" && (
           <QuizRunner
             questions={questions}
-            title={`Quiz axe ${axis.id}`}
-            onFinish={(score) => onSaveQuiz(`axis-${axis.id}`, score)}
+            title={`Quiz · axe ${axis.id}`}
+            onFinish={(score) => onSaveQuiz(`axis-${axis.id}-${track}`, score)}
           />
         )}
-      </motion.section>
-    </div>
-  );
-}
-
-function LanguageBox({ title, items }: { title: string; items: string[] }) {
-  return (
-    <div className="rounded-3xl bg-white p-5 dark:bg-slate-900">
-      <div className="mb-3 flex items-center gap-2 font-black">
-        <Languages className="h-5 w-5 text-teal-500" />
-        {title}
-      </div>
-      <ul className="space-y-2 text-sm leading-6 text-slate-600 dark:text-slate-300">
-        {items.map((item) => (
-          <li key={item}>- {item}</li>
-        ))}
-      </ul>
+      </motion.div>
     </div>
   );
 }

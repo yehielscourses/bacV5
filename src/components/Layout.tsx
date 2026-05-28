@@ -1,7 +1,10 @@
 import { BookOpen, GraduationCap, Home, Moon, PenTool, Sparkles, Sun } from "lucide-react";
 import { NavLink, Outlet } from "react-router-dom";
+import { useStudyTrack } from "../context/StudyTrackContext";
+import { completedAxesForTrack } from "../utils/axisHelpers";
+import type { ProgressState } from "../utils/types";
 import { ProgressBar } from "./ProgressBar";
-import { ProgressState } from "../utils/types";
+import { TrackSwitcher } from "./TrackSwitcher";
 
 interface LayoutProps {
   progress: ProgressState;
@@ -10,60 +13,64 @@ interface LayoutProps {
 }
 
 const navItems = [
-  { to: "/", label: "Diagnostic", icon: Home },
+  { to: "/", label: "Accueil", icon: Home },
   { to: "/axes", label: "Axes", icon: BookOpen },
-  { to: "/quiz", label: "Quiz & examen", icon: GraduationCap },
-  { to: "/methodes", label: "Meilleure note", icon: Sparkles },
+  { to: "/quiz", label: "Quiz", icon: GraduationCap },
+  { to: "/methodes", label: "Méthodes", icon: Sparkles },
   { to: "/conseils", label: "Conseils", icon: PenTool },
 ];
 
 export function Layout({ progress, theme, onToggleTheme }: LayoutProps) {
-  const globalProgress = (progress.completedAxes.length / 8) * 100;
+  const { track, trackShort } = useStudyTrack();
+  const done = completedAxesForTrack(progress, track);
+  const globalProgress = (done.length / 8) * 100;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-sky-50 via-teal-50 to-white text-slate-950 dark:from-slate-950 dark:via-slate-900 dark:to-teal-950 dark:text-white">
-      <header className="sticky top-0 z-30 border-b border-white/60 bg-white/75 backdrop-blur-xl dark:border-slate-800 dark:bg-slate-950/75">
-        <div className="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-            <NavLink to="/" className="flex items-center gap-3">
-              <div className="rounded-2xl bg-gradient-to-br from-sky-500 to-emerald-400 p-3 text-white shadow-lg shadow-sky-500/20">
-                <GraduationCap className="h-7 w-7" />
-              </div>
-              <div>
-                <p className="text-xs font-semibold uppercase tracking-[0.24em] text-teal-600 dark:text-teal-300">
-                  Gestes fondateurs
-                </p>
-                <h1 className="text-xl font-black sm:text-2xl">bac-lva-lvb-axes</h1>
-              </div>
+    <div className="min-h-screen bg-[#f4f6f8] text-slate-900 dark:bg-[#0f1419] dark:text-slate-100">
+      <header className="sticky top-0 z-30 border-b border-slate-200/80 bg-white/90 backdrop-blur-md dark:border-slate-800 dark:bg-slate-950/90">
+        <div className="mx-auto max-w-6xl px-4 py-3 sm:px-6">
+          <div className="flex items-center justify-between gap-3">
+            <NavLink to="/" className="min-w-0">
+              <p className="text-[10px] font-semibold uppercase tracking-widest text-[var(--track-strong)]">
+                Gestes fondateurs
+              </p>
+              <h1 className="truncate text-lg font-bold">Révision Bac · {trackShort}</h1>
             </NavLink>
-
-            <div className="flex items-center gap-3">
-              <div className="rounded-2xl border border-sky-100 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200">
+            <div className="flex shrink-0 items-center gap-2">
+              <span
+                className="hidden rounded-lg bg-slate-100 px-2.5 py-1 text-xs font-semibold text-slate-600 sm:inline dark:bg-slate-800 dark:text-slate-300"
+                title="Points gagnés (quiz, axes, diagnostic)"
+              >
                 {progress.points} pts
-              </div>
+              </span>
               <button
-                className="focus-ring rounded-2xl border border-sky-100 bg-white p-3 text-slate-700 shadow-sm transition hover:-translate-y-0.5 hover:border-teal-300 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200"
+                className="btn-secondary !p-2"
                 onClick={onToggleTheme}
                 type="button"
-                aria-label="Basculer le theme"
+                aria-label="Basculer le thème clair / sombre"
               >
-                {theme === "dark" ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+                {theme === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
               </button>
             </div>
           </div>
 
-          <nav className="flex gap-2 overflow-x-auto pb-1">
+          <div className="mt-3">
+            <TrackSwitcher compact />
+          </div>
+
+          <nav className="mt-3 flex gap-1 overflow-x-auto pb-0.5" aria-label="Navigation principale">
             {navItems.map((item) => {
               const Icon = item.icon;
               return (
                 <NavLink
                   key={item.to}
                   to={item.to}
+                  end={item.to === "/"}
                   className={({ isActive }) =>
-                    `flex shrink-0 items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition ${
+                    `flex shrink-0 items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-medium transition ${
                       isActive
-                        ? "bg-slate-950 text-white shadow-lg shadow-sky-500/20 dark:bg-white dark:text-slate-950"
-                        : "bg-white/80 text-slate-600 hover:bg-sky-100 dark:bg-slate-900/80 dark:text-slate-300 dark:hover:bg-slate-800"
+                        ? "bg-[var(--track-accent)] text-white"
+                        : "text-slate-600 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800"
                     }`
                   }
                 >
@@ -73,11 +80,14 @@ export function Layout({ progress, theme, onToggleTheme }: LayoutProps) {
               );
             })}
           </nav>
-          <ProgressBar value={globalProgress} label={`${progress.completedAxes.length}/8 axes valides`} />
+
+          <div className="mt-3">
+            <ProgressBar value={globalProgress} label={`${done.length}/8 axes · ${trackShort}`} />
+          </div>
         </div>
       </header>
 
-      <main className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
+      <main className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-8">
         <Outlet />
       </main>
     </div>
